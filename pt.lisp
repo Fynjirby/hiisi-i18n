@@ -1,6 +1,10 @@
 ;;; Portuguese translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Português")
+ (:lang-flag . "🇵🇹")
+
  ;; Navigation
  (:nav-translate . "Traduzir")
  (:nav-review . "Revisar")

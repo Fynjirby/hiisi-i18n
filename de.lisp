@@ -1,6 +1,10 @@
 ;;; German translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Deutsch")
+ (:lang-flag . "🇩🇪")
+
  ;; Navigation
  (:nav-translate . "Übersetzen")
  (:nav-review . "Wiederholen")

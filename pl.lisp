@@ -1,6 +1,10 @@
 ;;; Polish translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Polski")
+ (:lang-flag . "🇵🇱")
+
  ;; Navigation
  (:nav-translate . "Tłumacz")
  (:nav-review . "Powtórka")

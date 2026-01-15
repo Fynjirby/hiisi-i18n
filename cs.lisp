@@ -1,6 +1,10 @@
 ;;; Czech translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Čeština")
+ (:lang-flag . "🇨🇿")
+
  ;; Navigation
  (:nav-translate . "Přeložit")
  (:nav-review . "Opakování")

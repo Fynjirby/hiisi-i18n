@@ -1,6 +1,10 @@
 ;;; Swedish translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Svenska")
+ (:lang-flag . "🇸🇪")
+
  ;; Navigation
  (:nav-translate . "Översätt")
  (:nav-review . "Repetera")

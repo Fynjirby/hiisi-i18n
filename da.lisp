@@ -1,6 +1,10 @@
 ;;; Danish translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Dansk")
+ (:lang-flag . "🇩🇰")
+
  ;; Navigation
  (:nav-translate . "Oversæt")
  (:nav-review . "Gentag")

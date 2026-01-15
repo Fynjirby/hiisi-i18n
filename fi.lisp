@@ -1,6 +1,10 @@
 ;;; Finnish translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Suomi")
+ (:lang-flag . "🇫🇮")
+
  ;; Navigation
  (:nav-translate . "Käännä")
  (:nav-review . "Kertaa")

@@ -1,6 +1,10 @@
 ;;; Norwegian translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Norsk")
+ (:lang-flag . "🇳🇴")
+
  ;; Navigation
  (:nav-translate . "Oversett")
  (:nav-review . "Repeter")

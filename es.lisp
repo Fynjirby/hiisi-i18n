@@ -1,6 +1,10 @@
 ;;; Spanish translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Español")
+ (:lang-flag . "🇪🇸")
+
  ;; Navigation
  (:nav-translate . "Traducir")
  (:nav-review . "Repasar")

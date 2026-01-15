@@ -1,6 +1,10 @@
 ;;; Russian translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Русский")
+ (:lang-flag . "🇷🇺")
+
  ;; Navigation
  (:nav-translate . "Перевод")
  (:nav-review . "Повторение")

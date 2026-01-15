@@ -1,6 +1,10 @@
 ;;; Dutch translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Nederlands")
+ (:lang-flag . "🇳🇱")
+
  ;; Navigation
  (:nav-translate . "Vertalen")
  (:nav-review . "Herhalen")

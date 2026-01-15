@@ -1,6 +1,10 @@
 ;;; Italian translations
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "Italiano")
+ (:lang-flag . "🇮🇹")
+
  ;; Navigation
  (:nav-translate . "Traduci")
  (:nav-review . "Ripassa")

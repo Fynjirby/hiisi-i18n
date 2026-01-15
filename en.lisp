@@ -2,6 +2,10 @@
 ;;; This is the authoritative source for all translation keys
 
 (
+ ;; Language metadata (used for language picker)
+ (:lang-name . "English")
+ (:lang-flag . "🇬🇧")
+
  ;; Navigation
  (:nav-translate . "Translate")
  (:nav-review . "Review")
