@@ -61,6 +61,10 @@
  (:auth-go-now . "Go now")
  (:auth-not-activated . "Account not activated")
  (:auth-activate-title . "Activate your account!")
+ (:auth-activated . "Account Activated!")
+ (:auth-activated-message . "Your account has been activated. You can now use Hiisi.")
+ (:auth-redirecting . "Redirecting in")
+ (:auth-go-to-app . "Go to App")
 
  ;; Translation page
  (:translate-title . "Translate")

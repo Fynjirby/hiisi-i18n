@@ -60,6 +60,10 @@
  (:auth-go-now . "Siirry nyt")
  (:auth-not-activated . "Tiliä ei ole aktivoitu")
  (:auth-activate-title . "Aktivoi tilisi!")
+ (:auth-activated . "Tili aktivoitu!")
+ (:auth-activated-message . "Tilisi on aktivoitu. Voit nyt käyttää Hiisiä.")
+ (:auth-redirecting . "Uudelleenohjaus")
+ (:auth-go-to-app . "Siirry sovellukseen")
 
  ;; Translation page
  (:translate-title . "Käännä")

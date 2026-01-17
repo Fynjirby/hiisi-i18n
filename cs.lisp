@@ -60,6 +60,10 @@
  (:auth-go-now . "Přejít nyní")
  (:auth-not-activated . "Účet není aktivován")
  (:auth-activate-title . "Aktivujte svůj účet!")
+ (:auth-activated . "Účet aktivován!")
+ (:auth-activated-message . "Váš účet byl aktivován. Nyní můžete používat Hiisi.")
+ (:auth-redirecting . "Přesměrování za")
+ (:auth-go-to-app . "Přejít do aplikace")
 
  ;; Translation page
  (:translate-title . "Překlad")
