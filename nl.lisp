@@ -60,6 +60,10 @@
  (:auth-go-now . "Ga nu")
  (:auth-not-activated . "Account niet geactiveerd")
  (:auth-activate-title . "Activeer je account!")
+ (:auth-activated . "Account geactiveerd!")
+ (:auth-activated-message . "Je account is geactiveerd. Je kunt Hiisi nu gebruiken.")
+ (:auth-redirecting . "Doorsturen over")
+ (:auth-go-to-app . "Naar de app")
 
  ;; Translation page
  (:translate-title . "Vertalen")

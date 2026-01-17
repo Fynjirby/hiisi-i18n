@@ -61,6 +61,10 @@
  (:auth-go-now . "Перейти сейчас")
  (:auth-not-activated . "Аккаунт не активирован. Проверьте почту для получения ссылки активации.")
  (:auth-activate-title . "Активация аккаунта")
+ (:auth-activated . "Аккаунт активирован!")
+ (:auth-activated-message . "Ваш аккаунт активирован. Теперь вы можете использовать Hiisi.")
+ (:auth-redirecting . "Перенаправление через")
+ (:auth-go-to-app . "Перейти в приложение")
 
  ;; Translation page
  (:translate-title . "Перевод")
