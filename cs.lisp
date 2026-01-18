@@ -79,6 +79,10 @@
  (:translate-char-limit . "zbývajících znaků")
  (:translate-auto-detect . "Jakýkoliv (Auto-detekce)")
  (:translate-empty-state . "Zadejte text výše a klikněte na Přeložit pro zobrazení výsledku s gramatickým rozborem")
+ (:translate-like-tooltip . "Dobrý překlad")
+ (:translate-dislike-tooltip . "Špatný překlad - vyžádat nový")
+ (:translate-dislike-confirm . "Toto vygeneruje nový překlad. Pokračovat?")
+ (:translate-liked . "Líbí se!")
 
  ;; Flashcard review
  (:review-title . "Opakování")
@@ -183,4 +187,8 @@
  (:footer-privacy . "Zásady ochrany osobních údajů")
  (:footer-terms . "Podmínky služby")
  (:footer-contact . "Kontakt")
+
+ ;; Early software notice
+ (:early-software-notice . "Hiisi je v rané fázi vývoje. Našli jste chybu nebo máte návrh?")
+ (:early-software-contact . "Kontaktujte nás na")
 )

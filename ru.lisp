@@ -80,6 +80,10 @@
  (:translate-char-limit . "символов осталось")
  (:translate-auto-detect . "Любой (Автоопределение)")
  (:translate-empty-state . "Введите текст выше и нажмите Перевести, чтобы увидеть результат с грамматическим разбором")
+ (:translate-like-tooltip . "Хороший перевод")
+ (:translate-dislike-tooltip . "Плохой перевод - запросить новый")
+ (:translate-dislike-confirm . "Это сгенерирует новый перевод. Продолжить?")
+ (:translate-liked . "Нравится!")
 
  ;; Flashcard review
  (:review-title . "Повторение")
@@ -184,4 +188,8 @@
  (:footer-privacy . "Политика конфиденциальности")
  (:footer-terms . "Условия использования")
  (:footer-contact . "Контакты")
+
+ ;; Early software notice
+ (:early-software-notice . "Hiisi находится на ранней стадии разработки. Нашли ошибку или есть предложение?")
+ (:early-software-contact . "Свяжитесь с нами по адресу")
 )

@@ -79,6 +79,10 @@
  (:translate-char-limit . "tähemärki alles")
  (:translate-auto-detect . "Suvaline (automaattuvastus)")
  (:translate-empty-state . "Sisesta tekst ülal ja klõpsa Tõlgi, et näha tulemust koos grammatika analüüsiga")
+ (:translate-like-tooltip . "Hea tõlge")
+ (:translate-dislike-tooltip . "Halb tõlge - taotle uut")
+ (:translate-dislike-confirm . "See genereerib uue tõlke. Jätkata?")
+ (:translate-liked . "Meeldib!")
 
  ;; Flashcard review
  (:review-title . "Kordamine")
@@ -183,4 +187,8 @@
  (:footer-privacy . "Privaatsuspoliitika")
  (:footer-terms . "Kasutustingimused")
  (:footer-contact . "Kontakt")
+
+ ;; Early software notice
+ (:early-software-notice . "Hiisi on varajases arendusfaasis. Leidsid vea või on sul ettepanek?")
+ (:early-software-contact . "Võta meiega ühendust aadressil")
 )

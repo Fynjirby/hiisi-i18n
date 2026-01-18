@@ -79,6 +79,10 @@
  (:translate-char-limit . "tekens over")
  (:translate-auto-detect . "Elke (Automatisch detecteren)")
  (:translate-empty-state . "Voer hierboven tekst in en klik op Vertalen om het resultaat met grammaticale uitleg te zien")
+ (:translate-like-tooltip . "Goede vertaling")
+ (:translate-dislike-tooltip . "Slechte vertaling - vraag een nieuwe aan")
+ (:translate-dislike-confirm . "Dit genereert een nieuwe vertaling. Doorgaan?")
+ (:translate-liked . "Leuk!")
 
  ;; Flashcard review
  (:review-title . "Herhalen")
@@ -183,4 +187,8 @@
  (:footer-privacy . "Privacybeleid")
  (:footer-terms . "Servicevoorwaarden")
  (:footer-contact . "Contact")
+
+ ;; Early software notice
+ (:early-software-notice . "Hiisi is in vroege ontwikkeling. Een bug gevonden of een suggestie?")
+ (:early-software-contact . "Neem contact op via")
 )

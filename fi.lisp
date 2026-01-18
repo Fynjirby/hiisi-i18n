@@ -79,6 +79,10 @@
  (:translate-char-limit . "merkkiä jäljellä")
  (:translate-auto-detect . "Mikä tahansa (tunnista automaattisesti)")
  (:translate-empty-state . "Kirjoita teksti yllä ja napsauta Käännä nähdäksesi tuloksen kielioppiselityksineen")
+ (:translate-like-tooltip . "Hyvä käännös")
+ (:translate-dislike-tooltip . "Huono käännös - pyydä uusi")
+ (:translate-dislike-confirm . "Tämä luo uuden käännöksen. Jatketaanko?")
+ (:translate-liked . "Tykätty!")
 
  ;; Flashcard review
  (:review-title . "Kertaus")
@@ -183,4 +187,8 @@
  (:footer-privacy . "Tietosuojakäytäntö")
  (:footer-terms . "Käyttöehdot")
  (:footer-contact . "Yhteystiedot")
+
+ ;; Early software notice
+ (:early-software-notice . "Hiisi on varhaisessa kehitysvaiheessa. Löysitkö virheen tai onko sinulla ehdotus?")
+ (:early-software-contact . "Ota yhteyttä osoitteessa")
 )

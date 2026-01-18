@@ -80,6 +80,10 @@
  (:translate-char-limit . "tegn igjen")
  (:translate-auto-detect . "Alle (Automatisk gjenkjenning)")
  (:translate-empty-state . "Skriv inn tekst ovenfor og klikk Oversett for å se resultatet med grammatisk forklaring")
+ (:translate-like-tooltip . "God oversettelse")
+ (:translate-dislike-tooltip . "Dårlig oversettelse - be om en ny")
+ (:translate-dislike-confirm . "Dette genererer en ny oversettelse. Fortsette?")
+ (:translate-liked . "Liker!")
 
  ;; Flashcard review
  (:review-title . "Repeter")
@@ -184,4 +188,8 @@
  (:footer-privacy . "Personvernerklæring")
  (:footer-terms . "Vilkår for bruk")
  (:footer-contact . "Kontakt")
+
+ ;; Early software notice
+ (:early-software-notice . "Hiisi er under tidlig utvikling. Funnet en feil eller har du et forslag?")
+ (:early-software-contact . "Kontakt oss på")
 )

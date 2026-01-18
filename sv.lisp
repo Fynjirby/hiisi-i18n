@@ -79,6 +79,10 @@
  (:translate-char-limit . "tecken kvar")
  (:translate-auto-detect . "Valfritt (Identifiera automatiskt)")
  (:translate-empty-state . "Skriv text ovan och klicka Översätt för att se resultatet med grammatikförklaring")
+ (:translate-like-tooltip . "Bra översättning")
+ (:translate-dislike-tooltip . "Dålig översättning - begär en ny")
+ (:translate-dislike-confirm . "Detta genererar en ny översättning. Fortsätta?")
+ (:translate-liked . "Gillar!")
 
  ;; Flashcard review
  (:review-title . "Repetera")
@@ -183,4 +187,8 @@
  (:footer-privacy . "Integritetspolicy")
  (:footer-terms . "Användarvillkor")
  (:footer-contact . "Kontakt")
+
+ ;; Early software notice
+ (:early-software-notice . "Hiisi är under tidig utveckling. Hittat en bugg eller har du ett förslag?")
+ (:early-software-contact . "Kontakta oss på")
 )
