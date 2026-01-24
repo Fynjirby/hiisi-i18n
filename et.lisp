@@ -5,6 +5,10 @@
  (:lang-name . "Eesti")
  (:lang-flag . "🇪🇪")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Valige oma keel")
+ (:lang-modal-subtitle . "Valige liidese eelistatud keel:")
+
  ;; Navigation
  (:nav-translate . "Tõlgi")
  (:nav-review . "Kordamine")

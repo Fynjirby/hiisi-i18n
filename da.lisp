@@ -6,6 +6,10 @@
  (:lang-name . "Dansk")
  (:lang-flag . "🇩🇰")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Vælg dit sprog")
+ (:lang-modal-subtitle . "Vælg dit foretrukne sprog til grænsefladen:")
+
  ;; Navigation
  (:nav-translate . "Oversæt")
  (:nav-review . "Gentag")

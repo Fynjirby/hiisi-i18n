@@ -5,6 +5,10 @@
  (:lang-name . "Nederlands")
  (:lang-flag . "🇳🇱")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Kies je taal")
+ (:lang-modal-subtitle . "Selecteer je voorkeurstaal voor de interface:")
+
  ;; Navigation
  (:nav-translate . "Vertalen")
  (:nav-review . "Herhalen")

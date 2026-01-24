@@ -5,6 +5,10 @@
  (:lang-name . "Suomi")
  (:lang-flag . "🇫🇮")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Valitse kieli")
+ (:lang-modal-subtitle . "Valitse käyttöliittymän kieli:")
+
  ;; Navigation
  (:nav-translate . "Käännä")
  (:nav-review . "Kertaa")

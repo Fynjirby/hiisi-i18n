@@ -6,6 +6,10 @@
  (:lang-name . "Русский")
  (:lang-flag . "🇷🇺")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Выберите язык")
+ (:lang-modal-subtitle . "Выберите предпочтительный язык интерфейса:")
+
  ;; Navigation
  (:nav-translate . "Перевод")
  (:nav-review . "Повторение")

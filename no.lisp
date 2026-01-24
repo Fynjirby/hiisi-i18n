@@ -6,6 +6,10 @@
  (:lang-name . "Norsk")
  (:lang-flag . "🇳🇴")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Velg språk")
+ (:lang-modal-subtitle . "Velg foretrukket språk for grensesnittet:")
+
  ;; Navigation
  (:nav-translate . "Oversett")
  (:nav-review . "Repeter")

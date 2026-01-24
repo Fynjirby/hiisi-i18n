@@ -6,6 +6,10 @@
  (:lang-name . "Español")
  (:lang-flag . "🇪🇸")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Elige tu idioma")
+ (:lang-modal-subtitle . "Selecciona tu idioma preferido para la interfaz:")
+
  ;; Navigation
  (:nav-translate . "Traducir")
  (:nav-review . "Repasar")

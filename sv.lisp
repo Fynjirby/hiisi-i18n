@@ -5,6 +5,10 @@
  (:lang-name . "Svenska")
  (:lang-flag . "🇸🇪")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Välj ditt språk")
+ (:lang-modal-subtitle . "Välj ditt föredragna språk för gränssnittet:")
+
  ;; Navigation
  (:nav-translate . "Översätt")
  (:nav-review . "Repetera")

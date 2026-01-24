@@ -6,6 +6,10 @@
  (:lang-name . "Deutsch")
  (:lang-flag . "🇩🇪")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Wähle deine Sprache")
+ (:lang-modal-subtitle . "Wähle deine bevorzugte Sprache für die Benutzeroberfläche:")
+
  ;; Navigation
  (:nav-translate . "Übersetzen")
  (:nav-review . "Wiederholen")

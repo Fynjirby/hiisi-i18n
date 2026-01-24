@@ -5,6 +5,10 @@
  (:lang-name . "Čeština")
  (:lang-flag . "🇨🇿")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Vyberte svůj jazyk")
+ (:lang-modal-subtitle . "Zvolte preferovaný jazyk rozhraní:")
+
  ;; Navigation
  (:nav-translate . "Přeložit")
  (:nav-review . "Opakování")

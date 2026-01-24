@@ -6,6 +6,10 @@
  (:lang-name . "Português")
  (:lang-flag . "🇵🇹")
 
+ ;; Language modal (first-visit language selection)
+ (:lang-modal-title . "Escolha seu idioma")
+ (:lang-modal-subtitle . "Selecione seu idioma preferido para a interface:")
+
  ;; Navigation
  (:nav-translate . "Traduzir")
  (:nav-review . "Revisar")
