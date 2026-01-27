@@ -15,6 +15,7 @@
  (:nav-review . "Wiederholen")
  (:nav-flashcards . "Meine Karten")
  (:nav-dashboard . "Dashboard")
+ (:nav-decks . "Decks")
  (:nav-logout . "Abmelden")
  (:nav-home . "Startseite")
  (:nav-pricing . "Preise")

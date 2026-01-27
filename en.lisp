@@ -15,6 +15,7 @@
  (:nav-review . "Review")
  (:nav-flashcards . "My Cards")
  (:nav-dashboard . "Dashboard")
+ (:nav-decks . "Decks")
  (:nav-logout . "Logout")
  (:nav-home . "Home")
  (:nav-pricing . "Pricing")

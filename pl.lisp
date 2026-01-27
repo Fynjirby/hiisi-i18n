@@ -15,6 +15,7 @@
  (:nav-review . "Powtórka")
  (:nav-flashcards . "Moje fiszki")
  (:nav-dashboard . "Panel")
+ (:nav-decks . "Decks")
  (:nav-logout . "Wyloguj")
  (:nav-home . "Strona główna")
  (:nav-pricing . "Cennik")

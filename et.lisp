@@ -14,6 +14,7 @@
  (:nav-review . "Kordamine")
  (:nav-flashcards . "Minu kaardid")
  (:nav-dashboard . "Ülevaade")
+ (:nav-decks . "Kaardipakid")
  (:nav-logout . "Logi välja")
  (:nav-home . "Avaleht")
  (:nav-pricing . "Hinnad")

@@ -14,6 +14,7 @@
  (:nav-review . "Kertaa")
  (:nav-flashcards . "Korttini")
  (:nav-dashboard . "Hallintapaneeli")
+ (:nav-decks . "Decks")
  (:nav-logout . "Kirjaudu ulos")
  (:nav-home . "Etusivu")
  (:nav-pricing . "Hinnoittelu")

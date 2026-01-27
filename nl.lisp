@@ -14,6 +14,7 @@
  (:nav-review . "Herhalen")
  (:nav-flashcards . "Mijn kaarten")
  (:nav-dashboard . "Dashboard")
+ (:nav-decks . "Decks")
  (:nav-logout . "Uitloggen")
  (:nav-home . "Home")
  (:nav-pricing . "Prijzen")

@@ -14,6 +14,7 @@
  (:nav-review . "Opakování")
  (:nav-flashcards . "Moje kartičky")
  (:nav-dashboard . "Přehled")
+ (:nav-decks . "Balíčky")
  (:nav-logout . "Odhlásit se")
  (:nav-home . "Domů")
  (:nav-pricing . "Ceník")

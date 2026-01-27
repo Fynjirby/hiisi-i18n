@@ -15,6 +15,7 @@
  (:nav-review . "Revisar")
  (:nav-flashcards . "Meus cartões")
  (:nav-dashboard . "Painel")
+ (:nav-decks . "Decks")
  (:nav-logout . "Sair")
  (:nav-home . "Início")
  (:nav-pricing . "Preços")
