@@ -12,6 +12,7 @@
  ;; Navigation
  (:nav-translate . "Tõlgi")
  (:nav-review . "Kordamine")
+ (:nav-flashcards . "Minu kaardid")
  (:nav-dashboard . "Ülevaade")
  (:nav-logout . "Logi välja")
  (:nav-home . "Avaleht")
@@ -351,5 +352,14 @@
  (:decks-share-preview . "Eelvaade ja impordi see kaardipakk.")
  (:decks-import-title . "Impordi")
  (:decks-import-btn . "Impordi kaardipakk")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Minu kaardid")
+ (:flashcards-subtitle . "Kõik sinu salvestatud kaardid ühes kohas. Otsi, korrasta ja halda.")
+ (:flashcards-search-placeholder . "Otsi kaarte...")
+ (:flashcards-col-original . "Originaal")
+ (:flashcards-col-translated . "Tõlge")
+ (:flashcards-col-lang . "Keeled")
+ (:flashcards-no-cards . "Kaarte veel pole. Alusta tõlkimist, et neid luua!")
 
 )

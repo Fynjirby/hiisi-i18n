@@ -12,6 +12,7 @@
  ;; Navigation
  (:nav-translate . "Käännä")
  (:nav-review . "Kertaa")
+ (:nav-flashcards . "Korttini")
  (:nav-dashboard . "Hallintapaneeli")
  (:nav-logout . "Kirjaudu ulos")
  (:nav-home . "Etusivu")
@@ -351,5 +352,14 @@
  (:decks-share-preview . "Esikatsele ja tuo tämä pakka.")
  (:decks-import-title . "Tuo")
  (:decks-import-btn . "Tuo pakka")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Korttini")
+ (:flashcards-subtitle . "Kaikki tallennetut korttisi yhdessä paikassa. Hae, järjestä ja hallitse.")
+ (:flashcards-search-placeholder . "Hae kortteja...")
+ (:flashcards-col-original . "Alkuperäinen")
+ (:flashcards-col-translated . "Käännös")
+ (:flashcards-col-lang . "Kielet")
+ (:flashcards-no-cards . "Ei vielä kortteja. Aloita kääntäminen luodaksesi niitä!")
 
 )

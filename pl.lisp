@@ -13,6 +13,7 @@
  ;; Navigation
  (:nav-translate . "Tłumacz")
  (:nav-review . "Powtórka")
+ (:nav-flashcards . "Moje fiszki")
  (:nav-dashboard . "Panel")
  (:nav-logout . "Wyloguj")
  (:nav-home . "Strona główna")
@@ -352,5 +353,14 @@
  (:decks-share-preview . "Podgląd i import tej talii.")
  (:decks-import-title . "Importuj")
  (:decks-import-btn . "Importuj talię")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Moje fiszki")
+ (:flashcards-subtitle . "Wszystkie zapisane fiszki w jednym miejscu. Szukaj, organizuj i zarządzaj.")
+ (:flashcards-search-placeholder . "Szukaj fiszek...")
+ (:flashcards-col-original . "Oryginał")
+ (:flashcards-col-translated . "Tłumaczenie")
+ (:flashcards-col-lang . "Języki")
+ (:flashcards-no-cards . "Brak fiszek. Zacznij tłumaczyć, aby je utworzyć!")
 
 )

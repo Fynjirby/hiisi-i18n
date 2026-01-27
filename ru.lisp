@@ -13,6 +13,7 @@
  ;; Navigation
  (:nav-translate . "Перевод")
  (:nav-review . "Повторение")
+ (:nav-flashcards . "Мои карточки")
  (:nav-dashboard . "Панель")
  (:nav-logout . "Выйти")
  (:nav-home . "Главная")
@@ -352,5 +353,14 @@
  (:decks-share-preview . "Предпросмотр и импорт этой колоды.")
  (:decks-import-title . "Импорт")
  (:decks-import-btn . "Импортировать колоду")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Мои карточки")
+ (:flashcards-subtitle . "Все ваши сохранённые карточки в одном месте. Ищите, организуйте и управляйте.")
+ (:flashcards-search-placeholder . "Поиск карточек...")
+ (:flashcards-col-original . "Оригинал")
+ (:flashcards-col-translated . "Перевод")
+ (:flashcards-col-lang . "Языки")
+ (:flashcards-no-cards . "Карточек пока нет. Начните переводить, чтобы создать их!")
 
 )

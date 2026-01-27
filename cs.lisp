@@ -12,6 +12,7 @@
  ;; Navigation
  (:nav-translate . "Přeložit")
  (:nav-review . "Opakování")
+ (:nav-flashcards . "Moje kartičky")
  (:nav-dashboard . "Přehled")
  (:nav-logout . "Odhlásit se")
  (:nav-home . "Domů")
@@ -351,5 +352,14 @@
  (:decks-share-preview . "Náhled a import tohoto balíčku.")
  (:decks-import-title . "Import")
  (:decks-import-btn . "Importovat balíček")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Moje kartičky")
+ (:flashcards-subtitle . "Všechny vaše uložené kartičky na jednom místě. Hledejte, organizujte a spravujte.")
+ (:flashcards-search-placeholder . "Hledat kartičky...")
+ (:flashcards-col-original . "Originál")
+ (:flashcards-col-translated . "Překlad")
+ (:flashcards-col-lang . "Jazyky")
+ (:flashcards-no-cards . "Zatím žádné kartičky. Začněte překládat a vytvořte si nějaké!")
 
 )

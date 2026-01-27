@@ -13,6 +13,7 @@
  ;; Navigation
  (:nav-translate . "Oversæt")
  (:nav-review . "Gentag")
+ (:nav-flashcards . "Mine kort")
  (:nav-dashboard . "Oversigt")
  (:nav-logout . "Log ud")
  (:nav-home . "Hjem")
@@ -352,5 +353,14 @@
  (:decks-share-preview . "Forhåndsvis og importer denne kortbunke.")
  (:decks-import-title . "Importer")
  (:decks-import-btn . "Importer kortbunke")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Mine kort")
+ (:flashcards-subtitle . "Alle dine gemte kort på ét sted. Søg, organiser og administrer.")
+ (:flashcards-search-placeholder . "Søg i kort...")
+ (:flashcards-col-original . "Original")
+ (:flashcards-col-translated . "Oversættelse")
+ (:flashcards-col-lang . "Sprog")
+ (:flashcards-no-cards . "Ingen kort endnu. Begynd at oversætte for at oprette nogle!")
 
 )

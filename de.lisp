@@ -13,6 +13,7 @@
  ;; Navigation
  (:nav-translate . "Übersetzen")
  (:nav-review . "Wiederholen")
+ (:nav-flashcards . "Meine Karten")
  (:nav-dashboard . "Dashboard")
  (:nav-logout . "Abmelden")
  (:nav-home . "Startseite")
@@ -352,5 +353,14 @@
  (:decks-share-preview . "Vorschau und Import dieses Stapels.")
  (:decks-import-title . "Importieren")
  (:decks-import-btn . "Stapel importieren")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Meine Karten")
+ (:flashcards-subtitle . "Alle gespeicherten Karteikarten an einem Ort. Suchen, organisieren und verwalten.")
+ (:flashcards-search-placeholder . "Karten suchen...")
+ (:flashcards-col-original . "Original")
+ (:flashcards-col-translated . "Übersetzung")
+ (:flashcards-col-lang . "Sprachen")
+ (:flashcards-no-cards . "Noch keine Karteikarten. Beginne mit Übersetzen, um welche zu erstellen!")
 
 )

@@ -13,6 +13,7 @@
  ;; Navigation
  (:nav-translate . "Translate")
  (:nav-review . "Review")
+ (:nav-flashcards . "My Cards")
  (:nav-dashboard . "Dashboard")
  (:nav-logout . "Logout")
  (:nav-home . "Home")
@@ -352,5 +353,14 @@
  (:decks-share-preview . "Preview and import this deck.")
  (:decks-import-title . "Import")
  (:decks-import-btn . "Import deck")
+
+ ;; Flashcards management page
+ (:flashcards-title . "My Flashcards")
+ (:flashcards-subtitle . "All your saved flashcards in one place. Search, organize, and manage.")
+ (:flashcards-search-placeholder . "Search flashcards...")
+ (:flashcards-col-original . "Original")
+ (:flashcards-col-translated . "Translation")
+ (:flashcards-col-lang . "Languages")
+ (:flashcards-no-cards . "No flashcards yet. Start translating to create some!")
 
 )

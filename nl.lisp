@@ -12,6 +12,7 @@
  ;; Navigation
  (:nav-translate . "Vertalen")
  (:nav-review . "Herhalen")
+ (:nav-flashcards . "Mijn kaarten")
  (:nav-dashboard . "Dashboard")
  (:nav-logout . "Uitloggen")
  (:nav-home . "Home")
@@ -351,5 +352,14 @@
  (:decks-share-preview . "Voorbeeld en importeer deze stapel.")
  (:decks-import-title . "Importeren")
  (:decks-import-btn . "Stapel importeren")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Mijn kaarten")
+ (:flashcards-subtitle . "Al je opgeslagen kaarten op één plek. Zoek, organiseer en beheer.")
+ (:flashcards-search-placeholder . "Kaarten zoeken...")
+ (:flashcards-col-original . "Origineel")
+ (:flashcards-col-translated . "Vertaling")
+ (:flashcards-col-lang . "Talen")
+ (:flashcards-no-cards . "Nog geen kaarten. Begin met vertalen om er een paar te maken!")
 
 )

@@ -13,6 +13,7 @@
  ;; Navigation
  (:nav-translate . "Traducir")
  (:nav-review . "Repasar")
+ (:nav-flashcards . "Mis tarjetas")
  (:nav-dashboard . "Panel")
  (:nav-logout . "Cerrar sesión")
  (:nav-home . "Inicio")
@@ -352,5 +353,14 @@
  (:decks-share-preview . "Vista previa e importación de este mazo.")
  (:decks-import-title . "Importar")
  (:decks-import-btn . "Importar mazo")
+
+ ;; Flashcards management page
+ (:flashcards-title . "Mis tarjetas")
+ (:flashcards-subtitle . "Todas tus tarjetas guardadas en un solo lugar. Busca, organiza y gestiona.")
+ (:flashcards-search-placeholder . "Buscar tarjetas...")
+ (:flashcards-col-original . "Original")
+ (:flashcards-col-translated . "Traducción")
+ (:flashcards-col-lang . "Idiomas")
+ (:flashcards-no-cards . "Aún no hay tarjetas. ¡Comienza a traducir para crear algunas!")
 
 )
