@@ -216,7 +216,12 @@
  (:error-translation-failed . "Tõlkimine ebaõnnestus")
  (:error-translation-retry . "Tõlget ei õnnestunud mitme katse järel genereerida. Palun proovi oma teksti ümber sõnastada.")
  (:error-quota-exceeded . "Tõlkelimiit täis")
- (:error-quota-exceeded-detail . "Oled kasutanud kõik oma selle kuu tõlked. Sinu kvoot lähtestub automaatselt iga kuu.")
+ (:error-quota-exceeded-detail . "Oled kasutanud kõik oma selle kuu tõlked. Sinu kvoot lähtestub automaatselt iga kuu." (:quota-warning . "Jäänud tõlked: ~A")
+ (:quota-low-warning . "Alles ~A tõlget. Kaaluge juurde ostmist.")
+ (:top-up-button . "Osta rohkem tõlkeid")
+ (:top-up-success . "Laadimine õnnestus! Teil on nüüd ~A lisatõlget.")
+ (:top-up-price . "5 €")
+ (:top-up-amount . "100 tõlget"))
  (:loading . "Laadimine...")
  (:empty-state . "Siin pole veel midagi")
 

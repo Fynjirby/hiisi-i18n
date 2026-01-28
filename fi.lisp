@@ -216,7 +216,12 @@
  (:error-translation-failed . "Käännös epäonnistui")
  (:error-translation-retry . "Käännöstä ei voitu luoda useiden yritysten jälkeen. Yritä muotoilla tekstisi toisin.")
  (:error-quota-exceeded . "Käännösraja saavutettu")
- (:error-quota-exceeded-detail . "Olet käyttänyt kaikki käännöksesi tälle kuukaudelle. Kiintiösi nollautuu automaattisesti joka kuukausi.")
+ (:error-quota-exceeded-detail . "Olet käyttänyt kaikki käännöksesi tälle kuukaudelle. Kiintiösi nollautuu automaattisesti joka kuukausi." (:quota-warning . "Jäljellä olevat käännökset: ~A")
+ (:quota-low-warning . "Vain ~A käännöstä jäljellä. Harkitse lisää ostamista.")
+ (:top-up-button . "Osta lisää käännöksiä")
+ (:top-up-success . "Lataus onnistui! Sinulla on nyt ~A lisäännöstä.")
+ (:top-up-price . "5 €")
+ (:top-up-amount . "100 käännöstä"))
  (:loading . "Ladataan...")
  (:empty-state . "Ei vielä mitään täällä")
 

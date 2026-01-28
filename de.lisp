@@ -217,7 +217,12 @@
  (:error-translation-failed . "Übersetzung fehlgeschlagen")
  (:error-translation-retry . "Konnte nach mehreren Versuchen keine Übersetzung generieren. Bitte formuliere deinen Text um.")
  (:error-quota-exceeded . "Übersetzungslimit erreicht")
- (:error-quota-exceeded-detail . "Du hast alle Übersetzungen für diesen Monat aufgebraucht. Dein Kontingent wird automatisch jeden Monat zurückgesetzt.")
+ (:error-quota-exceeded-detail . "Du hast alle Übersetzungen für diesen Monat aufgebraucht. Dein Kontingent wird automatisch jeden Monat zurückgesetzt." (:quota-warning . "Verbleibende Übersetzungen: ~A")
+ (:quota-low-warning . "Nur noch ~A Übersetzungen übrig. Erwägen Sie den Kauf von mehr.")
+ (:top-up-button . "Mehr Übersetzungen kaufen")
+ (:top-up-success . "Aufstockung erfolgreich! Sie haben jetzt ~A zusätzliche Übersetzungen.")
+ (:top-up-price . "5 €")
+ (:top-up-amount . "100 Übersetzungen"))
  (:loading . "Lädt...")
  (:empty-state . "Hier ist noch nichts")
 

@@ -218,6 +218,12 @@
  (:error-translation-retry . "Unable to generate a translation after multiple attempts. Please try rephrasing your text.")
  (:error-quota-exceeded . "Translation Limit Reached")
  (:error-quota-exceeded-detail . "You've used all your translations for this month. Your quota resets automatically each month.")
+ (:quota-warning . "Translations remaining: ~A")
+ (:quota-low-warning . "Only ~A translations left. Consider purchasing more.")
+ (:top-up-button . "Buy More Translations")
+ (:top-up-success . "Top-up successful! You now have ~A additional translations.")
+ (:top-up-price . "€5")
+ (:top-up-amount . "100 translations")
  (:loading . "Loading...")
  (:empty-state . "Nothing here yet")
 

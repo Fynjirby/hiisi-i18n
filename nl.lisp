@@ -216,7 +216,12 @@
  (:error-translation-failed . "Vertaling mislukt")
  (:error-translation-retry . "Kon na meerdere pogingen geen vertaling genereren. Probeer je tekst anders te formuleren.")
  (:error-quota-exceeded . "Vertaallimiet bereikt")
- (:error-quota-exceeded-detail . "Je hebt al je vertalingen voor deze maand gebruikt. Je quotum wordt automatisch elke maand gereset.")
+ (:error-quota-exceeded-detail . "Je hebt al je vertalingen voor deze maand gebruikt. Je quotum wordt automatisch elke maand gereset." (:quota-warning . "Resterende vertalingen: ~A")
+ (:quota-low-warning . "Nog maar ~A vertalingen over. Overweeg om meer te kopen.")
+ (:top-up-button . "Koop meer vertalingen")
+ (:top-up-success . "Top-up gelukt! Je hebt nu ~A extra vertalingen.")
+ (:top-up-price . "€5")
+ (:top-up-amount . "100 vertalingen"))
  (:loading . "Laden...")
  (:empty-state . "Hier is nog niets")
 

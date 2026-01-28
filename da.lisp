@@ -217,7 +217,12 @@
  (:error-translation-failed . "Oversættelse mislykkedes")
  (:error-translation-retry . "Kunne ikke generere en oversættelse efter flere forsøg. Prøv at omformulere din tekst.")
  (:error-quota-exceeded . "Oversættelsesgrænse nået")
- (:error-quota-exceeded-detail . "Du har brugt alle dine oversættelser for denne måned. Din kvote nulstilles automatisk hver måned.")
+ (:error-quota-exceeded-detail . "Du har brugt alle dine oversættelser for denne måned. Din kvote nulstilles automatisk hver måned." (:quota-warning . "Oversættelser tilbage: ~A")
+ (:quota-low-warning . "Kun ~A oversættelser tilbage. Overvej at købe flere.")
+ (:top-up-button . "Køb flere oversættelser")
+ (:top-up-success . "Opfyldning succesfuld! Du har nu ~A yderligere oversættelser.")
+ (:top-up-price . "€5")
+ (:top-up-amount . "100 oversættelser"))
  (:loading . "Indlæser...")
  (:empty-state . "Intet her endnu")
 

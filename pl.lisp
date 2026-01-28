@@ -217,7 +217,12 @@
  (:error-translation-failed . "Tłumaczenie nie powiodło się")
  (:error-translation-retry . "Nie udało się wygenerować tłumaczenia po wielu próbach. Spróbuj przeformułować tekst.")
  (:error-quota-exceeded . "Osiągnięto limit tłumaczeń")
- (:error-quota-exceeded-detail . "Wykorzystałeś wszystkie tłumaczenia na ten miesiąc. Twój limit odnawia się automatycznie co miesiąc.")
+ (:error-quota-exceeded-detail . "Wykorzystałeś wszystkie tłumaczenia na ten miesiąc. Twój limit odnawia się automatycznie co miesiąc." (:quota-warning . "Pozostałe tłumaczenia: ~A")
+ (:quota-low-warning . "Zostało tylko ~A tłumaczeń. Rozważ zakup większej ilości.")
+ (:top-up-button . "Kup więcej tłumaczeń")
+ (:top-up-success . "Doładowanie udane! Masz teraz ~A dodatkowych tłumaczeń.")
+ (:top-up-price . "5 €")
+ (:top-up-amount . "100 tłumaczeń"))
  (:loading . "Ładowanie...")
  (:empty-state . "Nic tu jeszcze nie ma")
 
