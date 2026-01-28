@@ -221,7 +221,7 @@
  (:top-up-button . "Köp fler översättningar")
  (:top-up-success . "Påfyllning lyckades! Du har nu ~A ytterligare översättningar.")
  (:top-up-price . "5 €")
- (:top-up-amount . "100 översättningar"))
+ (:top-up-amount . "300 översättningar"))
  (:loading . "Laddar...")
  (:empty-state . "Inget här än")
 

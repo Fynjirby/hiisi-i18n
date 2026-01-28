@@ -222,7 +222,7 @@
  (:top-up-button . "Køb flere oversættelser")
  (:top-up-success . "Opfyldning succesfuld! Du har nu ~A yderligere oversættelser.")
  (:top-up-price . "€5")
- (:top-up-amount . "100 oversættelser"))
+ (:top-up-amount . "300 oversættelser"))
  (:loading . "Indlæser...")
  (:empty-state . "Intet her endnu")
 

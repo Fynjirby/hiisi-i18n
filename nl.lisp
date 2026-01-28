@@ -221,7 +221,7 @@
  (:top-up-button . "Koop meer vertalingen")
  (:top-up-success . "Top-up gelukt! Je hebt nu ~A extra vertalingen.")
  (:top-up-price . "€5")
- (:top-up-amount . "100 vertalingen"))
+ (:top-up-amount . "300 vertalingen"))
  (:loading . "Laden...")
  (:empty-state . "Hier is nog niets")
 

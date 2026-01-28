@@ -221,7 +221,7 @@
  (:top-up-button . "Osta lisää käännöksiä")
  (:top-up-success . "Lataus onnistui! Sinulla on nyt ~A lisäännöstä.")
  (:top-up-price . "5 €")
- (:top-up-amount . "100 käännöstä"))
+ (:top-up-amount . "300 käännöstä"))
  (:loading . "Ladataan...")
  (:empty-state . "Ei vielä mitään täällä")
 

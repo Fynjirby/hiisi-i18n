@@ -221,7 +221,7 @@
  (:top-up-button . "Osta rohkem tõlkeid")
  (:top-up-success . "Laadimine õnnestus! Teil on nüüd ~A lisatõlget.")
  (:top-up-price . "5 €")
- (:top-up-amount . "100 tõlget"))
+ (:top-up-amount . "300 tõlget"))
  (:loading . "Laadimine...")
  (:empty-state . "Siin pole veel midagi")
 

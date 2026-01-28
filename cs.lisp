@@ -221,7 +221,7 @@
  (:top-up-button . "Koupit další překlady")
  (:top-up-success . "Dobití úspěšné! Nyní máte ~A dalších překladů.")
  (:top-up-price . "5 €")
- (:top-up-amount . "100 překladů"))
+ (:top-up-amount . "300 překladů"))
  (:loading . "Načítání...")
  (:empty-state . "Zatím zde nic není")
 

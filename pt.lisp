@@ -222,7 +222,7 @@
  (:top-up-button . "Comprar mais traduções")
  (:top-up-success . "Recarga bem-sucedida! Agora você tem ~A traduções adicionais.")
  (:top-up-price . "€5")
- (:top-up-amount . "100 traduções"))
+ (:top-up-amount . "300 traduções"))
  (:loading . "Carregando...")
  (:empty-state . "Nada aqui ainda")
 
