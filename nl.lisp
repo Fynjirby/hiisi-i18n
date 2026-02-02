@@ -376,3 +376,52 @@
  (:flashcards-no-cards . "Nog geen kaarten. Begin met vertalen om er een paar te maken!")
 
 )
+
+ ;; API Errors (EN fallback)
+ (:api-error-missing-text . "Missing text to translate.")
+ (:api-error-invalid-translation-id . "Invalid translation ID.")
+ (:api-error-translation-not-found . "The translation you tried to save no longer exists.")
+ (:api-error-invalid-bookmark-id . "Invalid bookmark ID")
+ (:api-error-bookmark-not-found . "Bookmark not found")
+ (:api-error-forbidden . "Forbidden")
+ (:api-error-failed-delete-bookmark . "Failed to delete bookmark")
+ (:api-error-invalid-flashcard-id . "Invalid flashcard ID")
+ (:api-error-missing-deck-id . "Missing deck_id")
+ (:api-error-flashcard-not-found . "Flashcard not found")
+ (:api-error-deck-not-found . "Deck not found")
+ (:api-error-deck-name-required . "Deck name is required")
+ (:api-error-session-expired . "Your review session has expired. Please start a new session.")
+ (:api-error-invalid-card-id . "Invalid card ID.")
+ (:api-error-invalid-rating . "Invalid rating.")
+ (:api-error-rating-range . "Rating must be between 0 and 5.")
+ (:api-error-card-not-found . "Card not found.")
+ (:api-error-permission-denied . "You don't have permission to review this card.")
+ (:api-error-unknown-source-lang . "Unknown source language.")
+ (:api-error-unknown-target-lang . "Unknown target language.")
+ (:api-error-failed-add-to-deck . "Failed to add to deck")
+
+ ;; API Success messages
+ (:api-success-added . "Added!")
+ (:api-success-added-simple . "Added")
+
+ ;; API Stats
+ (:api-stats-due . "~A due")
+ (:api-stats-total . "~A total")
+
+ ;; Time units
+ (:api-time-day . "day")
+ (:api-time-days . "days")
+ (:api-time-day-left . "day left")
+ (:api-time-days-left . "days left")
+
+ ;; Subscription status
+ (:api-subscription-active . "Active")
+ (:api-subscription-inactive . "Inactive")
+ (:api-subscription-subscribe-hint . "Subscribe to unlock translations")
+
+ ;; Generic status
+ (:status-bad-request . "Bad Request")
+ (:status-not-found . "Not Found")
+ (:status-forbidden . "Forbidden")
+
+)
