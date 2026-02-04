@@ -22,7 +22,7 @@
  (:nav-export-data . "Exportar Dados")
 
  ;; App title and branding
- (:app-title . "Hiisi")
+ (:app-title . "Hiisi - Aprendizado de idiomas")
  (:app-tagline . "Aprenda idiomas através de traduções")
 
  ;; Landing page
