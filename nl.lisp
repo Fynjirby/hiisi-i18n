@@ -21,7 +21,7 @@
  (:nav-export-data . "Gegevens exporteren")
 
  ;; App title and branding
- (:app-title . "Hiisi")
+ (:app-title . "Hiisi - Talen leren")
  (:app-tagline . "Leer talen door vertalingen")
 
  ;; Landing page
