@@ -125,6 +125,22 @@
  (:translate-dislike-confirm . "Toto vygeneruje nový překlad. Pokračovat?")
  (:translate-liked . "Líbí se!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Cíl")
+ (:translate-deck-create-title . "Vytvořit nový balíček")
+ (:translate-deck-name-label . "Název balíčku")
+ (:translate-deck-name-placeholder . "např. Základy finštiny")
+ (:translate-deck-description-label . "Popis (volitelné)")
+ (:translate-deck-cancel . "Zrušit")
+ (:translate-deck-create . "Vytvořit")
+ (:translate-rate-label . "Ohodnotit překlad")
+ (:flashcards-delete-confirm . "Opravdu chcete smazat tuto kartičku?")
+ (:flashcards-deck-search-placeholder . "Hledat balíčky...")
+ (:flashcards-no-decks . "Zatím žádné balíčky. Nejdřív nějaký vytvořte.")
+ (:flashcards-deck-cancel . "Zrušit")
+
  ;; Flashcard review
  (:review-title . "Opakování")
  (:review-session-title . "Opakovací relace")

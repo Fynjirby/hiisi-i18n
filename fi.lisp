@@ -125,6 +125,22 @@
  (:translate-dislike-confirm . "Tämä luo uuden käännöksen. Jatketaanko?")
  (:translate-liked . "Tykätty!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Kohde")
+ (:translate-deck-create-title . "Luo uusi pakka")
+ (:translate-deck-name-label . "Pakan nimi")
+ (:translate-deck-name-placeholder . "esim. Suomen perusteet")
+ (:translate-deck-description-label . "Kuvaus (valinnainen)")
+ (:translate-deck-cancel . "Peruuta")
+ (:translate-deck-create . "Luo")
+ (:translate-rate-label . "Arvioi käännös")
+ (:flashcards-delete-confirm . "Haluatko varmasti poistaa tämän kortin?")
+ (:flashcards-deck-search-placeholder . "Hae pakkoja...")
+ (:flashcards-no-decks . "Ei vielä pakkoja. Luo ensin yksi!")
+ (:flashcards-deck-cancel . "Peruuta")
+
  ;; Flashcard review
  (:review-title . "Kertaus")
  (:review-session-title . "Kertausjakso")

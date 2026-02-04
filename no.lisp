@@ -126,6 +126,22 @@
  (:translate-dislike-confirm . "Dette genererer en ny oversettelse. Fortsette?")
  (:translate-liked . "Liker!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Mål")
+ (:translate-deck-create-title . "Lag ny kortstokk")
+ (:translate-deck-name-label . "Navn på kortstokk")
+ (:translate-deck-name-placeholder . "f.eks. Finsk grunnlag")
+ (:translate-deck-description-label . "Beskrivelse (valgfritt)")
+ (:translate-deck-cancel . "Avbryt")
+ (:translate-deck-create . "Lag")
+ (:translate-rate-label . "Vurder oversettelse")
+ (:flashcards-delete-confirm . "Er du sikker på at du vil slette dette kortet?")
+ (:flashcards-deck-search-placeholder . "Søk i kortstokker...")
+ (:flashcards-no-decks . "Ingen kortstokker ennå. Lag en først!")
+ (:flashcards-deck-cancel . "Avbryt")
+
  ;; Flashcard review
  (:review-title . "Repeter")
  (:review-session-title . "Repetisjonsøkt")

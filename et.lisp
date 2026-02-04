@@ -125,6 +125,22 @@
  (:translate-dislike-confirm . "See genereerib uue tõlke. Jätkata?")
  (:translate-liked . "Meeldib!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Siht")
+ (:translate-deck-create-title . "Loo uus kaardipakk")
+ (:translate-deck-name-label . "Kaardipaki nimi")
+ (:translate-deck-name-placeholder . "nt Soome keele alused")
+ (:translate-deck-description-label . "Kirjeldus (valikuline)")
+ (:translate-deck-cancel . "Tühista")
+ (:translate-deck-create . "Loo")
+ (:translate-rate-label . "Hinda tõlget")
+ (:flashcards-delete-confirm . "Kas oled kindel, et soovid selle kaardi kustutada?")
+ (:flashcards-deck-search-placeholder . "Otsi kaardipakke...")
+ (:flashcards-no-decks . "Kaardipakke veel pole. Loo üks kõigepealt!")
+ (:flashcards-deck-cancel . "Tühista")
+
  ;; Flashcard review
  (:review-title . "Kordamine")
  (:review-session-title . "Kordamisseanss")

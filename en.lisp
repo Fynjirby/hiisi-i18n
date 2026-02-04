@@ -126,6 +126,22 @@
  (:translate-dislike-confirm . "This will generate a new translation. Continue?")
  (:translate-liked . "Liked!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Target")
+ (:translate-deck-create-title . "Create New Deck")
+ (:translate-deck-name-label . "Deck Name")
+ (:translate-deck-name-placeholder . "e.g., Finnish Basics")
+ (:translate-deck-description-label . "Description (optional)")
+ (:translate-deck-cancel . "Cancel")
+ (:translate-deck-create . "Create")
+ (:translate-rate-label . "Rate translation")
+ (:flashcards-delete-confirm . "Are you sure you want to delete this flashcard?")
+ (:flashcards-deck-search-placeholder . "Search decks...")
+ (:flashcards-no-decks . "No decks yet. Create one first!")
+ (:flashcards-deck-cancel . "Cancel")
+
  ;; Flashcard review
  (:review-title . "Review")
  (:review-session-title . "Review Session")

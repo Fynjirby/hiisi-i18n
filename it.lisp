@@ -126,6 +126,22 @@
  (:translate-dislike-confirm . "Questo genererà una nuova traduzione. Continuare?")
  (:translate-liked . "Mi piace!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Destinazione")
+ (:translate-deck-create-title . "Crea nuovo mazzo")
+ (:translate-deck-name-label . "Nome del mazzo")
+ (:translate-deck-name-placeholder . "ad es., Fondamenti di finlandese")
+ (:translate-deck-description-label . "Descrizione (opzionale)")
+ (:translate-deck-cancel . "Annulla")
+ (:translate-deck-create . "Crea")
+ (:translate-rate-label . "Valuta la traduzione")
+ (:flashcards-delete-confirm . "Sei sicuro di voler eliminare questa carta?")
+ (:flashcards-deck-search-placeholder . "Cerca mazzi...")
+ (:flashcards-no-decks . "Nessun mazzo ancora. Creane uno prima!")
+ (:flashcards-deck-cancel . "Annulla")
+
  ;; Flashcard review
  (:review-title . "Ripassa")
  (:review-session-title . "Sessione di ripasso")

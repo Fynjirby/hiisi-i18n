@@ -125,6 +125,22 @@
  (:translate-dislike-confirm . "Dit genereert een nieuwe vertaling. Doorgaan?")
  (:translate-liked . "Leuk!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Doel")
+ (:translate-deck-create-title . "Nieuwe stapel maken")
+ (:translate-deck-name-label . "Stapelnaam")
+ (:translate-deck-name-placeholder . "bijv. Basis Fins")
+ (:translate-deck-description-label . "Beschrijving (optioneel)")
+ (:translate-deck-cancel . "Annuleren")
+ (:translate-deck-create . "Maken")
+ (:translate-rate-label . "Vertaling beoordelen")
+ (:flashcards-delete-confirm . "Weet je zeker dat je deze kaart wilt verwijderen?")
+ (:flashcards-deck-search-placeholder . "Stapels zoeken...")
+ (:flashcards-no-decks . "Nog geen stapels. Maak er eerst een!")
+ (:flashcards-deck-cancel . "Annuleren")
+
  ;; Flashcard review
  (:review-title . "Herhalen")
  (:review-session-title . "Herhalingssessie")

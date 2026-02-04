@@ -125,6 +125,22 @@
  (:translate-dislike-confirm . "Detta genererar en ny översättning. Fortsätta?")
  (:translate-liked . "Gillar!")
 
+ ;; Translation and Flashcards
+ (:lang-auto . "Auto")
+ (:lang-unknown . "?")
+ (:lang-target . "Mål")
+ (:translate-deck-create-title . "Skapa ny kortlek")
+ (:translate-deck-name-label . "Kortlekens namn")
+ (:translate-deck-name-placeholder . "t.ex. Finska grunder")
+ (:translate-deck-description-label . "Beskrivning (valfri)")
+ (:translate-deck-cancel . "Avbryt")
+ (:translate-deck-create . "Skapa")
+ (:translate-rate-label . "Betygsätt översättning")
+ (:flashcards-delete-confirm . "Är du säker på att du vill ta bort det här kortet?")
+ (:flashcards-deck-search-placeholder . "Sök kortlekar...")
+ (:flashcards-no-decks . "Inga kortlekar ännu. Skapa en först!")
+ (:flashcards-deck-cancel . "Avbryt")
+
  ;; Flashcard review
  (:review-title . "Repetera")
  (:review-session-title . "Repetitionssession")
