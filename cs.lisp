@@ -169,6 +169,21 @@
  (:dashboard-tip-3 . "Pravidelně opakujte kartičky - rozložené opakování pomáhá dlouhodobému zapamatování")
  (:dashboard-tip-4 . "Hodnoťte upřímně - pomáhá to algoritmu optimálně plánovat opakování")
 
+ ;; Account
+ (:account-title . "Účet")
+ (:account-subtitle . "Spravujte nastavení účtu a plán odstranění.")
+ (:account-deletion-title . "Odstranění účtu")
+ (:account-deletion-scheduled . "Váš účet je naplánován k odstranění na ~A.")
+ (:account-deletion-cancel-hint . "Zrušením před tímto datem si účet ponecháte.")
+ (:account-deletion-cancel . "Zrušit odstranění")
+ (:account-deletion-request . "O odstranění účtu můžete požádat kdykoli. Odstranění je naplánováno na 14 dní od potvrzení. Pokud si to po odstranění rozmyslíte, kontaktujte podporu.")
+ (:account-deletion-confirm . "Naplánovat odstranění účtu za 14 dní od dneška?")
+ (:account-deletion-schedule . "Naplánovat odstranění")
+ (:account-reminders-title . "E-mailová připomenutí")
+ (:account-reminders-subtitle . "Nastavte si připomenutí ke studiu a pokračování.")
+ (:account-reminders-opt-out . "Nezasílat připomenutí ke studiu a pokračování")
+ (:account-reminders-save . "Uložit nastavení")
+
  ;; Subscription
  (:subscribe-title . "Vyberte si plán")
  (:subscribe-choose-plan . "Vyberte si plán")

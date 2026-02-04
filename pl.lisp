@@ -170,6 +170,21 @@
  (:dashboard-tip-3 . "Regularnie powtarzaj fiszki - powtórki rozłożone w czasie pomagają zapamiętać na dłużej")
  (:dashboard-tip-4 . "Oceniaj szczerze - pomaga to algorytmowi optymalnie planować powtórki")
 
+ ;; Account
+ (:account-title . "Konto")
+ (:account-subtitle . "Zarządzaj ustawieniami konta i harmonogramem usunięcia.")
+ (:account-deletion-title . "Usunięcie konta")
+ (:account-deletion-scheduled . "Twoje konto jest zaplanowane do usunięcia na ~A.")
+ (:account-deletion-cancel-hint . "Możesz anulować przed tą datą, aby zachować konto.")
+ (:account-deletion-cancel . "Anuluj usunięcie")
+ (:account-deletion-request . "Możesz poprosić o usunięcie konta w dowolnym momencie. Usunięcie jest zaplanowane 14 dni po potwierdzeniu. Jeśli po usunięciu zmienisz zdanie, skontaktuj się z pomocą.")
+ (:account-deletion-confirm . "Zaplanować usunięcie konta za 14 dni od dziś?")
+ (:account-deletion-schedule . "Zaplanuj usunięcie")
+ (:account-reminders-title . "Przypomnienia e-mail")
+ (:account-reminders-subtitle . "Zarządzaj przypomnieniami o powtórkach i kontynuacji dla tego konta.")
+ (:account-reminders-opt-out . "Wyłącz przypomnienia o powtórkach i kontynuacji")
+ (:account-reminders-save . "Zapisz preferencje")
+
  ;; Subscription
  (:subscribe-title . "Prosty cennik")
  (:subscribe-choose-plan . "Wybierz swój plan")

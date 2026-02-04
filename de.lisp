@@ -170,6 +170,21 @@
  (:dashboard-tip-3 . "Wiederhole deine Karteikarten regelmäßig - Spaced Repetition hilft beim langfristigen Behalten")
  (:dashboard-tip-4 . "Bewerte ehrlich - das hilft dem Algorithmus, deine Wiederholungen optimal zu planen")
 
+ ;; Account
+ (:account-title . "Konto")
+ (:account-subtitle . "Verwalten Sie Ihre Kontoeinstellungen und den Löschzeitplan.")
+ (:account-deletion-title . "Kontolöschung")
+ (:account-deletion-scheduled . "Ihr Konto ist für die Löschung am ~A geplant.")
+ (:account-deletion-cancel-hint . "Sie können vor diesem Datum abbrechen, um Ihr Konto zu behalten.")
+ (:account-deletion-cancel . "Löschung abbrechen")
+ (:account-deletion-request . "Sie können die Kontolöschung jederzeit anfordern. Die Löschung ist 14 Tage nach der Bestätigung geplant. Wenn Sie es sich nach der Löschung anders überlegen, kontaktieren Sie bitte den Support.")
+ (:account-deletion-confirm . "Kontolöschung in 14 Tagen ab heute planen?")
+ (:account-deletion-schedule . "Löschung planen")
+ (:account-reminders-title . "E-Mail-Erinnerungen")
+ (:account-reminders-subtitle . "Steuern Sie Wiederholungs- und Fortsetzungserinnerungen für dieses Konto.")
+ (:account-reminders-opt-out . "Erinnerungen für Wiederholung und Fortsetzung abbestellen")
+ (:account-reminders-save . "Einstellungen speichern")
+
  ;; Subscription
  (:subscribe-title . "Einfache Preise")
  (:subscribe-choose-plan . "Wähle deinen Plan")

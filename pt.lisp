@@ -170,6 +170,21 @@
  (:dashboard-tip-3 . "Revise seus flashcards regularmente - a repetição espaçada ajuda você a lembrar a longo prazo")
  (:dashboard-tip-4 . "Avalie honestamente - isso ajuda o algoritmo a agendar suas revisões de forma ideal")
 
+ ;; Account
+ (:account-title . "Conta")
+ (:account-subtitle . "Gerencie as configurações da sua conta e o agendamento de exclusão.")
+ (:account-deletion-title . "Exclusão da conta")
+ (:account-deletion-scheduled . "Sua conta está programada para exclusão em ~A.")
+ (:account-deletion-cancel-hint . "Você pode cancelar antes dessa data para manter sua conta.")
+ (:account-deletion-cancel . "Cancelar exclusão")
+ (:account-deletion-request . "Você pode solicitar a exclusão da conta a qualquer momento. A exclusão é programada para 14 dias após a confirmação. Se você mudar de ideia após a exclusão, entre em contato com o suporte.")
+ (:account-deletion-confirm . "Agendar a exclusão da conta para 14 dias a partir de hoje?")
+ (:account-deletion-schedule . "Agendar exclusão")
+ (:account-reminders-title . "Lembretes por e-mail")
+ (:account-reminders-subtitle . "Controle lembretes de revisão e continuação para esta conta.")
+ (:account-reminders-opt-out . "Desativar lembretes de revisão e continuação")
+ (:account-reminders-save . "Salvar preferências")
+
  ;; Subscription
  (:subscribe-title . "Preços Simples")
  (:subscribe-choose-plan . "Escolha Seu Plano")

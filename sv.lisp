@@ -169,6 +169,21 @@
  (:dashboard-tip-3 . "Repetera dina flashcards regelbundet - spaced repetition hjälper dig minnas långsiktigt")
  (:dashboard-tip-4 . "Bedöm ärligt - det hjälper algoritmen schemalägga dina repetitioner optimalt")
 
+ ;; Account
+ (:account-title . "Konto")
+ (:account-subtitle . "Hantera dina kontoinställningar och raderingsschema.")
+ (:account-deletion-title . "Kontoradering")
+ (:account-deletion-scheduled . "Ditt konto är planerat att raderas den ~A.")
+ (:account-deletion-cancel-hint . "Du kan avbryta före detta datum för att behålla kontot.")
+ (:account-deletion-cancel . "Avbryt radering")
+ (:account-deletion-request . "Du kan begära att kontot raderas när som helst. Radering planeras 14 dagar efter bekräftelse. Om du ångrar dig efter radering, kontakta support.")
+ (:account-deletion-confirm . "Planera kontoradering om 14 dagar från i dag?")
+ (:account-deletion-schedule . "Planera radering")
+ (:account-reminders-title . "E-postpåminnelser")
+ (:account-reminders-subtitle . "Hantera påminnelser om repetition och fortsättning för detta konto.")
+ (:account-reminders-opt-out . "Stäng av påminnelser om repetition och fortsättning")
+ (:account-reminders-save . "Spara inställningar")
+
  ;; Subscription
  (:subscribe-title . "Enkla priser")
  (:subscribe-monthly . "Månadsvis")

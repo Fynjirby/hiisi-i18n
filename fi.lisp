@@ -169,6 +169,21 @@
  (:dashboard-tip-3 . "Kertaa muistikorttisi säännöllisesti - hajautettu toisto auttaa muistamaan pitkäaikaisesti")
  (:dashboard-tip-4 . "Arvioi rehellisesti - se auttaa algoritmia ajoittamaan kertauksesi optimaalisesti")
 
+ ;; Account
+ (:account-title . "Tili")
+ (:account-subtitle . "Hallitse tilin asetuksia ja poistamisaikataulua.")
+ (:account-deletion-title . "Tilin poisto")
+ (:account-deletion-scheduled . "Tilisi on ajastettu poistettavaksi päivänä ~A.")
+ (:account-deletion-cancel-hint . "Voit perua ennen tätä päivää ja pitää tilisi.")
+ (:account-deletion-cancel . "Peru poisto")
+ (:account-deletion-request . "Voit pyytää tilin poistamista milloin tahansa. Poisto ajoitetaan 14 päivän päähän vahvistuksesta. Jos muutat mieltäsi poiston jälkeen, ota yhteyttä tukeen.")
+ (:account-deletion-confirm . "Ajastetaanko tilin poisto 14 päivän päähän tästä päivästä?")
+ (:account-deletion-schedule . "Ajasta poisto")
+ (:account-reminders-title . "Sähköpostimuistutukset")
+ (:account-reminders-subtitle . "Hallitse tämän tilin kertaamisen ja jatkamisen muistutuksia.")
+ (:account-reminders-opt-out . "Poista kertaamis- ja jatkomuistutukset käytöstä")
+ (:account-reminders-save . "Tallenna asetukset")
+
  ;; Subscription
  (:subscribe-title . "Selkeä hinnoittelu")
  (:subscribe-choose-plan . "Valitse tilauksesi")

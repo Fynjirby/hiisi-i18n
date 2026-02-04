@@ -170,6 +170,21 @@
  (:dashboard-tip-3 . "Repasa tus tarjetas regularmente - la repetición espaciada te ayuda a recordar a largo plazo")
  (:dashboard-tip-4 . "Califica honestamente - ayuda al algoritmo a programar tus repasos de forma óptima")
 
+ ;; Account
+ (:account-title . "Cuenta")
+ (:account-subtitle . "Administra la configuración de tu cuenta y el calendario de eliminación.")
+ (:account-deletion-title . "Eliminación de cuenta")
+ (:account-deletion-scheduled . "Tu cuenta está programada para eliminarse el ~A.")
+ (:account-deletion-cancel-hint . "Puedes cancelar antes de esta fecha para conservar tu cuenta.")
+ (:account-deletion-cancel . "Cancelar eliminación")
+ (:account-deletion-request . "Puedes solicitar la eliminación de la cuenta en cualquier momento. La eliminación se programa 14 días después de la confirmación. Si te arrepientes después de la eliminación, contacta con soporte.")
+ (:account-deletion-confirm . "¿Programar la eliminación de la cuenta dentro de 14 días a partir de hoy?")
+ (:account-deletion-schedule . "Programar eliminación")
+ (:account-reminders-title . "Recordatorios por correo")
+ (:account-reminders-subtitle . "Controla los recordatorios de repaso y continuación de esta cuenta.")
+ (:account-reminders-opt-out . "Desactivar recordatorios de repaso y continuación")
+ (:account-reminders-save . "Guardar preferencias")
+
  ;; Subscription
  (:subscribe-title . "Precios simples")
  (:subscribe-choose-plan . "Elige tu plan")

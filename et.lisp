@@ -169,6 +169,21 @@
  (:dashboard-tip-3 . "Korda oma mälukaarte regulaarselt - hajutatud kordamine aitab pikaajalise mäluga")
  (:dashboard-tip-4 . "Hinda ausalt - see aitab algoritmil sinu kordamisi optimaalselt ajastada")
 
+ ;; Account
+ (:account-title . "Konto")
+ (:account-subtitle . "Halda oma konto seadeid ja kustutamise ajakava.")
+ (:account-deletion-title . "Konto kustutamine")
+ (:account-deletion-scheduled . "Sinu konto on planeeritud kustutamiseks kuupäeval ~A.")
+ (:account-deletion-cancel-hint . "Saad enne seda kuupäeva tühistada ja konto alles jätta.")
+ (:account-deletion-cancel . "Tühista kustutamine")
+ (:account-deletion-request . "Kontot saad kustutada igal ajal. Kustutamine on planeeritud 14 päeva pärast kinnitamist. Kui pärast kustutamist meelt muudad, võta ühendust toega.")
+ (:account-deletion-confirm . "Kas planeerida konto kustutamine 14 päeva pärast tänast?")
+ (:account-deletion-schedule . "Planeeri kustutamine")
+ (:account-reminders-title . "E-posti meeldetuletused")
+ (:account-reminders-subtitle . "Halda selle konto kordamise ja jätkamise meeldetuletusi.")
+ (:account-reminders-opt-out . "Lülita kordamise ja jätkamise meeldetuletused välja")
+ (:account-reminders-save . "Salvesta eelistused")
+
  ;; Subscription
  (:subscribe-title . "Lihtne hinnastus")
  (:subscribe-choose-plan . "Vali oma pakett")

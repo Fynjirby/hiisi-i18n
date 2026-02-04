@@ -170,6 +170,21 @@
  (:dashboard-tip-3 . "Ripassa le tue flashcard regolarmente - la ripetizione spaziata ti aiuta a ricordare a lungo termine")
  (:dashboard-tip-4 . "Valuta onestamente - aiuta l'algoritmo a pianificare i ripassi in modo ottimale")
 
+ ;; Account
+ (:account-title . "Account")
+ (:account-subtitle . "Gestisci le impostazioni dell'account e la programmazione di eliminazione.")
+ (:account-deletion-title . "Eliminazione account")
+ (:account-deletion-scheduled . "Il tuo account è programmato per l'eliminazione il ~A.")
+ (:account-deletion-cancel-hint . "Puoi annullare prima di questa data per mantenere il tuo account.")
+ (:account-deletion-cancel . "Annulla eliminazione")
+ (:account-deletion-request . "Puoi richiedere l'eliminazione dell'account in qualsiasi momento. L'eliminazione è programmata 14 giorni dopo la conferma. Se cambi idea dopo l'eliminazione, contatta l'assistenza.")
+ (:account-deletion-confirm . "Programmare l'eliminazione dell'account tra 14 giorni da oggi?")
+ (:account-deletion-schedule . "Programma eliminazione")
+ (:account-reminders-title . "Promemoria email")
+ (:account-reminders-subtitle . "Gestisci i promemoria di ripasso e continuazione per questo account.")
+ (:account-reminders-opt-out . "Disattiva i promemoria di ripasso e continuazione")
+ (:account-reminders-save . "Salva preferenze")
+
  ;; Subscription
  (:subscribe-title . "Prezzi semplici")
  (:subscribe-choose-plan . "Scegli il tuo piano")

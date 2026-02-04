@@ -170,6 +170,21 @@
  (:dashboard-tip-3 . "Gentag dine flashcards regelmæssigt - spredt gentagelse hjælper dig med at huske langsigtet")
  (:dashboard-tip-4 . "Bedøm ærligt - det hjælper algoritmen med at planlægge dine gentagelser optimalt")
 
+ ;; Account
+ (:account-title . "Konto")
+ (:account-subtitle . "Administrer dine kontoindstillinger og sletteplan.")
+ (:account-deletion-title . "Sletning af konto")
+ (:account-deletion-scheduled . "Din konto er planlagt til sletning den ~A.")
+ (:account-deletion-cancel-hint . "Du kan annullere før denne dato for at beholde din konto.")
+ (:account-deletion-cancel . "Annuller sletning")
+ (:account-deletion-request . "Du kan anmode om sletning af kontoen når som helst. Sletning planlægges 14 dage efter bekræftelse. Hvis du fortryder efter sletning, kontakt support.")
+ (:account-deletion-confirm . "Planlæg sletning af konto om 14 dage fra nu?")
+ (:account-deletion-schedule . "Planlæg sletning")
+ (:account-reminders-title . "E-mailpåmindelser")
+ (:account-reminders-subtitle . "Styr påmindelser om gentagelse og fortsættelse for denne konto.")
+ (:account-reminders-opt-out . "Fravælg påmindelser om gentagelse og fortsættelse")
+ (:account-reminders-save . "Gem indstillinger")
+
  ;; Subscription
  (:subscribe-title . "Enkle priser")
  (:subscribe-choose-plan . "Vælg din plan")

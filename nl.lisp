@@ -169,6 +169,21 @@
  (:dashboard-tip-3 . "Herhaal je flashcards regelmatig - gespreide herhaling helpt je om langdurig te onthouden")
  (:dashboard-tip-4 . "Beoordeel eerlijk - het helpt het algoritme om je herhalingen optimaal te plannen")
 
+ ;; Account
+ (:account-title . "Account")
+ (:account-subtitle . "Beheer je accountinstellingen en verwijderingsplanning.")
+ (:account-deletion-title . "Account verwijderen")
+ (:account-deletion-scheduled . "Je account staat gepland voor verwijdering op ~A.")
+ (:account-deletion-cancel-hint . "Je kunt voor deze datum annuleren om je account te behouden.")
+ (:account-deletion-cancel . "Verwijdering annuleren")
+ (:account-deletion-request . "Je kunt op elk moment een verzoek tot verwijdering van je account indienen. Verwijdering wordt 14 dagen na bevestiging gepland. Als je na verwijdering van gedachten verandert, neem contact op met support.")
+ (:account-deletion-confirm . "Accountverwijdering plannen over 14 dagen vanaf vandaag?")
+ (:account-deletion-schedule . "Verwijdering plannen")
+ (:account-reminders-title . "E-mailherinneringen")
+ (:account-reminders-subtitle . "Beheer herinneringen voor herhalen en doorgaan voor dit account.")
+ (:account-reminders-opt-out . "Herinneringen voor herhalen en doorgaan uitschakelen")
+ (:account-reminders-save . "Voorkeuren opslaan")
+
  ;; Subscription
  (:subscribe-title . "Eenvoudige prijzen")
  (:subscribe-choose-plan . "Kies je abonnement")

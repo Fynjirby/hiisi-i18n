@@ -170,6 +170,21 @@
  (:dashboard-tip-3 . "Review your flashcards regularly - spaced repetition helps you remember long-term")
  (:dashboard-tip-4 . "Rate honestly - it helps the algorithm schedule your reviews optimally")
 
+ ;; Account
+ (:account-title . "Account")
+ (:account-subtitle . "Manage your account settings and deletion schedule.")
+ (:account-deletion-title . "Account Deletion")
+ (:account-deletion-scheduled . "Your account is scheduled for deletion on ~A.")
+ (:account-deletion-cancel-hint . "You can cancel before this date to keep your account.")
+ (:account-deletion-cancel . "Cancel deletion")
+ (:account-deletion-request . "You can request account deletion at any time. Deletion is scheduled 14 days from confirmation. If you change your mind after deletion, please contact support.")
+ (:account-deletion-confirm . "Schedule account deletion for 14 days from now?")
+ (:account-deletion-schedule . "Schedule deletion")
+ (:account-reminders-title . "Email Reminders")
+ (:account-reminders-subtitle . "Control review and continuation reminders for this account.")
+ (:account-reminders-opt-out . "Opt out of review/continuation reminders")
+ (:account-reminders-save . "Save preferences")
+
  ;; Subscription
  (:subscribe-title . "Simple Pricing")
  (:subscribe-choose-plan . "Choose Your Plan")
