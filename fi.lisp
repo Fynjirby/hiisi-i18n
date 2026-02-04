@@ -21,7 +21,7 @@
  (:nav-export-data . "Vie tiedot")
 
  ;; App title and branding
- (:app-title . "Hiisi")
+ (:app-title . "Hiisi - Kielten oppiminen")
  (:app-tagline . "Opi kieliä käännösten avulla")
 
  ;; Landing page
