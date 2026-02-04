@@ -21,7 +21,7 @@
  (:nav-export-data . "Ekspordi andmed")
 
  ;; App title and branding
- (:app-title . "Hiisi")
+ (:app-title . "Hiisi - Keeleõpe")
  (:app-tagline . "Õpi keeli tõlkimise kaudu")
 
  ;; Landing page
