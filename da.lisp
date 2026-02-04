@@ -436,8 +436,6 @@
  (:flashcards-col-lang . "Sprog")
  (:flashcards-no-cards . "Ingen kort endnu. Begynd at oversætte for at oprette nogle!")
 
-)
-
  ;; API Errors (EN fallback)
  (:api-error-missing-text . "Missing text to translate.")
  (:api-error-invalid-translation-id . "Invalid translation ID.")

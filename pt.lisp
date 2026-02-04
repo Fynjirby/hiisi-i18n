@@ -436,8 +436,6 @@
  (:flashcards-col-lang . "Idiomas")
  (:flashcards-no-cards . "Ainda não há cartões. Comece a traduzir para criar alguns!")
 
-)
-
  ;; API Errors (EN fallback)
  (:api-error-missing-text . "Missing text to translate.")
  (:api-error-invalid-translation-id . "Invalid translation ID.")

@@ -435,8 +435,6 @@
  (:flashcards-col-lang . "Keeled")
  (:flashcards-no-cards . "Kaarte veel pole. Alusta tõlkimist, et neid luua!")
 
-)
-
  ;; API Errors (EN fallback)
  (:api-error-missing-text . "Missing text to translate.")
  (:api-error-invalid-translation-id . "Invalid translation ID.")

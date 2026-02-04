@@ -435,8 +435,6 @@
  (:flashcards-col-lang . "Kielet")
  (:flashcards-no-cards . "Ei vielä kortteja. Aloita kääntäminen luodaksesi niitä!")
 
-)
-
  ;; API Errors (EN fallback)
  (:api-error-missing-text . "Missing text to translate.")
  (:api-error-invalid-translation-id . "Invalid translation ID.")
