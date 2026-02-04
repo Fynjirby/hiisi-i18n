@@ -21,7 +21,7 @@
  (:nav-export-data . "Exportovat data")
 
  ;; App title and branding
- (:app-title . "Hiisi")
+ (:app-title . "Hiisi - Studium jazyků")
  (:app-tagline . "Učte se jazyky s překlady poháněnými AI")
 
  ;; Landing page
