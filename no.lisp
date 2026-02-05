@@ -414,6 +414,8 @@
  (:decks-no-desc . "Ingen beskrivelse.")
  (:decks-share-title . "Delingslenke")
  (:decks-share-info . "Alle med denne lenken kan importere kortstokken:")
+ (:decks-share-copy . "Kopier lenke")
+ (:decks-share-copied . "Kopiert")
  (:decks-add-trans-title . "Legg til oversettelse")
  (:decks-trans-id-placeholder . "Oversettelse-ID")
  (:decks-add-trans-btn . "Legg til oversettelse")

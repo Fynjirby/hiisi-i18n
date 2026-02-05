@@ -414,6 +414,8 @@
  (:decks-no-desc . "Ingen beskrivelse.")
  (:decks-share-title . "Delingslink")
  (:decks-share-info . "Alle med dette link kan importere kortbunken:")
+ (:decks-share-copy . "Kopiér link")
+ (:decks-share-copied . "Kopieret")
  (:decks-add-trans-title . "Tilføj oversættelse")
  (:decks-trans-id-placeholder . "Oversættelses-ID")
  (:decks-add-trans-btn . "Tilføj oversættelse")

@@ -413,6 +413,8 @@
  (:decks-no-desc . "Ei kuvausta.")
  (:decks-share-title . "Jakolinkki")
  (:decks-share-info . "Kuka tahansa voi tuoda pakan tällä linkillä:")
+ (:decks-share-copy . "Kopioi linkki")
+ (:decks-share-copied . "Kopioitu")
  (:decks-add-trans-title . "Lisää käännös")
  (:decks-trans-id-placeholder . "Käännöksen ID")
  (:decks-add-trans-btn . "Lisää käännös")

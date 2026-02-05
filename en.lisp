@@ -461,6 +461,8 @@
  (:decks-no-desc . "No description.")
  (:decks-share-title . "Share Link")
  (:decks-share-info . "Anyone with this link can import the deck:")
+ (:decks-share-copy . "Copy link")
+ (:decks-share-copied . "Copied")
  (:decks-add-trans-title . "Add Translation")
  (:decks-trans-id-placeholder . "Translation ID")
  (:decks-add-trans-btn . "Add translation")

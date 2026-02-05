@@ -414,6 +414,8 @@
  (:decks-no-desc . "Sin descripción.")
  (:decks-share-title . "Enlace para compartir")
  (:decks-share-info . "Cualquiera con este enlace puede importar el mazo:")
+ (:decks-share-copy . "Copiar enlace")
+ (:decks-share-copied . "Copiado")
  (:decks-add-trans-title . "Añadir traducción")
  (:decks-trans-id-placeholder . "ID de traducción")
  (:decks-add-trans-btn . "Añadir traducción")

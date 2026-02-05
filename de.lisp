@@ -414,6 +414,8 @@
  (:decks-no-desc . "Keine Beschreibung.")
  (:decks-share-title . "Teilen-Link")
  (:decks-share-info . "Jeder mit diesem Link kann den Stapel importieren:")
+ (:decks-share-copy . "Link kopieren")
+ (:decks-share-copied . "Kopiert")
  (:decks-add-trans-title . "Übersetzung hinzufügen")
  (:decks-trans-id-placeholder . "Übersetzungs-ID")
  (:decks-add-trans-btn . "Übersetzung hinzufügen")

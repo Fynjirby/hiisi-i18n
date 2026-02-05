@@ -414,6 +414,8 @@
  (:decks-no-desc . "Sem descrição.")
  (:decks-share-title . "Link de partilha")
  (:decks-share-info . "Qualquer pessoa com este link pode importar o baralho:")
+ (:decks-share-copy . "Copiar link")
+ (:decks-share-copied . "Copiado")
  (:decks-add-trans-title . "Adicionar tradução")
  (:decks-trans-id-placeholder . "ID da tradução")
  (:decks-add-trans-btn . "Adicionar tradução")

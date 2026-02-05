@@ -413,6 +413,8 @@
  (:decks-no-desc . "Kirjeldus puudub.")
  (:decks-share-title . "Jagamislink")
  (:decks-share-info . "Igaüks selle lingiga saab kaardipaki importida:")
+ (:decks-share-copy . "Kopeeri link")
+ (:decks-share-copied . "Kopeeritud")
  (:decks-add-trans-title . "Lisa tõlge")
  (:decks-trans-id-placeholder . "Tõlke ID")
  (:decks-add-trans-btn . "Lisa tõlge")

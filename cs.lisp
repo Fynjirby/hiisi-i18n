@@ -413,6 +413,8 @@
  (:decks-no-desc . "Bez popisu.")
  (:decks-share-title . "Odkaz ke sdílení")
  (:decks-share-info . "Kdokoli s tímto odkazem může balíček importovat:")
+ (:decks-share-copy . "Kopírovat odkaz")
+ (:decks-share-copied . "Zkopírováno")
  (:decks-add-trans-title . "Přidat překlad")
  (:decks-trans-id-placeholder . "ID překladu")
  (:decks-add-trans-btn . "Přidat překlad")

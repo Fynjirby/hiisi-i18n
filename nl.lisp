@@ -413,6 +413,8 @@
  (:decks-no-desc . "Geen beschrijving.")
  (:decks-share-title . "Deellink")
  (:decks-share-info . "Iedereen met deze link kan de stapel importeren:")
+ (:decks-share-copy . "Link kopiëren")
+ (:decks-share-copied . "Gekopieerd")
  (:decks-add-trans-title . "Vertaling toevoegen")
  (:decks-trans-id-placeholder . "Vertaling-ID")
  (:decks-add-trans-btn . "Vertaling toevoegen")

@@ -413,6 +413,8 @@
  (:decks-no-desc . "Ingen beskrivning.")
  (:decks-share-title . "Delningslänk")
  (:decks-share-info . "Alla med denna länk kan importera kortleken:")
+ (:decks-share-copy . "Kopiera länk")
+ (:decks-share-copied . "Kopierad")
  (:decks-add-trans-title . "Lägg till översättning")
  (:decks-trans-id-placeholder . "Översättnings-ID")
  (:decks-add-trans-btn . "Lägg till översättning")

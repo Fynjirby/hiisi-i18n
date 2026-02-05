@@ -414,6 +414,8 @@
  (:decks-no-desc . "Без описания.")
  (:decks-share-title . "Ссылка для обмена")
  (:decks-share-info . "Любой с этой ссылкой может импортировать колоду:")
+ (:decks-share-copy . "Скопировать ссылку")
+ (:decks-share-copied . "Скопировано")
  (:decks-add-trans-title . "Добавить перевод")
  (:decks-trans-id-placeholder . "ID перевода")
  (:decks-add-trans-btn . "Добавить перевод")

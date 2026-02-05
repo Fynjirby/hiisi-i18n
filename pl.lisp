@@ -414,6 +414,8 @@
  (:decks-no-desc . "Brak opisu.")
  (:decks-share-title . "Link do udostępnienia")
  (:decks-share-info . "Każdy z tym linkiem może zaimportować talię:")
+ (:decks-share-copy . "Kopiuj link")
+ (:decks-share-copied . "Skopiowano")
  (:decks-add-trans-title . "Dodaj tłumaczenie")
  (:decks-trans-id-placeholder . "ID tłumaczenia")
  (:decks-add-trans-btn . "Dodaj tłumaczenie")
