@@ -146,6 +146,12 @@
  (:review-title . "Review")
  (:review-session-title . "Review Session")
  (:review-session-subtitle . "Practice your saved flashcards")
+ (:review-selector-title . "Choose what to review")
+ (:review-selector-subtitle . "Select a deck or language pair to focus your review session.")
+ (:review-by-deck . "Review by Deck")
+ (:review-by-language-pair . "Review by Language Pair")
+ (:review-all-cards . "Review All Cards")
+
  (:review-start . "Start Review")
  (:review-no-cards . "No Cards to Review")
  (:review-no-cards-desc . "You don't have any flashcards due for review right now.")

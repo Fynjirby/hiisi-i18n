@@ -146,6 +146,12 @@
  (:review-title . "Ripassa")
  (:review-session-title . "Sessione di ripasso")
  (:review-session-subtitle . "Esercitati con le tue flashcard salvate")
+ (:review-selector-title . "Scegli cosa ripassare")
+ (:review-selector-subtitle . "Seleziona un mazzo o una coppia di lingue su cui concentrarti in questa sessione di ripasso.")
+ (:review-by-deck . "Ripassa per mazzo")
+ (:review-by-language-pair . "Ripassa per coppia di lingue")
+ (:review-all-cards . "Ripassa tutte le carte")
+
  (:review-start . "Inizia il ripasso")
  (:review-no-cards . "Nessuna carta da ripassare")
  (:review-no-cards-desc . "Non hai flashcard da ripassare in questo momento.")

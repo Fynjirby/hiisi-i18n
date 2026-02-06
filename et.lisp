@@ -145,6 +145,12 @@
  (:review-title . "Kordamine")
  (:review-session-title . "Kordamisseanss")
  (:review-session-subtitle . "Harjuta oma salvestatud mälukaarte")
+ (:review-selector-title . "Vali, mida korrata")
+ (:review-selector-subtitle . "Vali pakk või keelepaar, millele selles kordamisseansis keskenduda.")
+ (:review-by-deck . "Korda paki järgi")
+ (:review-by-language-pair . "Korda keelepaari järgi")
+ (:review-all-cards . "Korda kõiki kaarte")
+
  (:review-start . "Alusta kordamist")
  (:review-no-cards . "Pole kaarte kordamiseks")
  (:review-no-cards-desc . "Sul pole praegu ühtegi mälukaarti, mis vajaks kordamist.")

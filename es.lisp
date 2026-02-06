@@ -146,6 +146,12 @@
  (:review-title . "Repasar")
  (:review-session-title . "Sesión de repaso")
  (:review-session-subtitle . "Practica tus tarjetas guardadas")
+ (:review-selector-title . "Elige qué repasar")
+ (:review-selector-subtitle . "Selecciona un mazo o un par de idiomas para enfocar tu sesión de repaso.")
+ (:review-by-deck . "Repasar por mazo")
+ (:review-by-language-pair . "Repasar por par de idiomas")
+ (:review-all-cards . "Repasar todas las tarjetas")
+
  (:review-start . "Iniciar repaso")
  (:review-no-cards . "No hay tarjetas para repasar")
  (:review-no-cards-desc . "No tienes tarjetas pendientes de repaso en este momento.")

@@ -145,6 +145,12 @@
  (:review-title . "Repetera")
  (:review-session-title . "Repetitionssession")
  (:review-session-subtitle . "Öva på dina sparade flashcards")
+ (:review-selector-title . "Välj vad du vill repetera")
+ (:review-selector-subtitle . "Välj en kortlek eller ett språkpar att fokusera på i repetitionspasset.")
+ (:review-by-deck . "Repetera efter kortlek")
+ (:review-by-language-pair . "Repetera efter språkpar")
+ (:review-all-cards . "Repetera alla kort")
+
  (:review-start . "Starta repetition")
  (:review-no-cards . "Inga kort att repetera")
  (:review-no-cards-desc . "Du har inga flashcards som behöver repeteras just nu.")

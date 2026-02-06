@@ -145,6 +145,12 @@
  (:review-title . "Kertaus")
  (:review-session-title . "Kertausjakso")
  (:review-session-subtitle . "Harjoittele tallennettuja muistikorttejasi")
+ (:review-selector-title . "Valitse, mitä kertaat")
+ (:review-selector-subtitle . "Valitse pakka tai kielipari, johon haluat keskittyä tässä kertausjaksossa.")
+ (:review-by-deck . "Kertaa pakan mukaan")
+ (:review-by-language-pair . "Kertaa kieliparin mukaan")
+ (:review-all-cards . "Kertaa kaikki kortit")
+
  (:review-start . "Aloita kertaus")
  (:review-no-cards . "Ei kerattavia kortteja")
  (:review-no-cards-desc . "Sinulla ei ole muistikortteja kerattavana juuri nyt.")

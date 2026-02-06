@@ -146,6 +146,12 @@
  (:review-title . "Gentag")
  (:review-session-title . "Gentagelsessession")
  (:review-session-subtitle . "Øv dine gemte flashcards")
+ (:review-selector-title . "Vælg hvad du vil gentage")
+ (:review-selector-subtitle . "Vælg et kortsæt eller et sprogpar at fokusere din gentagelsessession på.")
+ (:review-by-deck . "Gentag efter kortsæt")
+ (:review-by-language-pair . "Gentag efter sprogpar")
+ (:review-all-cards . "Gentag alle kort")
+
  (:review-start . "Start gentagelse")
  (:review-no-cards . "Ingen kort at gentage")
  (:review-no-cards-desc . "Du har ingen flashcards der skal gentages lige nu.")

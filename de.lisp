@@ -146,6 +146,12 @@
  (:review-title . "Wiederholen")
  (:review-session-title . "Wiederholungssitzung")
  (:review-session-subtitle . "Übe deine gespeicherten Karteikarten")
+ (:review-selector-title . "Wähle aus, was du wiederholen möchtest")
+ (:review-selector-subtitle . "Wähle ein Deck oder ein Sprachpaar für deine Wiederholungssitzung.")
+ (:review-by-deck . "Nach Deck wiederholen")
+ (:review-by-language-pair . "Nach Sprachpaar wiederholen")
+ (:review-all-cards . "Alle Karten wiederholen")
+
  (:review-start . "Wiederholung starten")
  (:review-no-cards . "Keine Karten zur Wiederholung")
  (:review-no-cards-desc . "Du hast gerade keine Karteikarten zur Wiederholung fällig.")

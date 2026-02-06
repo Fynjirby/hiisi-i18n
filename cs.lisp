@@ -145,6 +145,12 @@
  (:review-title . "Opakování")
  (:review-session-title . "Opakovací relace")
  (:review-session-subtitle . "Procvičujte uložené kartičky")
+ (:review-selector-title . "Vyberte, co chcete opakovat")
+ (:review-selector-subtitle . "Vyberte balíček nebo jazykový pár, na který se chcete v této relaci zaměřit.")
+ (:review-by-deck . "Opakovat podle balíčku")
+ (:review-by-language-pair . "Opakovat podle jazykového páru")
+ (:review-all-cards . "Opakovat všechny kartičky")
+
  (:review-start . "Začít opakování")
  (:review-no-cards . "Žádné kartičky k opakování")
  (:review-no-cards-desc . "Momentálně nemáte žádné kartičky k opakování.")

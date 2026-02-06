@@ -145,6 +145,12 @@
  (:review-title . "Herhalen")
  (:review-session-title . "Herhalingssessie")
  (:review-session-subtitle . "Oefen je opgeslagen flashcards")
+ (:review-selector-title . "Kies wat je wilt herhalen")
+ (:review-selector-subtitle . "Selecteer een deck of taalpaar om je herhalingssessie op te richten.")
+ (:review-by-deck . "Herhaal per deck")
+ (:review-by-language-pair . "Herhaal per taalpaar")
+ (:review-all-cards . "Herhaal alle kaarten")
+
  (:review-start . "Start herhaling")
  (:review-no-cards . "Geen kaarten te herhalen")
  (:review-no-cards-desc . "Je hebt momenteel geen flashcards die herhaald moeten worden.")

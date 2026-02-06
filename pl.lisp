@@ -146,6 +146,12 @@
  (:review-title . "Powtórka")
  (:review-session-title . "Sesja powtórkowa")
  (:review-session-subtitle . "Ćwicz zapisane fiszki")
+ (:review-selector-title . "Wybierz, co chcesz powtórzyć")
+ (:review-selector-subtitle . "Wybierz talię lub parę językową, na której chcesz skupić sesję powtórkową.")
+ (:review-by-deck . "Powtórka według talii")
+ (:review-by-language-pair . "Powtórka według pary językowej")
+ (:review-all-cards . "Powtórz wszystkie fiszki")
+
  (:review-start . "Rozpocznij powtórkę")
  (:review-no-cards . "Brak fiszek do powtórki")
  (:review-no-cards-desc . "Nie masz teraz żadnych fiszek do powtórki.")

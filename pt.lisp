@@ -146,6 +146,12 @@
  (:review-title . "Revisar")
  (:review-session-title . "Sessão de Revisão")
  (:review-session-subtitle . "Pratique seus flashcards salvos")
+ (:review-selector-title . "Escolha o que revisar")
+ (:review-selector-subtitle . "Selecione um baralho ou par de idiomas para focar sua sessão de revisão.")
+ (:review-by-deck . "Revisar por baralho")
+ (:review-by-language-pair . "Revisar por par de idiomas")
+ (:review-all-cards . "Revisar todos os cartões")
+
  (:review-start . "Iniciar Revisão")
  (:review-no-cards . "Nenhum Cartão para Revisar")
  (:review-no-cards-desc . "Você não tem nenhum flashcard pendente para revisão agora.")
