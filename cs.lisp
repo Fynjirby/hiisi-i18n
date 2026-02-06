@@ -55,6 +55,8 @@
  (:auth-register-subtitle . "Vytvořte nový účet")
  (:auth-login-title . "Přihlášení do Hiisi")
  (:auth-login-subtitle . "Zadejte své přihlašovací údaje")
+ (:auth-login-invalid-credentials . "Neplatny e-mail nebo heslo.")
+ (:auth-login-rate-limited . "Prilis mnoho pokusu o prihlaseni. Pockejte prosim nekolik minut a zkuste to znovu.")
  (:auth-forgot-password . "Zapomenuté heslo?")
  (:auth-no-account . "Nemáte účet?")
  (:auth-have-account . "Již máte účet?")

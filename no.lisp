@@ -56,6 +56,8 @@
  (:auth-register-subtitle . "Opprett en ny konto")
  (:auth-login-title . "Logg inn på Hiisi")
  (:auth-login-subtitle . "Skriv inn opplysningene dine")
+ (:auth-login-invalid-credentials . "Ugyldig e-post eller passord.")
+ (:auth-login-rate-limited . "For mange innloggingsforsok. Vent noen minutter og prov igjen.")
  (:auth-forgot-password . "Glemt passord?")
  (:auth-no-account . "Har du ikke konto?")
  (:auth-have-account . "Har du allerede en konto?")

@@ -55,6 +55,8 @@
  (:auth-register-subtitle . "Maak een nieuw account aan")
  (:auth-login-title . "Log in bij Hiisi")
  (:auth-login-subtitle . "Voer je gegevens in")
+ (:auth-login-invalid-credentials . "Ongeldig e-mailadres of wachtwoord.")
+ (:auth-login-rate-limited . "Te veel inlogpogingen. Wacht een paar minuten en probeer het opnieuw.")
  (:auth-forgot-password . "Wachtwoord vergeten?")
  (:auth-no-account . "Heb je geen account?")
  (:auth-have-account . "Heb je al een account?")

@@ -55,6 +55,8 @@
  (:auth-register-subtitle . "Loo uus konto")
  (:auth-login-title . "Logi Hiisi sisse")
  (:auth-login-subtitle . "Sisesta oma andmed")
+ (:auth-login-invalid-credentials . "Vigane e-post voi parool.")
+ (:auth-login-rate-limited . "Liiga palju sisselogimiskatseid. Oota paar minutit ja proovi uuesti.")
  (:auth-forgot-password . "Unustasid parooli?")
  (:auth-no-account . "Pole veel kontot?")
  (:auth-have-account . "On juba konto?")

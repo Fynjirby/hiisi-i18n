@@ -55,6 +55,8 @@
  (:auth-register-subtitle . "Luo uusi tili")
  (:auth-login-title . "Kirjaudu Hiisiin")
  (:auth-login-subtitle . "Syötä tunnuksesi")
+ (:auth-login-invalid-credentials . "Virheellinen sahkoposti tai salasana.")
+ (:auth-login-rate-limited . "Liian monta kirjautumisyritysta. Odota muutama minuutti ja yrita uudelleen.")
  (:auth-forgot-password . "Unohditko salasanan?")
  (:auth-no-account . "Eikö sinulla ole tiliä?")
  (:auth-have-account . "Onko sinulla jo tili?")

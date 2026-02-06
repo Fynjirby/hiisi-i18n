@@ -55,6 +55,8 @@
  (:auth-register-subtitle . "Skapa ett nytt konto")
  (:auth-login-title . "Logga in på Hiisi")
  (:auth-login-subtitle . "Ange dina uppgifter")
+ (:auth-login-invalid-credentials . "Ogiltig e-post eller losenord.")
+ (:auth-login-rate-limited . "For manga inloggningsforsok. Vanta nagra minuter och forsok igen.")
  (:auth-forgot-password . "Glömt lösenordet?")
  (:auth-no-account . "Har du inget konto?")
  (:auth-have-account . "Har du redan ett konto?")

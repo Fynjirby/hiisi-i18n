@@ -56,6 +56,8 @@
  (:auth-register-subtitle . "Создать новый аккаунт")
  (:auth-login-title . "Вход в Hiisi")
  (:auth-login-subtitle . "Введите данные")
+ (:auth-login-invalid-credentials . "Nevernyi e-mail ili parol.")
+ (:auth-login-rate-limited . "Slishkom mnogo popytok vhoda. Podozhdite neskolko minut i poprobuyte snova.")
  (:auth-forgot-password . "Забыли пароль?")
  (:auth-no-account . "Нет аккаунта?")
  (:auth-have-account . "Уже есть аккаунт?")

@@ -56,6 +56,8 @@
  (:auth-register-subtitle . "Neues Konto erstellen")
  (:auth-login-title . "Bei Hiisi anmelden")
  (:auth-login-subtitle . "Anmeldedaten eingeben")
+ (:auth-login-invalid-credentials . "Ungultige E-Mail oder ungultiges Passwort.")
+ (:auth-login-rate-limited . "Zu viele Anmeldeversuche. Bitte warte ein paar Minuten und versuche es erneut.")
  (:auth-forgot-password . "Passwort vergessen?")
  (:auth-no-account . "Noch kein Konto?")
  (:auth-have-account . "Bereits ein Konto?")
