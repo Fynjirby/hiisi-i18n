@@ -142,6 +142,12 @@
  (:flashcards-deck-search-placeholder . "Sök kortlekar...")
  (:flashcards-no-decks . "Inga kortlekar ännu. Skapa en först!")
  (:flashcards-deck-cancel . "Avbryt")
+ (:flashcards-recollection-tooltip . "Minnesstyrka: ~A")
+ (:flashcards-recollection-poor . "Svag")
+ (:flashcards-recollection-fair . "Måttlig")
+ (:flashcards-recollection-normal . "Normal")
+ (:flashcards-recollection-strong . "Stark")
+ (:flashcards-recollection-very-strong . "Mycket stark")
 
  ;; Flashcard review
  (:review-title . "Repetera")

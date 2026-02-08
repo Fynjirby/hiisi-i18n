@@ -143,6 +143,12 @@
  (:flashcards-deck-search-placeholder . "Cerca mazzi...")
  (:flashcards-no-decks . "Nessun mazzo ancora. Creane uno prima!")
  (:flashcards-deck-cancel . "Annulla")
+ (:flashcards-recollection-tooltip . "Ricordo: ~A")
+ (:flashcards-recollection-poor . "Debole")
+ (:flashcards-recollection-fair . "Discreto")
+ (:flashcards-recollection-normal . "Normale")
+ (:flashcards-recollection-strong . "Forte")
+ (:flashcards-recollection-very-strong . "Molto forte")
 
  ;; Flashcard review
  (:review-title . "Ripassa")

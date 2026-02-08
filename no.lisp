@@ -143,6 +143,12 @@
  (:flashcards-deck-search-placeholder . "Søk i kortstokker...")
  (:flashcards-no-decks . "Ingen kortstokker ennå. Lag en først!")
  (:flashcards-deck-cancel . "Avbryt")
+ (:flashcards-recollection-tooltip . "Hukommelse: ~A")
+ (:flashcards-recollection-poor . "Svak")
+ (:flashcards-recollection-fair . "Grei")
+ (:flashcards-recollection-normal . "Normal")
+ (:flashcards-recollection-strong . "Sterk")
+ (:flashcards-recollection-very-strong . "Veldig sterk")
 
  ;; Flashcard review
  (:review-title . "Repeter")

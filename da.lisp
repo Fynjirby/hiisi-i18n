@@ -143,6 +143,12 @@
  (:flashcards-deck-search-placeholder . "Søg i kortbunker...")
  (:flashcards-no-decks . "Ingen kortbunker endnu. Opret en først!")
  (:flashcards-deck-cancel . "Annuller")
+ (:flashcards-recollection-tooltip . "Hukommelse: ~A")
+ (:flashcards-recollection-poor . "Svag")
+ (:flashcards-recollection-fair . "Rimelig")
+ (:flashcards-recollection-normal . "Normal")
+ (:flashcards-recollection-strong . "Stærk")
+ (:flashcards-recollection-very-strong . "Meget stærk")
 
  ;; Flashcard review
  (:review-title . "Gentag")

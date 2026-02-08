@@ -143,6 +143,12 @@
  (:flashcards-deck-search-placeholder . "Искать колоды...")
  (:flashcards-no-decks . "Колоды пока нет. Сначала создайте одну!")
  (:flashcards-deck-cancel . "Отмена")
+ (:flashcards-recollection-tooltip . "Запоминание: ~A")
+ (:flashcards-recollection-poor . "Слабое")
+ (:flashcards-recollection-fair . "Среднее")
+ (:flashcards-recollection-normal . "Нормальное")
+ (:flashcards-recollection-strong . "Сильное")
+ (:flashcards-recollection-very-strong . "Очень сильное")
 
  ;; Flashcard review
  (:review-title . "Повторение")

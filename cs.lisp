@@ -142,6 +142,12 @@
  (:flashcards-deck-search-placeholder . "Hledat balíčky...")
  (:flashcards-no-decks . "Zatím žádné balíčky. Nejdřív nějaký vytvořte.")
  (:flashcards-deck-cancel . "Zrušit")
+ (:flashcards-recollection-tooltip . "Zapamatování: ~A")
+ (:flashcards-recollection-poor . "Slabé")
+ (:flashcards-recollection-fair . "Ucházející")
+ (:flashcards-recollection-normal . "Normální")
+ (:flashcards-recollection-strong . "Silné")
+ (:flashcards-recollection-very-strong . "Velmi silné")
 
  ;; Flashcard review
  (:review-title . "Opakování")

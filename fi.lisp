@@ -142,6 +142,12 @@
  (:flashcards-deck-search-placeholder . "Hae pakkoja...")
  (:flashcards-no-decks . "Ei vielä pakkoja. Luo ensin yksi!")
  (:flashcards-deck-cancel . "Peruuta")
+ (:flashcards-recollection-tooltip . "Muistijälki: ~A")
+ (:flashcards-recollection-poor . "Heikko")
+ (:flashcards-recollection-fair . "Kohtalainen")
+ (:flashcards-recollection-normal . "Normaali")
+ (:flashcards-recollection-strong . "Vahva")
+ (:flashcards-recollection-very-strong . "Erittäin vahva")
 
  ;; Flashcard review
  (:review-title . "Kertaus")

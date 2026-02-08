@@ -143,6 +143,12 @@
  (:flashcards-deck-search-placeholder . "Stapel suchen...")
  (:flashcards-no-decks . "Noch keine Stapel. Erstellen Sie zuerst einen!")
  (:flashcards-deck-cancel . "Abbrechen")
+ (:flashcards-recollection-tooltip . "Erinnerung: ~A")
+ (:flashcards-recollection-poor . "Schwach")
+ (:flashcards-recollection-fair . "Mäßig")
+ (:flashcards-recollection-normal . "Normal")
+ (:flashcards-recollection-strong . "Stark")
+ (:flashcards-recollection-very-strong . "Sehr stark")
 
  ;; Flashcard review
  (:review-title . "Wiederholen")

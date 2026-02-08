@@ -142,6 +142,12 @@
  (:flashcards-deck-search-placeholder . "Stapels zoeken...")
  (:flashcards-no-decks . "Nog geen stapels. Maak er eerst een!")
  (:flashcards-deck-cancel . "Annuleren")
+ (:flashcards-recollection-tooltip . "Herinnering: ~A")
+ (:flashcards-recollection-poor . "Zwak")
+ (:flashcards-recollection-fair . "Redelijk")
+ (:flashcards-recollection-normal . "Normaal")
+ (:flashcards-recollection-strong . "Sterk")
+ (:flashcards-recollection-very-strong . "Zeer sterk")
 
  ;; Flashcard review
  (:review-title . "Herhalen")

@@ -143,6 +143,12 @@
  (:flashcards-deck-search-placeholder . "Szukaj talii...")
  (:flashcards-no-decks . "Brak talii. Utwórz najpierw jedną!")
  (:flashcards-deck-cancel . "Anuluj")
+ (:flashcards-recollection-tooltip . "Zapamiętanie: ~A")
+ (:flashcards-recollection-poor . "Słabe")
+ (:flashcards-recollection-fair . "Umiarkowane")
+ (:flashcards-recollection-normal . "Normalne")
+ (:flashcards-recollection-strong . "Silne")
+ (:flashcards-recollection-very-strong . "Bardzo silne")
 
  ;; Flashcard review
  (:review-title . "Powtórka")

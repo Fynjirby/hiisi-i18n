@@ -143,6 +143,12 @@
  (:flashcards-deck-search-placeholder . "Pesquisar baralhos...")
  (:flashcards-no-decks . "Ainda não há baralhos. Crie um primeiro!")
  (:flashcards-deck-cancel . "Cancelar")
+ (:flashcards-recollection-tooltip . "Recordação: ~A")
+ (:flashcards-recollection-poor . "Fraca")
+ (:flashcards-recollection-fair . "Razoável")
+ (:flashcards-recollection-normal . "Normal")
+ (:flashcards-recollection-strong . "Forte")
+ (:flashcards-recollection-very-strong . "Muito forte")
 
  ;; Flashcard review
  (:review-title . "Revisar")

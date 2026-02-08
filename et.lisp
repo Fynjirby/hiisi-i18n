@@ -142,6 +142,12 @@
  (:flashcards-deck-search-placeholder . "Otsi kaardipakke...")
  (:flashcards-no-decks . "Kaardipakke veel pole. Loo üks kõigepealt!")
  (:flashcards-deck-cancel . "Tühista")
+ (:flashcards-recollection-tooltip . "Meeldejäävus: ~A")
+ (:flashcards-recollection-poor . "Nõrk")
+ (:flashcards-recollection-fair . "Rahuldav")
+ (:flashcards-recollection-normal . "Tavaline")
+ (:flashcards-recollection-strong . "Tugev")
+ (:flashcards-recollection-very-strong . "Väga tugev")
 
  ;; Flashcard review
  (:review-title . "Kordamine")
