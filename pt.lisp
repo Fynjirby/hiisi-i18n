@@ -513,7 +513,7 @@
  (:status-forbidden . "Forbidden")
 
  ;; Landing page (redesign)
- (:landing-hero-headline . "Learn Languages Through Grammar")
+ (:landing-hero-headline . "Learn Languages Comprehensively")
  (:landing-hero-subheadline . "Get translations with full grammar breakdowns and build lasting vocabulary through spaced repetition flashcards.")
  (:landing-hero-trust-line . "7-day free trial with 100 translations. Card required. Cancel anytime.")
  (:landing-credibility-languages . "14 languages")
