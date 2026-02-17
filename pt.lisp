@@ -37,7 +37,7 @@
  (:landing-feature-2-desc . "O algoritmo SM-2 agenda revisões em intervalos ideais. Aprenda eficientemente, lembre-se permanentemente.")
  (:landing-feature-3-title . "Ensino de Gramática")
  (:landing-feature-3-desc . "Cada tradução explica gramática, raízes das palavras e estrutura das frases. Entenda o porquê, não apenas o quê.")
- (:landing-free-trial . "7 dias de teste grátis. Sem necessidade de cartão de crédito.")
+ (:landing-free-trial . "7 dias de teste grátis.")
  (:landing-start-trial . "Iniciar Teste Grátis")
  (:landing-best-value . "Melhor Valor")
  (:landing-cta-title . "Pronto para aprender idiomas através da gramática, não da memorização?")

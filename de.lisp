@@ -37,7 +37,7 @@
  (:landing-feature-2-desc . "Der SM-2 Algorithmus plant Wiederholungen in optimalen Abständen. Effizient lernen, dauerhaft behalten.")
  (:landing-feature-3-title . "Grammatik verstehen")
  (:landing-feature-3-desc . "Jede Übersetzung erklärt Grammatik, Wortstämme und Satzstruktur. Verstehe das Warum, nicht nur das Was.")
- (:landing-free-trial . "7 Tage kostenlos testen. Keine Kreditkarte erforderlich.")
+ (:landing-free-trial . "7 Tage kostenlos testen.")
  (:landing-start-trial . "Kostenlos testen")
  (:landing-best-value . "Bestes Angebot")
  (:landing-cta-title . "Bereit, Sprachen durch Grammatik statt Auswendiglernen zu lernen?")

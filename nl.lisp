@@ -36,7 +36,7 @@
  (:landing-feature-2-desc . "Het SM-2 algoritme plant herhalingen op optimale intervallen. Leer efficient, onthoud permanent.")
  (:landing-feature-3-title . "Grammatica-onderwijs")
  (:landing-feature-3-desc . "Elke vertaling legt grammatica, woordwortels en zinsstructuur uit. Begrijp het waarom, niet alleen het wat.")
- (:landing-free-trial . "7 dagen gratis proberen. Geen creditcard nodig.")
+ (:landing-free-trial . "7 dagen gratis proberen.")
  (:landing-start-trial . "Start gratis proefperiode")
  (:landing-best-value . "Beste waarde")
  (:landing-cta-title . "Klaar om talen te leren via grammatica in plaats van uit het hoofd leren?")

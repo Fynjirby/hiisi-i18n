@@ -36,7 +36,7 @@
  (:landing-feature-2-desc . "Algoritmus SM-2 plánuje opakování v optimálních intervalech. Učte se efektivně, pamatujte si trvale.")
  (:landing-feature-3-title . "Výuka gramatiky")
  (:landing-feature-3-desc . "Každý překlad vysvětluje gramatiku, slovní kořeny a strukturu věty. Pochopte proč, nejen co.")
- (:landing-free-trial . "7denní zkušební verze zdarma. Kreditní karta není vyžadována.")
+ (:landing-free-trial . "7denní zkušební verze zdarma.")
  (:landing-start-trial . "Vyzkoušet zdarma")
  (:landing-best-value . "Nejlepší hodnota")
  (:landing-cta-title . "Připraveni učit se jazyky skrze gramatiku, ne memorování?")

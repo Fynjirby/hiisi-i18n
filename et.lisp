@@ -36,7 +36,7 @@
  (:landing-feature-2-desc . "SM-2 algoritm ajastab kordamised optimaalsete intervallidega. Õpi tõhusalt, jäta püsivalt meelde.")
  (:landing-feature-3-title . "Grammatika õpetus")
  (:landing-feature-3-desc . "Iga tõlge selgitab grammatikat, sõnatüvesid ja lauseehitust. Mõista põhjust, mitte ainult tulemust.")
- (:landing-free-trial . "7-päevane tasuta prooviperiood. Krediitkaarti pole vaja.")
+ (:landing-free-trial . "7-päevane tasuta prooviperiood.")
  (:landing-start-trial . "Alusta tasuta prooviperioodi")
  (:landing-best-value . "Parim pakkumine")
  (:landing-cta-title . "Valmis õppima keeli grammatika, mitte päheõppimise kaudu?")

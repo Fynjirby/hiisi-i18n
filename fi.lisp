@@ -36,7 +36,7 @@
  (:landing-feature-2-desc . "SM-2-algoritmi ajoittaa kertaukset optimaalisesti. Opi tehokkaasti, muista pysyvästi.")
  (:landing-feature-3-title . "Kieliopin opetus")
  (:landing-feature-3-desc . "Jokainen käännös selittää kieliopin, sanojen juuret ja lauserakenteen. Ymmärrä miksi, älä vain mitä.")
- (:landing-free-trial . "7 päivän ilmainen kokeilu. Luottokorttia ei tarvita.")
+ (:landing-free-trial . "7 päivän ilmainen kokeilu.")
  (:landing-start-trial . "Aloita ilmainen kokeilu")
  (:landing-best-value . "Paras arvo")
  (:landing-cta-title . "Valmis oppimaan kieliä kieliopin, ei ulkoa opettelun, kautta?")

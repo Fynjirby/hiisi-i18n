@@ -37,7 +37,7 @@
  (:landing-feature-2-desc . "Algorytm SM-2 planuje powtórki w optymalnych odstępach. Ucz się efektywnie, zapamiętuj na stałe.")
  (:landing-feature-3-title . "Nauka gramatyki")
  (:landing-feature-3-desc . "Każde tłumaczenie wyjaśnia gramatykę, pochodzenie słów i strukturę zdania. Zrozum dlaczego, nie tylko co.")
- (:landing-free-trial . "7-dniowy okres próbny. Karta kredytowa nie jest wymagana.")
+ (:landing-free-trial . "7-dniowy okres próbny.")
  (:landing-start-trial . "Rozpocznij bezpłatny okres próbny")
  (:landing-best-value . "Najlepsza oferta")
  (:landing-cta-title . "Gotowy uczyć się języków przez gramatykę, a nie wkuwanie?")

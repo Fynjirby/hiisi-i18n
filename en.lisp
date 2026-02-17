@@ -37,7 +37,7 @@
  (:landing-feature-2-desc . "SM-2 algorithm schedules reviews at optimal intervals. Learn efficiently, remember permanently.")
  (:landing-feature-3-title . "Grammar Teaching")
  (:landing-feature-3-desc . "Every translation explains grammar, word roots, and sentence structure. Understand the why, not just the what.")
- (:landing-free-trial . "7-day free trial. No credit card required.")
+ (:landing-free-trial . "7-day free trial.")
  (:landing-start-trial . "Start Free Trial")
  (:landing-best-value . "Best Value")
  (:landing-cta-title . "Ready to learn languages through grammar, not memorization?")

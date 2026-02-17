@@ -36,7 +36,7 @@
  (:landing-feature-2-desc . "SM-2-algoritmen schemalägger repetitioner vid optimala intervall. Lär dig effektivt, kom ihåg permanent.")
  (:landing-feature-3-title . "Grammatikundervisning")
  (:landing-feature-3-desc . "Varje översättning förklarar grammatik, ordstammar och meningsstruktur. Förstå varför, inte bara vad.")
- (:landing-free-trial . "7 dagars gratis provperiod. Inget kreditkort krävs.")
+ (:landing-free-trial . "7 dagars gratis provperiod.")
  (:landing-start-trial . "Starta gratis provperiod")
  (:landing-best-value . "Bäst värde")
  (:landing-cta-title . "Redo att lära dig språk genom grammatik, inte utantillärning?")

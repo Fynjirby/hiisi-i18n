@@ -37,7 +37,7 @@
  (:landing-feature-2-desc . "SM-2-algoritmen planlægger gentagelser med optimale intervaller. Lær effektivt, husk permanent.")
  (:landing-feature-3-title . "Grammatikundervisning")
  (:landing-feature-3-desc . "Hver oversættelse forklarer grammatik, ordstammer og sætningsstruktur. Forstå hvorfor, ikke kun hvad.")
- (:landing-free-trial . "7 dages gratis prøveperiode. Intet kreditkort påkrævet.")
+ (:landing-free-trial . "7 dages gratis prøveperiode.")
  (:landing-start-trial . "Start gratis prøveperiode")
  (:landing-best-value . "Bedste værdi")
  (:landing-cta-title . "Klar til at lære sprog gennem grammatik, ikke udenadslære?")
