@@ -583,4 +583,18 @@
  (:custom-flashcard-ai-generating . "Generazione con IA in corso...")
  (:custom-flashcard-badge . "Personalizzata")
 
+ ;; Segnalazione problemi
+ (:issues-open-button . "Segnala un problema")
+ (:issues-modal-title . "Segnala un problema")
+ (:issues-modal-subtitle . "Descrivi cosa è andato storto. Includeremo automaticamente la pagina corrente.")
+ (:issues-message-label . "Che cosa è successo?")
+ (:issues-message-placeholder . "Indica i passaggi per riprodurre, il comportamento atteso e cosa è successo invece.")
+ (:issues-submit . "Invia segnalazione")
+ (:issues-cancel . "Annulla")
+ (:issues-success . "Grazie. La tua segnalazione è stata inviata.")
+ (:issues-error-required . "Descrivi il problema prima di inviare.")
+ (:issues-error-too-long . "Il testo della segnalazione è troppo lungo. Resta sotto i 4000 caratteri.")
+ (:issues-error-rate-limit . "Troppe segnalazioni da questa origine. Attendi e riprova più tardi.")
+ (:issues-error-generic . "Impossibile inviare la segnalazione. Riprova.")
+
 )

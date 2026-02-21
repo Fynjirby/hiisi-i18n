@@ -583,4 +583,18 @@
  (:custom-flashcard-ai-generating . "Generando con IA...")
  (:custom-flashcard-badge . "Personalizada")
 
+ ;; Reporte de problemas
+ (:issues-open-button . "Reportar un problema")
+ (:issues-modal-title . "Reportar un problema")
+ (:issues-modal-subtitle . "Describe qué salió mal. Incluiremos automáticamente la página actual.")
+ (:issues-message-label . "¿Qué ocurrió?")
+ (:issues-message-placeholder . "Incluye pasos para reproducir, el comportamiento esperado y lo que ocurrió en su lugar.")
+ (:issues-submit . "Enviar reporte")
+ (:issues-cancel . "Cancelar")
+ (:issues-success . "Gracias. Tu reporte de problema fue enviado.")
+ (:issues-error-required . "Describe el problema antes de enviarlo.")
+ (:issues-error-too-long . "El texto del reporte es demasiado largo. Mantenlo por debajo de 4000 caracteres.")
+ (:issues-error-rate-limit . "Demasiados reportes desde este origen. Espera e inténtalo de nuevo más tarde.")
+ (:issues-error-generic . "No se pudo enviar el reporte de problema. Inténtalo de nuevo.")
+
 )

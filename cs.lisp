@@ -582,4 +582,18 @@
  (:custom-flashcard-ai-generating . "Generování pomocí AI...")
  (:custom-flashcard-badge . "Vlastní")
 
+ ;; Hlásení problémů
+ (:issues-open-button . "Nahlásit problém")
+ (:issues-modal-title . "Nahlásit problém")
+ (:issues-modal-subtitle . "Popište, co se pokazilo. Aktuální stránku přiložíme automaticky.")
+ (:issues-message-label . "Co se stalo?")
+ (:issues-message-placeholder . "Uveďte kroky k reprodukci, očekávané chování a co se stalo místo toho.")
+ (:issues-submit . "Odeslat hlášení")
+ (:issues-cancel . "Zrušit")
+ (:issues-success . "Děkujeme. Hlášení problému bylo odesláno.")
+ (:issues-error-required . "Před odesláním prosím popište problém.")
+ (:issues-error-too-long . "Text hlášení je příliš dlouhý. Zkraťte ho prosím pod 4000 znaků.")
+ (:issues-error-rate-limit . "Z tohoto zdroje bylo odesláno příliš mnoho hlášení. Počkejte prosím a zkuste to znovu později.")
+ (:issues-error-generic . "Hlášení problému se nepodařilo odeslat. Zkuste to prosím znovu.")
+
 )

@@ -582,4 +582,18 @@
  (:custom-flashcard-ai-generating . "Wordt gegenereerd met AI...")
  (:custom-flashcard-badge . "Aangepast")
 
+ ;; Probleemrapportage
+ (:issues-open-button . "Probleem melden")
+ (:issues-modal-title . "Probleem melden")
+ (:issues-modal-subtitle . "Beschrijf wat er misging. We voegen je huidige pagina automatisch toe.")
+ (:issues-message-label . "Wat is er gebeurd?")
+ (:issues-message-placeholder . "Vermeld stappen om te reproduceren, verwacht gedrag en wat er in plaats daarvan gebeurde.")
+ (:issues-submit . "Melding verzenden")
+ (:issues-cancel . "Annuleren")
+ (:issues-success . "Bedankt. Je probleemmelding is verzonden.")
+ (:issues-error-required . "Beschrijf het probleem voordat je verzendt.")
+ (:issues-error-too-long . "De melding is te lang. Houd het onder 4000 tekens.")
+ (:issues-error-rate-limit . "Te veel meldingen vanaf deze bron. Wacht even en probeer later opnieuw.")
+ (:issues-error-generic . "De probleemmelding kon niet worden verzonden. Probeer het opnieuw.")
+
 )

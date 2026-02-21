@@ -583,4 +583,18 @@
  (:custom-flashcard-ai-generating . "Generowanie za pomocą AI...")
  (:custom-flashcard-badge . "Własna")
 
+ ;; Zgłaszanie problemów
+ (:issues-open-button . "Zgłoś problem")
+ (:issues-modal-title . "Zgłoś problem")
+ (:issues-modal-subtitle . "Opisz, co poszło nie tak. Automatycznie dołączymy bieżącą stronę.")
+ (:issues-message-label . "Co się stało?")
+ (:issues-message-placeholder . "Podaj kroki odtworzenia, oczekiwane działanie i to, co wydarzyło się zamiast tego.")
+ (:issues-submit . "Wyślij zgłoszenie")
+ (:issues-cancel . "Anuluj")
+ (:issues-success . "Dziękujemy. Twoje zgłoszenie zostało wysłane.")
+ (:issues-error-required . "Opisz problem przed wysłaniem.")
+ (:issues-error-too-long . "Treść zgłoszenia jest za długa. Zachowaj limit 4000 znaków.")
+ (:issues-error-rate-limit . "Zbyt wiele zgłoszeń z tego źródła. Poczekaj i spróbuj ponownie później.")
+ (:issues-error-generic . "Nie udało się wysłać zgłoszenia. Spróbuj ponownie.")
+
 )

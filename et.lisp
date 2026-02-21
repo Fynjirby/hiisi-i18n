@@ -582,4 +582,18 @@
  (:custom-flashcard-ai-generating . "Genereerimine tehisaruga...")
  (:custom-flashcard-badge . "Kohandatud")
 
+ ;; Probleemidest teavitamine
+ (:issues-open-button . "Teata probleemist")
+ (:issues-modal-title . "Teata probleemist")
+ (:issues-modal-subtitle . "Kirjelda, mis läks valesti. Sinu praegune leht lisatakse automaatselt.")
+ (:issues-message-label . "Mis juhtus?")
+ (:issues-message-placeholder . "Lisa palun taasesitamise sammud, oodatud tulemus ja tegelik tulemus.")
+ (:issues-submit . "Saada teade")
+ (:issues-cancel . "Tühista")
+ (:issues-success . "Aitäh. Probleemiteade on saadetud.")
+ (:issues-error-required . "Palun kirjelda enne saatmist probleemi.")
+ (:issues-error-too-long . "Teate tekst on liiga pikk. Hoia see alla 4000 märgi.")
+ (:issues-error-rate-limit . "Sellest allikast on saadetud liiga palju teateid. Palun oota ja proovi hiljem uuesti.")
+ (:issues-error-generic . "Probleemiteadet ei õnnestunud saata. Palun proovi uuesti.")
+
 )

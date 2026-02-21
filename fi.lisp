@@ -582,4 +582,18 @@
  (:custom-flashcard-ai-generating . "Luodaan tekoälyn avulla...")
  (:custom-flashcard-badge . "Oma")
 
+ ;; Ongelmailmoitukset
+ (:issues-open-button . "Ilmoita ongelmasta")
+ (:issues-modal-title . "Ilmoita ongelmasta")
+ (:issues-modal-subtitle . "Kuvaile, mikä meni pieleen. Nykyinen sivu liitetään mukaan automaattisesti.")
+ (:issues-message-label . "Mitä tapahtui?")
+ (:issues-message-placeholder . "Kerro toistovaiheet, odotettu toiminta ja mitä tapahtui sen sijaan.")
+ (:issues-submit . "Lähetä ilmoitus")
+ (:issues-cancel . "Peruuta")
+ (:issues-success . "Kiitos. Ongelmailmoitus lähetettiin.")
+ (:issues-error-required . "Kuvaile ongelma ennen lähettämistä.")
+ (:issues-error-too-long . "Ilmoitusteksti on liian pitkä. Pidä se alle 4000 merkin.")
+ (:issues-error-rate-limit . "Tästä lähteestä on lähetetty liikaa ilmoituksia. Odota hetki ja yritä myöhemmin uudelleen.")
+ (:issues-error-generic . "Ongelmailmoituksen lähettäminen epäonnistui. Yritä uudelleen.")
+
 )

@@ -583,4 +583,18 @@
  (:custom-flashcard-ai-generating . "Genererer med AI...")
  (:custom-flashcard-badge . "Tilpasset")
 
+ ;; Problemrapportering
+ (:issues-open-button . "Rapportér et problem")
+ (:issues-modal-title . "Rapportér et problem")
+ (:issues-modal-subtitle . "Beskriv, hvad der gik galt. Vi vedhæfter automatisk den aktuelle side.")
+ (:issues-message-label . "Hvad skete der?")
+ (:issues-message-placeholder . "Angiv trin til at genskabe, forventet adfærd og hvad der skete i stedet.")
+ (:issues-submit . "Send rapport")
+ (:issues-cancel . "Annullér")
+ (:issues-success . "Tak. Din problemrapport er sendt.")
+ (:issues-error-required . "Beskriv problemet, før du sender.")
+ (:issues-error-too-long . "Rapportteksten er for lang. Hold den under 4000 tegn.")
+ (:issues-error-rate-limit . "For mange rapporter fra denne kilde. Vent og prøv igen senere.")
+ (:issues-error-generic . "Problemrapporten kunne ikke sendes. Prøv igen.")
+
 )

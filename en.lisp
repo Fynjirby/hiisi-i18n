@@ -583,4 +583,18 @@
  (:custom-flashcard-ai-generating . "Generating with AI...")
  (:custom-flashcard-badge . "Custom")
 
+ ;; Issue reporting
+ (:issues-open-button . "Report an Issue")
+ (:issues-modal-title . "Report an Issue")
+ (:issues-modal-subtitle . "Describe what went wrong. We will include your current page automatically.")
+ (:issues-message-label . "What happened?")
+ (:issues-message-placeholder . "Please include steps to reproduce, expected behavior, and what happened instead.")
+ (:issues-submit . "Submit Issue")
+ (:issues-cancel . "Cancel")
+ (:issues-success . "Thank you. Your issue report was submitted.")
+ (:issues-error-required . "Please describe the issue before submitting.")
+ (:issues-error-too-long . "Issue text is too long. Please keep it under 4000 characters.")
+ (:issues-error-rate-limit . "Too many reports from this source. Please wait and try again later.")
+ (:issues-error-generic . "Issue report could not be submitted. Please try again.")
+
 )

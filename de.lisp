@@ -583,4 +583,18 @@
  (:custom-flashcard-ai-generating . "Wird mit KI generiert...")
  (:custom-flashcard-badge . "Eigene")
 
+ ;; Problemmeldungen
+ (:issues-open-button . "Problem melden")
+ (:issues-modal-title . "Problem melden")
+ (:issues-modal-subtitle . "Beschreiben Sie, was schiefgelaufen ist. Ihre aktuelle Seite wird automatisch mitgesendet.")
+ (:issues-message-label . "Was ist passiert?")
+ (:issues-message-placeholder . "Bitte geben Sie Schritte zur Reproduktion, das erwartete Verhalten und das tatsächliche Ergebnis an.")
+ (:issues-submit . "Meldung senden")
+ (:issues-cancel . "Abbrechen")
+ (:issues-success . "Danke. Ihre Problemmeldung wurde gesendet.")
+ (:issues-error-required . "Bitte beschreiben Sie das Problem vor dem Absenden.")
+ (:issues-error-too-long . "Der Meldungstext ist zu lang. Bitte bleiben Sie unter 4000 Zeichen.")
+ (:issues-error-rate-limit . "Zu viele Meldungen von dieser Quelle. Bitte warten Sie und versuchen Sie es später erneut.")
+ (:issues-error-generic . "Die Problemmeldung konnte nicht gesendet werden. Bitte versuchen Sie es erneut.")
+
 )
