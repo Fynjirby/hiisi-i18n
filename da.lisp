@@ -460,6 +460,7 @@
  (:flashcards-title . "Mine kort")
  (:flashcards-subtitle . "Alle dine gemte kort på ét sted. Søg, organiser og administrer.")
  (:flashcards-search-placeholder . "Søg i kort...")
+ (:flashcards-hide-perfected . "Skjul fuldt indlærte kort")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Oversættelse")
  (:flashcards-col-lang . "Sprog")

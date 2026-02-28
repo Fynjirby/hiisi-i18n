@@ -507,6 +507,7 @@
  (:flashcards-title . "My Flashcards")
  (:flashcards-subtitle . "All your saved flashcards in one place. Search, organize, and manage.")
  (:flashcards-search-placeholder . "Search flashcards...")
+ (:flashcards-hide-perfected . "Hide perfected cards")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Translation")
  (:flashcards-col-lang . "Languages")

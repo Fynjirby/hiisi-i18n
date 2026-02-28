@@ -460,6 +460,7 @@
  (:flashcards-title . "Meus cartões")
  (:flashcards-subtitle . "Todos os seus cartões guardados num só lugar. Pesquise, organize e gira.")
  (:flashcards-search-placeholder . "Pesquisar cartões...")
+ (:flashcards-hide-perfected . "Ocultar cartões dominados")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Tradução")
  (:flashcards-col-lang . "Idiomas")

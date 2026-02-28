@@ -460,6 +460,7 @@
  (:flashcards-title . "Moje fiszki")
  (:flashcards-subtitle . "Wszystkie zapisane fiszki w jednym miejscu. Szukaj, organizuj i zarządzaj.")
  (:flashcards-search-placeholder . "Szukaj fiszek...")
+ (:flashcards-hide-perfected . "Ukryj opanowane fiszki")
  (:flashcards-col-original . "Oryginał")
  (:flashcards-col-translated . "Tłumaczenie")
  (:flashcards-col-lang . "Języki")

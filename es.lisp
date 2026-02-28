@@ -460,6 +460,7 @@
  (:flashcards-title . "Mis tarjetas")
  (:flashcards-subtitle . "Todas tus tarjetas guardadas en un solo lugar. Busca, organiza y gestiona.")
  (:flashcards-search-placeholder . "Buscar tarjetas...")
+ (:flashcards-hide-perfected . "Ocultar tarjetas dominadas")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Traducción")
  (:flashcards-col-lang . "Idiomas")

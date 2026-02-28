@@ -459,6 +459,7 @@
  (:flashcards-title . "Korttini")
  (:flashcards-subtitle . "Kaikki tallennetut korttisi yhdessä paikassa. Hae, järjestä ja hallitse.")
  (:flashcards-search-placeholder . "Hae kortteja...")
+ (:flashcards-hide-perfected . "Piilota täysin osatut kortit")
  (:flashcards-col-original . "Alkuperäinen")
  (:flashcards-col-translated . "Käännös")
  (:flashcards-col-lang . "Kielet")

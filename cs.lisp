@@ -459,6 +459,7 @@
  (:flashcards-title . "Moje kartičky")
  (:flashcards-subtitle . "Všechny vaše uložené kartičky na jednom místě. Hledejte, organizujte a spravujte.")
  (:flashcards-search-placeholder . "Hledat kartičky...")
+ (:flashcards-hide-perfected . "Skrýt zvládnuté kartičky")
  (:flashcards-col-original . "Originál")
  (:flashcards-col-translated . "Překlad")
  (:flashcards-col-lang . "Jazyky")

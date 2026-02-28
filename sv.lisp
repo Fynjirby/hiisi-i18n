@@ -459,6 +459,7 @@
  (:flashcards-title . "Mina kort")
  (:flashcards-subtitle . "Alla dina sparade kort på ett ställe. Sök, organisera och hantera.")
  (:flashcards-search-placeholder . "Sök kort...")
+ (:flashcards-hide-perfected . "Dölj fullständigt inlärda kort")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Översättning")
  (:flashcards-col-lang . "Språk")

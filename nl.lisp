@@ -459,6 +459,7 @@
  (:flashcards-title . "Mijn kaarten")
  (:flashcards-subtitle . "Al je opgeslagen kaarten op één plek. Zoek, organiseer en beheer.")
  (:flashcards-search-placeholder . "Kaarten zoeken...")
+ (:flashcards-hide-perfected . "Beheerste kaartjes verbergen")
  (:flashcards-col-original . "Origineel")
  (:flashcards-col-translated . "Vertaling")
  (:flashcards-col-lang . "Talen")

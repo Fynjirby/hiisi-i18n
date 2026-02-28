@@ -460,6 +460,7 @@
  (:flashcards-title . "Мои карточки")
  (:flashcards-subtitle . "Все ваши сохранённые карточки в одном месте. Ищите, организуйте и управляйте.")
  (:flashcards-search-placeholder . "Поиск карточек...")
+ (:flashcards-hide-perfected . "Скрыть полностью освоенные карточки")
  (:flashcards-col-original . "Оригинал")
  (:flashcards-col-translated . "Перевод")
  (:flashcards-col-lang . "Языки")

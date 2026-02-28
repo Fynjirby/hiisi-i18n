@@ -459,6 +459,7 @@
  (:flashcards-title . "Minu kaardid")
  (:flashcards-subtitle . "Kõik sinu salvestatud kaardid ühes kohas. Otsi, korrasta ja halda.")
  (:flashcards-search-placeholder . "Otsi kaarte...")
+ (:flashcards-hide-perfected . "Peida täielikult omandatud kaardid")
  (:flashcards-col-original . "Originaal")
  (:flashcards-col-translated . "Tõlge")
  (:flashcards-col-lang . "Keeled")

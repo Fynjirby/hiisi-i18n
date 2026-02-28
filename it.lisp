@@ -460,6 +460,7 @@
  (:flashcards-title . "Le mie carte")
  (:flashcards-subtitle . "Tutte le tue carte salvate in un unico posto. Cerca, organizza e gestisci.")
  (:flashcards-search-placeholder . "Cerca carte...")
+ (:flashcards-hide-perfected . "Nascondi le carte già padroneggiate")
  (:flashcards-col-original . "Originale")
  (:flashcards-col-translated . "Traduzione")
  (:flashcards-col-lang . "Lingue")

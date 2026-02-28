@@ -460,6 +460,7 @@
  (:flashcards-title . "Meine Karten")
  (:flashcards-subtitle . "Alle gespeicherten Karteikarten an einem Ort. Suchen, organisieren und verwalten.")
  (:flashcards-search-placeholder . "Karten suchen...")
+ (:flashcards-hide-perfected . "Perfekt beherrschte Karten ausblenden")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Übersetzung")
  (:flashcards-col-lang . "Sprachen")
