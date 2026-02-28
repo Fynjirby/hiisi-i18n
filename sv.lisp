@@ -514,7 +514,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Lär dig språk på djupet")
  (:landing-hero-subheadline . "Få översättningar med fullständig grammatikanalys och bygg ett varaktigt ordförråd med flashkort och distribuerad repetition.")
- (:landing-hero-trust-line . "7 dagars gratis provperiod med 100 översättningar. Kort krävs. Avsluta när som helst.")
+ (:landing-hero-trust-line . "7 dagars gratis provperiod med 100 översättningar. Avsluta när som helst.")
  (:landing-credibility-languages . "14 språk")
  (:landing-credibility-ai . "Grammatikanalys inkluderad")
  (:landing-credibility-origin . "Byggt i Estland")

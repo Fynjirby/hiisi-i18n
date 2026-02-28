@@ -515,7 +515,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Ucz się języków kompleksowo")
  (:landing-hero-subheadline . "Otrzymuj tłumaczenia z pełną analizą gramatyczną i buduj trwałe słownictwo dzięki fiszkom z powtórkami rozłożonymi w czasie.")
- (:landing-hero-trust-line . "7 dni darmowego okresu próbnego ze 100 tłumaczeniami. Karta wymagana. Anuluj w każdej chwili.")
+ (:landing-hero-trust-line . "7 dni darmowego okresu próbnego ze 100 tłumaczeniami. Anuluj w każdej chwili.")
  (:landing-credibility-languages . "14 języków")
  (:landing-credibility-ai . "Analiza gramatyczna w zestawie")
  (:landing-credibility-origin . "Stworzone w Estonii")

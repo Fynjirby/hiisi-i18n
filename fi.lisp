@@ -514,7 +514,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Opi kieliä kattavasti")
  (:landing-hero-subheadline . "Saat käännökset täydellisellä kieliopin erittelyllä ja rakennat kestävää sanavarastoa älykkään toistomenetelmän avulla.")
- (:landing-hero-trust-line . "7 päivää ilmaista kokeilua, 100 käännöstä. Kortti vaaditaan. Peru milloin tahansa.")
+ (:landing-hero-trust-line . "7 päivää ilmaista kokeilua, 100 käännöstä. Peru milloin tahansa.")
  (:landing-credibility-languages . "14 kieltä")
  (:landing-credibility-ai . "Kieliopin erittely mukana")
  (:landing-credibility-origin . "Tehty Virossa")

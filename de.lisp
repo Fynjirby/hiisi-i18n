@@ -515,7 +515,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Sprachen umfassend lernen")
  (:landing-hero-subheadline . "Erhalten Sie Übersetzungen mit vollständiger Grammatikanalyse und bauen Sie dauerhaften Wortschatz mit Karteikarten-Wiederholung auf.")
- (:landing-hero-trust-line . "7 Tage kostenlos testen mit 100 Übersetzungen. Karte erforderlich. Jederzeit kündbar.")
+ (:landing-hero-trust-line . "7 Tage kostenlos testen mit 100 Übersetzungen. Jederzeit kündbar.")
  (:landing-credibility-languages . "14 Sprachen")
  (:landing-credibility-ai . "Grammatikanalyse inklusive")
  (:landing-credibility-origin . "Entwickelt in Estland")

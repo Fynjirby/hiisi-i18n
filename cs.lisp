@@ -514,7 +514,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Učte se jazyky komplexně")
  (:landing-hero-subheadline . "Získejte překlady s úplným gramatickým rozborem a budujte si trvalou slovní zásobu pomocí kartičkového opakování.")
- (:landing-hero-trust-line . "7 dní zdarma se 100 překlady. Nutná karta. Zrušit kdykoliv.")
+ (:landing-hero-trust-line . "7 dní zdarma se 100 překlady. Zrušit kdykoliv.")
  (:landing-credibility-languages . "14 jazyků")
  (:landing-credibility-ai . "Včetně gramatického rozboru")
  (:landing-credibility-origin . "Vyrobeno v Estonsku")

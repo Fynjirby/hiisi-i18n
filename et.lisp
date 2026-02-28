@@ -514,7 +514,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Õpi keeli põhjalikult")
  (:landing-hero-subheadline . "Saa tõlkeid koos täieliku grammatilise analüüsiga ja ehita kestev sõnavara hajutatud kordamise õppekaartide abil.")
- (:landing-hero-trust-line . "7 päeva tasuta prooviperioodi 100 tõlkega. Vajalik kaart. Tühista igal ajal.")
+ (:landing-hero-trust-line . "7 päeva tasuta prooviperioodi 100 tõlkega. Tühista igal ajal.")
  (:landing-credibility-languages . "14 keelt")
  (:landing-credibility-ai . "Grammatiline analüüs kaasas")
  (:landing-credibility-origin . "Loodud Eestis")

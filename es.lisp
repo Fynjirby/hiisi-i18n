@@ -515,7 +515,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Aprende idiomas de forma integral")
  (:landing-hero-subheadline . "Obtén traducciones con análisis gramatical completo y construye vocabulario duradero con tarjetas de repetición espaciada.")
- (:landing-hero-trust-line . "7 días de prueba gratis con 100 traducciones. Se requiere tarjeta. Cancela en cualquier momento.")
+ (:landing-hero-trust-line . "7 días de prueba gratis con 100 traducciones. Cancela en cualquier momento.")
  (:landing-credibility-languages . "14 idiomas")
  (:landing-credibility-ai . "Análisis gramatical incluido")
  (:landing-credibility-origin . "Hecho en Estonia")

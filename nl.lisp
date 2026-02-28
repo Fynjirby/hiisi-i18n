@@ -514,7 +514,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Leer talen op een complete manier")
  (:landing-hero-subheadline . "Krijg vertalingen met volledige grammaticale analyse en bouw blijvende woordenschat op via gespreid herhalen met flashcards.")
- (:landing-hero-trust-line . "7 dagen gratis proberen met 100 vertalingen. Kaart vereist. Op elk moment opzegbaar.")
+ (:landing-hero-trust-line . "7 dagen gratis proberen met 100 vertalingen. Op elk moment opzegbaar.")
  (:landing-credibility-languages . "14 talen")
  (:landing-credibility-ai . "Grammaticale analyse inbegrepen")
  (:landing-credibility-origin . "Gemaakt in Estland")
