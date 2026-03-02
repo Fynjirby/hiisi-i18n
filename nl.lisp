@@ -22,31 +22,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Talen leren")
- (:app-tagline . "Leer talen door vertalingen")
 
  ;; Landing page
- (:landing-hero-title . "Beheers elke taal")
- (:landing-hero-subtitle . "Vertaal alles. Genereer automatisch flashcards die je leren waarom het zo werkt.")
- (:landing-cta . "Begin met leren")
  (:landing-learn-more . "Meer informatie")
  (:landing-how-it-works . "Hoe het werkt")
- (:landing-feature-1-title . "Automatische flashcards")
- (:landing-feature-1-desc . "Elke vertaling genereert automatisch flashcards met grammaticale uitleg. Geen handmatige kaarten maken.")
- (:landing-feature-2-title . "Gespreide herhaling")
- (:landing-feature-2-desc . "Het SM-2 algoritme plant herhalingen op optimale intervallen. Leer efficient, onthoud permanent.")
- (:landing-feature-3-title . "Grammatica-onderwijs")
- (:landing-feature-3-desc . "Elke vertaling legt grammatica, woordwortels en zinsstructuur uit. Begrijp het waarom, niet alleen het wat.")
- (:landing-free-trial . "7 dagen gratis proberen.")
  (:landing-start-trial . "Start gratis proefperiode")
  (:landing-best-value . "Beste waarde")
- (:landing-cta-title . "Klaar om talen te leren via grammatica in plaats van uit het hoofd leren?")
- (:landing-cta-subtitle . "Elke vertaling wordt een leermogelijkheid. Elke flashcard leert je waarom.")
- (:landing-signup-free . "Gratis aanmelden")
 
  ;; Auth pages
  (:auth-register . "Registreren")
  (:auth-login . "Inloggen")
- (:auth-logout . "Uitloggen")
  (:auth-email . "E-mail")
  (:auth-password . "Wachtwoord")
  (:auth-password-again . "Bevestig wachtwoord")
@@ -109,11 +94,6 @@
  (:translate-from . "Van:")
  (:translate-to . "Naar:")
  (:translate-submit . "Vertalen")
- (:translate-save . "Opslaan als flashcard")
- (:translate-saved . "Opgeslagen!")
- (:translate-like . "Leuk")
- (:translate-dislike . "Niet leuk")
- (:translate-char-limit . "tekens over")
  (:translate-auto-detect . "Elke (Automatisch detecteren)")
  (:translate-empty-state . "Voer hierboven tekst in en klik op Vertalen om het resultaat met grammaticale uitleg te zien")
  (:translate-select-deck-placeholder . "Selecteer stapel (optioneel)")
@@ -125,7 +105,6 @@
  (:translate-like-tooltip . "Goede vertaling")
  (:translate-dislike-tooltip . "Slechte vertaling - vraag een nieuwe aan")
  (:translate-dislike-confirm . "Dit genereert een nieuwe vertaling. Doorgaan?")
- (:translate-liked . "Leuk!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
@@ -159,12 +138,10 @@
  (:review-by-language-pair . "Herhaal per taalpaar")
  (:review-all-cards . "Herhaal alle kaarten")
 
- (:review-start . "Start herhaling")
  (:review-no-cards . "Geen kaarten te herhalen")
  (:review-no-cards-desc . "Je hebt momenteel geen flashcards die herhaald moeten worden.")
  (:review-no-cards-hint . "Vertaal wat tekst en klik op \"Opslaan als flashcard\" om je stapel op te bouwen!")
  (:review-start-translating . "Begin met vertalen")
- (:review-show-answer . "Toon antwoord")
  (:review-click-reveal . "Klik om antwoord te tonen")
  (:review-grammar-breakdown . "Grammaticale uitleg")
  (:review-how-well . "Herinnerde je het?")
@@ -175,8 +152,6 @@
  (:review-progress . "Kaart ~a van ~a")
  (:review-complete . "Sessie voltooid!")
  (:review-complete-msg . "Je hebt ~a kaarten herhaald")
- (:review-correct . "Correct")
- (:review-accuracy . "Nauwkeurigheid")
  (:review-again-btn . "Opnieuw herhalen")
  (:review-translate-more . "Meer vertalen")
  (:review-streak . "dagen op rij")
@@ -231,8 +206,6 @@
  (:subscribe-grammar-explanations . "Grammatica-uitleg")
  (:subscribe-spaced-repetition . "Gespreide herhaling")
  (:subscribe-annual-desc . "Bespaar €20 - twee maanden gratis!")
- (:subscribe-cta . "Abonneren")
- (:subscribe-success . "Abonnement gelukt!")
  (:subscribe-manage . "Beheer abonnement")
  (:subscribe-activated . "Abonnement geactiveerd!")
  (:subscribe-thank-you . "Bedankt voor je abonnement. Je account is nu actief.")
@@ -257,9 +230,6 @@
 
  ;; Errors and status
  (:error-generic . "Er ging iets mis")
- (:error-not-found . "Pagina niet gevonden")
- (:error-unauthorized . "Log in om door te gaan")
- (:error-subscription-required . "Abonnement vereist")
  (:error-text-too-long . "Tekst is te lang. Maximale vertalingslengte is 120 tekens.")
  (:error-input-too-long . "Invoer te lang")
  (:error-unknown-source-lang . "De brontaal die je hebt geselecteerd wordt niet ondersteund.")
@@ -270,14 +240,10 @@
  (:error-translation-retry . "Kon na meerdere pogingen geen vertaling genereren. Probeer je tekst anders te formuleren.")
  (:error-quota-exceeded . "Vertaallimiet bereikt")
  (:error-quota-exceeded-detail . "Je hebt al je vertalingen voor deze maand gebruikt. Je quotum wordt automatisch elke maand gereset.")
- (:quota-warning . "Resterende vertalingen: ~A")
  (:quota-low-warning . "Nog maar ~A vertalingen over. Overweeg om meer te kopen.")
  (:top-up-button . "Koop meer vertalingen")
- (:top-up-success . "Top-up gelukt! Je hebt nu ~A extra vertalingen.")
  (:top-up-price . "€5")
  (:top-up-amount . "300 vertalingen")
- (:loading . "Laden...")
- (:empty-state . "Hier is nog niets")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi voor scholen en universiteiten")
@@ -311,11 +277,9 @@
  ;; Footer
  (:footer-privacy . "Privacybeleid")
  (:footer-terms . "Servicevoorwaarden")
- (:footer-contact . "Contact")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi is in vroege ontwikkeling. Een bug gevonden of een suggestie?")
- (:early-software-contact . "Neem contact op via")
 
  ;; Privacybeleid
  (:privacy-title . "Privacybeleid")
@@ -410,8 +374,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Estland")
 
-
-
  ;; Decks
  (:decks-title . "Stapels")
  (:decks-subtitle . "Maak aangepaste stapels en deel ze met anderen.")
@@ -430,10 +392,7 @@
  (:decks-error-desc-too-long . "De beschrijving van de stapel mag maximaal ~A tekens bevatten.")
  (:decks-error-default-readonly . "Automatische stapels kunnen niet worden bewerkt.")
  (:decks-your-title . "Jouw stapels")
- (:decks-col-name . "Naam")
- (:decks-col-desc . "Beschrijving")
  (:decks-col-updated . "Bijgewerkt")
- (:decks-col-actions . "Acties")
  (:decks-no-decks . "Nog geen stapels.")
  (:decks-open-btn . "Openen")
  (:decks-no-desc . "Geen beschrijving.")
@@ -448,15 +407,10 @@
  (:decks-filter-to . "Doeltaal")
  (:decks-filter-any . "Elke taal")
  (:decks-filter-include-assigned . "Neem kaartjes op die al in een stapel zitten")
- (:decks-flashcards-col-from . "Van")
- (:decks-flashcards-col-to . "Naar")
  (:decks-flashcards-add . "Toevoegen")
  (:decks-flashcards-added . "Toegevoegd")
  (:decks-flashcards-in-deck . "In een andere stapel")
  (:decks-flashcards-empty . "Geen kaartjes komen overeen met deze filters.")
- (:decks-add-trans-title . "Vertaling toevoegen")
- (:decks-trans-id-placeholder . "Vertaling-ID")
- (:decks-add-trans-btn . "Vertaling toevoegen")
  (:decks-items-title . "Stapelinhoud")
  (:decks-col-original . "Origineel")
  (:decks-col-translated . "Vertaling")
@@ -474,55 +428,7 @@
  (:flashcards-hide-perfected . "Beheerste kaartjes verbergen")
  (:flashcards-col-original . "Origineel")
  (:flashcards-col-translated . "Vertaling")
- (:flashcards-col-lang . "Talen")
  (:flashcards-no-cards . "Nog geen kaarten. Begin met vertalen om er een paar te maken!")
-
- ;; API errors
- (:api-error-missing-text . "Tekst om te vertalen ontbreekt.")
- (:api-error-invalid-translation-id . "Ongeldige vertaal-ID.")
- (:api-error-translation-not-found . "De vertaling die je probeerde op te slaan bestaat niet meer.")
- (:api-error-invalid-bookmark-id . "Ongeldige bladwijzer-ID")
- (:api-error-bookmark-not-found . "Bladwijzer niet gevonden")
- (:api-error-forbidden . "Verboden")
- (:api-error-failed-delete-bookmark . "Bladwijzer verwijderen mislukt")
- (:api-error-invalid-flashcard-id . "Ongeldige flashcard-ID")
- (:api-error-missing-deck-id . "Stapel-ID ontbreekt")
- (:api-error-flashcard-not-found . "Flashcard niet gevonden")
- (:api-error-deck-not-found . "Stapel niet gevonden")
- (:api-error-deck-name-required . "Stapelnaam is verplicht")
- (:api-error-session-expired . "Je herhalingssessie is verlopen. Start een nieuwe sessie.")
- (:api-error-invalid-card-id . "Ongeldige kaart-ID.")
- (:api-error-invalid-rating . "Ongeldige beoordeling.")
- (:api-error-rating-range . "Beoordeling moet tussen 0 en 5 liggen.")
- (:api-error-card-not-found . "Kaart niet gevonden.")
- (:api-error-permission-denied . "Je hebt geen toestemming om deze kaart te herhalen.")
- (:api-error-unknown-source-lang . "Onbekende brontaal.")
- (:api-error-unknown-target-lang . "Onbekende doeltaal.")
- (:api-error-failed-add-to-deck . "Toevoegen aan stapel mislukt")
-
- ;; API success messages
- (:api-success-added . "Toegevoegd!")
- (:api-success-added-simple . "Toegevoegd")
-
- ;; API stats
- (:api-stats-due . "~A te herhalen")
- (:api-stats-total . "~A totaal")
-
- ;; Time units
- (:api-time-day . "dag")
- (:api-time-days . "dagen")
- (:api-time-day-left . "dag over")
- (:api-time-days-left . "dagen over")
-
- ;; Subscription status
- (:api-subscription-active . "Actief")
- (:api-subscription-inactive . "Inactief")
- (:api-subscription-subscribe-hint . "Abonneer om vertalingen te ontgrendelen")
-
- ;; Generic status
- (:status-bad-request . "Ongeldig verzoek")
- (:status-not-found . "Niet gevonden")
- (:status-forbidden . "Verboden")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Leer talen op een complete manier")
@@ -530,7 +436,6 @@
  (:landing-hero-trust-line . "7 dagen gratis proberen met 100 vertalingen. Op elk moment opzegbaar.")
  (:landing-credibility-languages . "14 talen")
  (:landing-credibility-ai . "Grammaticale analyse inbegrepen")
- (:landing-credibility-origin . "Gemaakt in Estland")
  (:landing-step-1-title . "Vertaal elke tekst")
  (:landing-step-1-desc . "Voer een woord of zin in. Krijg een vertaling met volledige grammaticale analyse.")
  (:landing-step-2-title . "Bewaar als flashcards")
@@ -554,13 +459,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis proefperiode")
- (:trial-days-remaining . "~A dagen resterend")
- (:trial-translations-used . "~A/100 vertalingen gebruikt")
- (:trial-upgrade-prompt . "Upgrade om door te gaan met vertalen")
- (:trial-expired . "Je gratis proefperiode is verlopen")
- (:trial-expired-detail . "Abonneer om door te leren met Hiisi.")
- (:trial-quota-warning . "~A proefvertalingen over (~A dagen). Abonneer voor 600/maand.")
- (:trial-quota-exceeded . "Proefvertalingslimiet bereikt. Abonneer om door te gaan.")
  (:error-trial-quota-exceeded . "Proefvertalingslimiet bereikt")
  (:error-trial-quota-detail . "Je hebt alle 100 proefvertalingen gebruikt. Abonneer om door te leren.")
 
@@ -578,22 +476,8 @@
  (:custom-flashcard-add-form . "Grammaticale term toevoegen")
  (:custom-flashcard-remove-form . "Verwijderen")
  (:custom-flashcard-ai-fill . "Invullen met AI")
- (:custom-flashcard-ai-fill-all . "Alles invullen met AI")
- (:custom-flashcard-ai-fill-translation . "Vertalen met AI")
- (:custom-flashcard-ai-fill-breakdown . "Analyse genereren")
- (:custom-flashcard-ai-fill-note . "Notitie genereren")
  (:custom-flashcard-create-btn . "Flashcard aanmaken")
  (:custom-flashcard-update-btn . "Wijzigingen opslaan")
- (:custom-flashcard-delete-btn . "Flashcard verwijderen")
- (:custom-flashcard-delete-confirm . "Weet je zeker dat je deze flashcard wilt verwijderen?")
- (:custom-flashcard-created . "Flashcard succesvol aangemaakt")
- (:custom-flashcard-updated . "Flashcard succesvol bijgewerkt")
- (:custom-flashcard-deleted . "Flashcard succesvol verwijderd")
- (:custom-flashcard-add-to-deck . "Toevoegen aan stapel")
- (:custom-flashcard-not-found . "Flashcard niet gevonden")
- (:custom-flashcard-not-owner . "Je kunt alleen flashcards bewerken die je zelf hebt aangemaakt")
- (:custom-flashcard-ai-generating . "Wordt gegenereerd met AI...")
- (:custom-flashcard-badge . "Aangepast")
 
  ;; Probleemrapportage
  (:issues-open-button . "Probleem melden")

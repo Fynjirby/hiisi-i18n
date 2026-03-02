@@ -23,31 +23,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Sprachenlernen")
- (:app-tagline . "Sprachen lernen durch Übersetzungen")
 
  ;; Landing page
- (:landing-hero-title . "Jede Sprache meistern")
- (:landing-hero-subtitle . "Übersetze alles. Generiere automatisch Karteikarten, die dir erklären, warum es so funktioniert.")
- (:landing-cta . "Jetzt lernen")
  (:landing-learn-more . "Mehr erfahren")
  (:landing-how-it-works . "So funktioniert's")
- (:landing-feature-1-title . "Automatische Karteikarten")
- (:landing-feature-1-desc . "Jede Übersetzung generiert automatisch Karteikarten mit Grammatikanalyse. Keine manuelle Kartenerstellung.")
- (:landing-feature-2-title . "Spaced Repetition")
- (:landing-feature-2-desc . "Der SM-2 Algorithmus plant Wiederholungen in optimalen Abständen. Effizient lernen, dauerhaft behalten.")
- (:landing-feature-3-title . "Grammatik verstehen")
- (:landing-feature-3-desc . "Jede Übersetzung erklärt Grammatik, Wortstämme und Satzstruktur. Verstehe das Warum, nicht nur das Was.")
- (:landing-free-trial . "7 Tage kostenlos testen.")
  (:landing-start-trial . "Kostenlos testen")
  (:landing-best-value . "Bestes Angebot")
- (:landing-cta-title . "Bereit, Sprachen durch Grammatik statt Auswendiglernen zu lernen?")
- (:landing-cta-subtitle . "Jede Übersetzung wird zur Lernmöglichkeit. Jede Karteikarte erklärt dir das Warum.")
- (:landing-signup-free . "Kostenlos registrieren")
 
  ;; Auth pages
  (:auth-register . "Registrieren")
  (:auth-login . "Anmelden")
- (:auth-logout . "Abmelden")
  (:auth-email . "E-Mail")
  (:auth-password . "Passwort")
  (:auth-password-again . "Passwort bestätigen")
@@ -110,11 +95,6 @@
  (:translate-from . "Von:")
  (:translate-to . "Nach:")
  (:translate-submit . "Übersetzen")
- (:translate-save . "Als Karteikarte speichern")
- (:translate-saved . "Gespeichert!")
- (:translate-like . "Gefällt mir")
- (:translate-dislike . "Gefällt mir nicht")
- (:translate-char-limit . "Zeichen übrig")
  (:translate-auto-detect . "Beliebig (Automatisch erkennen)")
  (:translate-empty-state . "Gib oben Text ein und klicke auf Übersetzen, um das Ergebnis mit Grammatikanalyse zu sehen")
  (:translate-select-deck-placeholder . "Deck auswählen (optional)")
@@ -126,7 +106,6 @@
  (:translate-like-tooltip . "Gute Übersetzung")
  (:translate-dislike-tooltip . "Schlechte Übersetzung - neue anfordern")
  (:translate-dislike-confirm . "Dies generiert eine neue Übersetzung. Fortfahren?")
- (:translate-liked . "Gefällt!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
@@ -160,12 +139,10 @@
  (:review-by-language-pair . "Nach Sprachpaar wiederholen")
  (:review-all-cards . "Alle Karten wiederholen")
 
- (:review-start . "Wiederholung starten")
  (:review-no-cards . "Keine Karten zur Wiederholung")
  (:review-no-cards-desc . "Du hast gerade keine Karteikarten zur Wiederholung fällig.")
  (:review-no-cards-hint . "Übersetze Text und klicke auf \"Als Karteikarte speichern\", um dein Deck aufzubauen!")
  (:review-start-translating . "Übersetzen starten")
- (:review-show-answer . "Antwort zeigen")
  (:review-click-reveal . "Klicken um Antwort anzuzeigen")
  (:review-grammar-breakdown . "Grammatikanalyse")
  (:review-how-well . "Hast du dich erinnert?")
@@ -176,8 +153,6 @@
  (:review-progress . "Karte ~a von ~a")
  (:review-complete . "Sitzung abgeschlossen!")
  (:review-complete-msg . "Du hast ~a Karten wiederholt")
- (:review-correct . "Richtig")
- (:review-accuracy . "Genauigkeit")
  (:review-again-btn . "Erneut wiederholen")
  (:review-translate-more . "Mehr übersetzen")
  (:review-streak . "Tage Serie")
@@ -232,8 +207,6 @@
  (:subscribe-grammar-explanations . "Grammatikerklärungen")
  (:subscribe-spaced-repetition . "Spaced Repetition")
  (:subscribe-annual-desc . "Spare 20€ — zwei Monate gratis!")
- (:subscribe-cta . "Abonnieren")
- (:subscribe-success . "Abonnement erfolgreich!")
  (:subscribe-manage . "Abonnement verwalten")
  (:subscribe-activated . "Abonnement aktiviert!")
  (:subscribe-thank-you . "Vielen Dank für dein Abonnement. Dein Konto ist jetzt aktiv.")
@@ -258,9 +231,6 @@
 
  ;; Errors and status
  (:error-generic . "Etwas ist schiefgelaufen")
- (:error-not-found . "Seite nicht gefunden")
- (:error-unauthorized . "Bitte melde dich an, um fortzufahren")
- (:error-subscription-required . "Abonnement erforderlich")
  (:error-text-too-long . "Text ist zu lang. Die maximale Übersetzungslänge beträgt 120 Zeichen.")
  (:error-input-too-long . "Eingabe zu lang")
  (:error-unknown-source-lang . "Die ausgewählte Ausgangssprache wird nicht unterstützt.")
@@ -271,14 +241,10 @@
  (:error-translation-retry . "Konnte nach mehreren Versuchen keine Übersetzung generieren. Bitte formuliere deinen Text um.")
  (:error-quota-exceeded . "Übersetzungslimit erreicht")
  (:error-quota-exceeded-detail . "Du hast alle Übersetzungen für diesen Monat aufgebraucht. Dein Kontingent wird automatisch jeden Monat zurückgesetzt.")
- (:quota-warning . "Verbleibende Übersetzungen: ~A")
  (:quota-low-warning . "Nur noch ~A Übersetzungen übrig. Erwägen Sie den Kauf von mehr.")
  (:top-up-button . "Mehr Übersetzungen kaufen")
- (:top-up-success . "Aufstockung erfolgreich! Sie haben jetzt ~A zusätzliche Übersetzungen.")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 Übersetzungen")
- (:loading . "Lädt...")
- (:empty-state . "Hier ist noch nichts")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi für Schulen und Universitäten")
@@ -312,11 +278,9 @@
  ;; Footer
  (:footer-privacy . "Datenschutz")
  (:footer-terms . "Nutzungsbedingungen")
- (:footer-contact . "Kontakt")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi befindet sich in früher Entwicklung. Einen Fehler gefunden oder einen Vorschlag?")
- (:early-software-contact . "Kontaktiere uns unter")
 
  ;; Datenschutzerklärung
  (:privacy-title . "Datenschutzerklärung")
@@ -411,8 +375,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Estland")
 
-
-
  ;; Decks
  (:decks-title . "Stapel")
  (:decks-subtitle . "Erstelle eigene Stapel und teile sie mit anderen.")
@@ -431,10 +393,7 @@
  (:decks-error-desc-too-long . "Die Stapelbeschreibung darf höchstens ~A Zeichen lang sein.")
  (:decks-error-default-readonly . "Automatische Stapel können nicht bearbeitet werden.")
  (:decks-your-title . "Deine Stapel")
- (:decks-col-name . "Name")
- (:decks-col-desc . "Beschreibung")
  (:decks-col-updated . "Aktualisiert")
- (:decks-col-actions . "Aktionen")
  (:decks-no-decks . "Noch keine Stapel.")
  (:decks-open-btn . "Öffnen")
  (:decks-no-desc . "Keine Beschreibung.")
@@ -449,15 +408,10 @@
  (:decks-filter-to . "Zielsprache")
  (:decks-filter-any . "Beliebige Sprache")
  (:decks-filter-include-assigned . "Auch Karten anzeigen, die bereits in einem Stapel sind")
- (:decks-flashcards-col-from . "Von")
- (:decks-flashcards-col-to . "Nach")
  (:decks-flashcards-add . "Hinzufügen")
  (:decks-flashcards-added . "Hinzugefügt")
  (:decks-flashcards-in-deck . "In einem anderen Stapel")
  (:decks-flashcards-empty . "Keine Karten entsprechen diesen Filtern.")
- (:decks-add-trans-title . "Übersetzung hinzufügen")
- (:decks-trans-id-placeholder . "Übersetzungs-ID")
- (:decks-add-trans-btn . "Übersetzung hinzufügen")
  (:decks-items-title . "Stapelinhalt")
  (:decks-col-original . "Original")
  (:decks-col-translated . "Übersetzung")
@@ -475,55 +429,7 @@
  (:flashcards-hide-perfected . "Perfekt beherrschte Karten ausblenden")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Übersetzung")
- (:flashcards-col-lang . "Sprachen")
  (:flashcards-no-cards . "Noch keine Karteikarten. Beginne mit Übersetzen, um welche zu erstellen!")
-
- ;; API Errors
- (:api-error-missing-text . "Zu übersetzender Text fehlt.")
- (:api-error-invalid-translation-id . "Ungültige Übersetzungs-ID.")
- (:api-error-translation-not-found . "Die Übersetzung, die Sie speichern wollten, existiert nicht mehr.")
- (:api-error-invalid-bookmark-id . "Ungültige Lesezeichen-ID")
- (:api-error-bookmark-not-found . "Lesezeichen nicht gefunden")
- (:api-error-forbidden . "Verboten")
- (:api-error-failed-delete-bookmark . "Lesezeichen konnte nicht gelöscht werden")
- (:api-error-invalid-flashcard-id . "Ungültige Karteikarten-ID")
- (:api-error-missing-deck-id . "Deck-ID fehlt")
- (:api-error-flashcard-not-found . "Karteikarte nicht gefunden")
- (:api-error-deck-not-found . "Deck nicht gefunden")
- (:api-error-deck-name-required . "Deck-Name ist erforderlich")
- (:api-error-session-expired . "Ihre Wiederholungssitzung ist abgelaufen. Bitte starten Sie eine neue Sitzung.")
- (:api-error-invalid-card-id . "Ungültige Karten-ID.")
- (:api-error-invalid-rating . "Ungültige Bewertung.")
- (:api-error-rating-range . "Die Bewertung muss zwischen 0 und 5 liegen.")
- (:api-error-card-not-found . "Karte nicht gefunden.")
- (:api-error-permission-denied . "Sie haben keine Berechtigung, diese Karte zu wiederholen.")
- (:api-error-unknown-source-lang . "Unbekannte Ausgangssprache.")
- (:api-error-unknown-target-lang . "Unbekannte Zielsprache.")
- (:api-error-failed-add-to-deck . "Hinzufügen zum Deck fehlgeschlagen")
-
- ;; API Success messages
- (:api-success-added . "Hinzugefügt!")
- (:api-success-added-simple . "Hinzugefügt")
-
- ;; API Stats
- (:api-stats-due . "~A fällig")
- (:api-stats-total . "~A gesamt")
-
- ;; Time units
- (:api-time-day . "Tag")
- (:api-time-days . "Tage")
- (:api-time-day-left . "Tag übrig")
- (:api-time-days-left . "Tage übrig")
-
- ;; Subscription status
- (:api-subscription-active . "Aktiv")
- (:api-subscription-inactive . "Inaktiv")
- (:api-subscription-subscribe-hint . "Abonnieren Sie, um Übersetzungen freizuschalten")
-
- ;; Generic status
- (:status-bad-request . "Ungültige Anfrage")
- (:status-not-found . "Nicht gefunden")
- (:status-forbidden . "Verboten")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Sprachen umfassend lernen")
@@ -531,7 +437,6 @@
  (:landing-hero-trust-line . "7 Tage kostenlos testen mit 100 Übersetzungen. Jederzeit kündbar.")
  (:landing-credibility-languages . "14 Sprachen")
  (:landing-credibility-ai . "Grammatikanalyse inklusive")
- (:landing-credibility-origin . "Entwickelt in Estland")
  (:landing-step-1-title . "Beliebigen Text übersetzen")
  (:landing-step-1-desc . "Geben Sie ein Wort oder einen Satz ein. Erhalten Sie eine Übersetzung mit vollständiger Grammatikanalyse.")
  (:landing-step-2-title . "Als Karteikarten speichern")
@@ -555,13 +460,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Kostenlose Testphase")
- (:trial-days-remaining . "~A Tage verbleibend")
- (:trial-translations-used . "~A/100 Übersetzungen verbraucht")
- (:trial-upgrade-prompt . "Upgraden Sie, um weiter zu übersetzen")
- (:trial-expired . "Ihre kostenlose Testphase ist abgelaufen")
- (:trial-expired-detail . "Abonnieren Sie, um mit Hiisi weiterzulernen.")
- (:trial-quota-warning . "~A Test-Übersetzungen übrig (~A Tage verbleibend). Abonnieren Sie für 600/Monat.")
- (:trial-quota-exceeded . "Test-Übersetzungslimit erreicht. Abonnieren Sie, um fortzufahren.")
  (:error-trial-quota-exceeded . "Test-Übersetzungslimit erreicht")
  (:error-trial-quota-detail . "Sie haben alle 100 Test-Übersetzungen verbraucht. Abonnieren Sie, um weiterzulernen.")
 
@@ -579,22 +477,8 @@
  (:custom-flashcard-add-form . "Grammatikbegriff hinzufügen")
  (:custom-flashcard-remove-form . "Entfernen")
  (:custom-flashcard-ai-fill . "Mit KI ausfüllen")
- (:custom-flashcard-ai-fill-all . "Alles mit KI ausfüllen")
- (:custom-flashcard-ai-fill-translation . "Mit KI übersetzen")
- (:custom-flashcard-ai-fill-breakdown . "Analyse generieren")
- (:custom-flashcard-ai-fill-note . "Hinweis generieren")
  (:custom-flashcard-create-btn . "Karteikarte erstellen")
  (:custom-flashcard-update-btn . "Änderungen speichern")
- (:custom-flashcard-delete-btn . "Karteikarte löschen")
- (:custom-flashcard-delete-confirm . "Möchten Sie diese Karteikarte wirklich löschen?")
- (:custom-flashcard-created . "Karteikarte erfolgreich erstellt")
- (:custom-flashcard-updated . "Karteikarte erfolgreich aktualisiert")
- (:custom-flashcard-deleted . "Karteikarte erfolgreich gelöscht")
- (:custom-flashcard-add-to-deck . "Zum Stapel hinzufügen")
- (:custom-flashcard-not-found . "Karteikarte nicht gefunden")
- (:custom-flashcard-not-owner . "Sie können nur selbst erstellte Karteikarten bearbeiten")
- (:custom-flashcard-ai-generating . "Wird mit KI generiert...")
- (:custom-flashcard-badge . "Eigene")
 
  ;; Problemmeldungen
  (:issues-open-button . "Problem melden")

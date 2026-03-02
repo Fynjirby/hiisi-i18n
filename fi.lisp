@@ -22,31 +22,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Kielten oppiminen")
- (:app-tagline . "Opi kieliä käännösten avulla")
 
  ;; Landing page
- (:landing-hero-title . "Hallitse mikä tahansa kieli")
- (:landing-hero-subtitle . "Käännä mitä tahansa. Luo automaattisesti muistikortit, jotka opettavat sinulle miksi se toimii niin.")
- (:landing-cta . "Aloita oppiminen")
  (:landing-learn-more . "Lue lisää")
  (:landing-how-it-works . "Näin se toimii")
- (:landing-feature-1-title . "Automaattiset muistikortit")
- (:landing-feature-1-desc . "Jokainen käännös luo automaattisesti muistikortit kielioppiselityksineen. Ei manuaalista korttien luomista.")
- (:landing-feature-2-title . "Hajautettu toisto")
- (:landing-feature-2-desc . "SM-2-algoritmi ajoittaa kertaukset optimaalisesti. Opi tehokkaasti, muista pysyvästi.")
- (:landing-feature-3-title . "Kieliopin opetus")
- (:landing-feature-3-desc . "Jokainen käännös selittää kieliopin, sanojen juuret ja lauserakenteen. Ymmärrä miksi, älä vain mitä.")
- (:landing-free-trial . "7 päivän ilmainen kokeilu.")
  (:landing-start-trial . "Aloita ilmainen kokeilu")
  (:landing-best-value . "Paras arvo")
- (:landing-cta-title . "Valmis oppimaan kieliä kieliopin, ei ulkoa opettelun, kautta?")
- (:landing-cta-subtitle . "Jokainen käännös on oppimismahdollisuus. Jokainen muistikortti opettaa sinulle miksi.")
- (:landing-signup-free . "Rekisteröidy ilmaiseksi")
 
  ;; Auth pages
  (:auth-register . "Rekisteröidy")
  (:auth-login . "Kirjaudu")
- (:auth-logout . "Kirjaudu ulos")
  (:auth-email . "Sähköposti")
  (:auth-password . "Salasana")
  (:auth-password-again . "Vahvista salasana")
@@ -109,11 +94,6 @@
  (:translate-from . "Mistä:")
  (:translate-to . "Mihin:")
  (:translate-submit . "Käännä")
- (:translate-save . "Tallenna muistikortteihin")
- (:translate-saved . "Tallennettu!")
- (:translate-like . "Tykkää")
- (:translate-dislike . "En tykkää")
- (:translate-char-limit . "merkkiä jäljellä")
  (:translate-auto-detect . "Mikä tahansa (tunnista automaattisesti)")
  (:translate-empty-state . "Kirjoita teksti yllä ja napsauta Käännä nähdäksesi tuloksen kielioppiselityksineen")
  (:translate-select-deck-placeholder . "Valitse pakka (valinnainen)")
@@ -125,7 +105,6 @@
  (:translate-like-tooltip . "Hyvä käännös")
  (:translate-dislike-tooltip . "Huono käännös - pyydä uusi")
  (:translate-dislike-confirm . "Tämä luo uuden käännöksen. Jatketaanko?")
- (:translate-liked . "Tykätty!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
@@ -159,12 +138,10 @@
  (:review-by-language-pair . "Kertaa kieliparin mukaan")
  (:review-all-cards . "Kertaa kaikki kortit")
 
- (:review-start . "Aloita kertaus")
  (:review-no-cards . "Ei kerattavia kortteja")
  (:review-no-cards-desc . "Sinulla ei ole muistikortteja kerattavana juuri nyt.")
  (:review-no-cards-hint . "Käännä tekstiä ja napsauta \"Tallenna muistikortteihin\" rakentaaksesi pakkasi!")
  (:review-start-translating . "Aloita kääntäminen")
- (:review-show-answer . "Näytä vastaus")
  (:review-click-reveal . "Napsauta paljastaaksesi vastauksen")
  (:review-grammar-breakdown . "Kielioppiselitys")
  (:review-how-well . "Muistitko sen?")
@@ -175,8 +152,6 @@
  (:review-progress . "Kortti ~a/~a")
  (:review-complete . "Kertaus valmis!")
  (:review-complete-msg . "Kertasit ~a korttia")
- (:review-correct . "Oikein")
- (:review-accuracy . "Tarkkuus")
  (:review-again-btn . "Kertaa uudelleen")
  (:review-translate-more . "Käännä lisää")
  (:review-streak . "päivän putki")
@@ -231,8 +206,6 @@
  (:subscribe-grammar-explanations . "Kielioppiselitykset")
  (:subscribe-spaced-repetition . "Hajautettu toisto")
  (:subscribe-annual-desc . "Säästä 20 € — kaksi kuukautta ilmaiseksi!")
- (:subscribe-cta . "Tilaa")
- (:subscribe-success . "Tilaus onnistui!")
  (:subscribe-manage . "Hallitse tilausta")
  (:subscribe-activated . "Tilaus aktivoitu!")
  (:subscribe-thank-you . "Kiitos tilauksesta. Tilisi on nyt aktiivinen.")
@@ -257,9 +230,6 @@
 
  ;; Errors and status
  (:error-generic . "Jokin meni pieleen")
- (:error-not-found . "Sivua ei löytynyt")
- (:error-unauthorized . "Kirjaudu jatkaaksesi")
- (:error-subscription-required . "Tilaus vaaditaan")
  (:error-text-too-long . "Teksti on liian pitkä. Käännöksen enimmäispituus on 120 merkkiä.")
  (:error-input-too-long . "Syöte liian pitkä")
  (:error-unknown-source-lang . "Valitsemaasi lähdekieltä ei tueta.")
@@ -270,14 +240,10 @@
  (:error-translation-retry . "Käännöstä ei voitu luoda useiden yritysten jälkeen. Yritä muotoilla tekstisi toisin.")
  (:error-quota-exceeded . "Käännösraja saavutettu")
  (:error-quota-exceeded-detail . "Olet käyttänyt kaikki käännöksesi tälle kuukaudelle. Kiintiösi nollautuu automaattisesti joka kuukausi.")
- (:quota-warning . "Jäljellä olevat käännökset: ~A")
  (:quota-low-warning . "Vain ~A käännöstä jäljellä. Harkitse lisää ostamista.")
  (:top-up-button . "Osta lisää käännöksiä")
- (:top-up-success . "Lataus onnistui! Sinulla on nyt ~A lisäännöstä.")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 käännöstä")
- (:loading . "Ladataan...")
- (:empty-state . "Ei vielä mitään täällä")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi kouluille ja yliopistoille")
@@ -311,11 +277,9 @@
  ;; Footer
  (:footer-privacy . "Tietosuojakäytäntö")
  (:footer-terms . "Käyttöehdot")
- (:footer-contact . "Yhteystiedot")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi on varhaisessa kehitysvaiheessa. Löysitkö virheen tai onko sinulla ehdotus?")
- (:early-software-contact . "Ota yhteyttä osoitteessa")
 
  ;; Tietosuojakäytäntö
  (:privacy-title . "Tietosuojakäytäntö")
@@ -410,8 +374,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Viro")
 
-
-
  ;; Decks
  (:decks-title . "Pakkat")
  (:decks-subtitle . "Luo omia pakkoja ja jaa niitä muiden kanssa.")
@@ -430,10 +392,7 @@
  (:decks-error-desc-too-long . "Pakan kuvaus saa olla enintään ~A merkkiä.")
  (:decks-error-default-readonly . "Automaattisia pakkoja ei voi muokata.")
  (:decks-your-title . "Omat pakkat")
- (:decks-col-name . "Nimi")
- (:decks-col-desc . "Kuvaus")
  (:decks-col-updated . "Päivitetty")
- (:decks-col-actions . "Toiminnot")
  (:decks-no-decks . "Ei vielä pakkoja.")
  (:decks-open-btn . "Avaa")
  (:decks-no-desc . "Ei kuvausta.")
@@ -448,15 +407,10 @@
  (:decks-filter-to . "Kohdekieli")
  (:decks-filter-any . "Mikä tahansa kieli")
  (:decks-filter-include-assigned . "Näytä myös kortit, jotka ovat jo pakassa")
- (:decks-flashcards-col-from . "Lähde")
- (:decks-flashcards-col-to . "Kohde")
  (:decks-flashcards-add . "Lisää")
  (:decks-flashcards-added . "Lisätty")
  (:decks-flashcards-in-deck . "Toisessa pakassa")
  (:decks-flashcards-empty . "Yksikään kortti ei vastaa näitä suodattimia.")
- (:decks-add-trans-title . "Lisää käännös")
- (:decks-trans-id-placeholder . "Käännöksen ID")
- (:decks-add-trans-btn . "Lisää käännös")
  (:decks-items-title . "Pakan sisältö")
  (:decks-col-original . "Alkuperäinen")
  (:decks-col-translated . "Käännös")
@@ -474,55 +428,7 @@
  (:flashcards-hide-perfected . "Piilota täysin osatut kortit")
  (:flashcards-col-original . "Alkuperäinen")
  (:flashcards-col-translated . "Käännös")
- (:flashcards-col-lang . "Kielet")
  (:flashcards-no-cards . "Ei vielä kortteja. Aloita kääntäminen luodaksesi niitä!")
-
- ;; API Errors
- (:api-error-missing-text . "Käännettävä teksti puuttuu.")
- (:api-error-invalid-translation-id . "Virheellinen käännöksen tunniste.")
- (:api-error-translation-not-found . "Käännöstä, jonka yritit tallentaa, ei ole enää olemassa.")
- (:api-error-invalid-bookmark-id . "Virheellinen kirjanmerkin tunniste")
- (:api-error-bookmark-not-found . "Kirjanmerkkiä ei löytynyt")
- (:api-error-forbidden . "Kielletty")
- (:api-error-failed-delete-bookmark . "Kirjanmerkin poistaminen epäonnistui")
- (:api-error-invalid-flashcard-id . "Virheellinen muistikortin tunniste")
- (:api-error-missing-deck-id . "Pakan tunniste puuttuu")
- (:api-error-flashcard-not-found . "Muistikorttia ei löytynyt")
- (:api-error-deck-not-found . "Pakkaa ei löytynyt")
- (:api-error-deck-name-required . "Pakan nimi on pakollinen")
- (:api-error-session-expired . "Kertausistuntosi on vanhentunut. Aloita uusi istunto.")
- (:api-error-invalid-card-id . "Virheellinen kortin tunniste.")
- (:api-error-invalid-rating . "Virheellinen arvio.")
- (:api-error-rating-range . "Arvion on oltava välillä 0-5.")
- (:api-error-card-not-found . "Korttia ei löytynyt.")
- (:api-error-permission-denied . "Sinulla ei ole oikeutta kerrata tätä korttia.")
- (:api-error-unknown-source-lang . "Tuntematon lähdekieli.")
- (:api-error-unknown-target-lang . "Tuntematon kohdekieli.")
- (:api-error-failed-add-to-deck . "Pakkaan lisääminen epäonnistui")
-
- ;; API Success messages
- (:api-success-added . "Lisätty!")
- (:api-success-added-simple . "Lisätty")
-
- ;; API Stats
- (:api-stats-due . "~A kerrattavana")
- (:api-stats-total . "~A yhteensä")
-
- ;; Time units
- (:api-time-day . "päivä")
- (:api-time-days . "päivää")
- (:api-time-day-left . "päivä jäljellä")
- (:api-time-days-left . "päivää jäljellä")
-
- ;; Subscription status
- (:api-subscription-active . "Aktiivinen")
- (:api-subscription-inactive . "Ei aktiivinen")
- (:api-subscription-subscribe-hint . "Tilaa avataksesi käännökset")
-
- ;; Generic status
- (:status-bad-request . "Virheellinen pyyntö")
- (:status-not-found . "Ei löytynyt")
- (:status-forbidden . "Kielletty")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Opi kieliä kattavasti")
@@ -530,7 +436,6 @@
  (:landing-hero-trust-line . "7 päivää ilmaista kokeilua, 100 käännöstä. Peru milloin tahansa.")
  (:landing-credibility-languages . "14 kieltä")
  (:landing-credibility-ai . "Kieliopin erittely mukana")
- (:landing-credibility-origin . "Tehty Virossa")
  (:landing-step-1-title . "Käännä mikä tahansa teksti")
  (:landing-step-1-desc . "Syötä sana tai lause. Saat käännöksen täydellisellä kieliopin erittelyllä.")
  (:landing-step-2-title . "Tallenna muistikorteiksi")
@@ -554,13 +459,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Ilmainen kokeilu")
- (:trial-days-remaining . "~A päivää jäljellä")
- (:trial-translations-used . "~A/100 käännöstä käytetty")
- (:trial-upgrade-prompt . "Päivitä jatkaaksesi kääntämistä")
- (:trial-expired . "Ilmainen kokeilusi on päättynyt")
- (:trial-expired-detail . "Tilaa jatkaaksesi oppimista Hiisillä.")
- (:trial-quota-warning . "~A kokeilukäännöstä jäljellä (~A päivää). Tilaa 600/kuukausi.")
- (:trial-quota-exceeded . "Kokeilukäännösten raja saavutettu. Tilaa jatkaaksesi.")
  (:error-trial-quota-exceeded . "Kokeilukäännösten raja saavutettu")
  (:error-trial-quota-detail . "Olet käyttänyt kaikki 100 kokeilukäännöstä. Tilaa jatkaaksesi oppimista.")
 
@@ -578,22 +476,8 @@
  (:custom-flashcard-add-form . "Lisää kielioppitermi")
  (:custom-flashcard-remove-form . "Poista")
  (:custom-flashcard-ai-fill . "Täytä tekoälyn avulla")
- (:custom-flashcard-ai-fill-all . "Täytä kaikki tekoälyn avulla")
- (:custom-flashcard-ai-fill-translation . "Käännä tekoälyn avulla")
- (:custom-flashcard-ai-fill-breakdown . "Luo erittely")
- (:custom-flashcard-ai-fill-note . "Luo huomautus")
  (:custom-flashcard-create-btn . "Luo muistikortti")
  (:custom-flashcard-update-btn . "Tallenna muutokset")
- (:custom-flashcard-delete-btn . "Poista muistikortti")
- (:custom-flashcard-delete-confirm . "Haluatko varmasti poistaa tämän muistikortin?")
- (:custom-flashcard-created . "Muistikortti luotu onnistuneesti")
- (:custom-flashcard-updated . "Muistikortti päivitetty onnistuneesti")
- (:custom-flashcard-deleted . "Muistikortti poistettu onnistuneesti")
- (:custom-flashcard-add-to-deck . "Lisää pakkaan")
- (:custom-flashcard-not-found . "Muistikorttia ei löydy")
- (:custom-flashcard-not-owner . "Voit muokata vain itse luomiasi muistikortteja")
- (:custom-flashcard-ai-generating . "Luodaan tekoälyn avulla...")
- (:custom-flashcard-badge . "Oma")
 
  ;; Ongelmailmoitukset
  (:issues-open-button . "Ilmoita ongelmasta")

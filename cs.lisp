@@ -22,31 +22,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Studium jazyků")
- (:app-tagline . "Učte se jazyky prostřednictvím strukturovaných překladů")
 
  ;; Landing page
- (:landing-hero-title . "Ovládněte jakýkoliv jazyk")
- (:landing-hero-subtitle . "Překládejte cokoliv. Automaticky vytvářejte kartičky, které vás naučí, proč to tak funguje.")
- (:landing-cta . "Začít se učit")
  (:landing-learn-more . "Zjistit více")
  (:landing-how-it-works . "Jak to funguje")
- (:landing-feature-1-title . "Automatické kartičky")
- (:landing-feature-1-desc . "Každý překlad automaticky vytvoří kartičky s gramatickým rozborem. Žádné ruční vytváření.")
- (:landing-feature-2-title . "Rozložené opakování")
- (:landing-feature-2-desc . "Algoritmus SM-2 plánuje opakování v optimálních intervalech. Učte se efektivně, pamatujte si trvale.")
- (:landing-feature-3-title . "Výuka gramatiky")
- (:landing-feature-3-desc . "Každý překlad vysvětluje gramatiku, slovní kořeny a strukturu věty. Pochopte proč, nejen co.")
- (:landing-free-trial . "7denní zkušební verze zdarma.")
  (:landing-start-trial . "Vyzkoušet zdarma")
  (:landing-best-value . "Nejlepší hodnota")
- (:landing-cta-title . "Připraveni učit se jazyky skrze gramatiku, ne memorování?")
- (:landing-cta-subtitle . "Každý překlad se stává příležitostí k učení. Každá kartička vás naučí proč.")
- (:landing-signup-free . "Registrovat zdarma")
 
  ;; Auth pages
  (:auth-register . "Registrace")
  (:auth-login . "Přihlášení")
- (:auth-logout . "Odhlásit se")
  (:auth-email . "E-mail")
  (:auth-password . "Heslo")
  (:auth-password-again . "Potvrzení hesla")
@@ -109,11 +94,6 @@
  (:translate-from . "Z")
  (:translate-to . "Do")
  (:translate-submit . "Přeložit")
- (:translate-save . "Uložit do kartíček")
- (:translate-saved . "Uloženo!")
- (:translate-like . "Líbí se mi")
- (:translate-dislike . "Nelíbí se mi")
- (:translate-char-limit . "zbývajících znaků")
  (:translate-auto-detect . "Jakýkoliv (Auto-detekce)")
  (:translate-empty-state . "Zadejte text výše a klikněte na Přeložit pro zobrazení výsledku s gramatickým rozborem")
  (:translate-select-deck-placeholder . "Vyberte balíček (volitelné)")
@@ -125,7 +105,6 @@
  (:translate-like-tooltip . "Dobrý překlad")
  (:translate-dislike-tooltip . "Špatný překlad - vyžádat nový")
  (:translate-dislike-confirm . "Toto vygeneruje nový překlad. Pokračovat?")
- (:translate-liked . "Líbí se!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
@@ -159,12 +138,10 @@
  (:review-by-language-pair . "Opakovat podle jazykového páru")
  (:review-all-cards . "Opakovat všechny kartičky")
 
- (:review-start . "Začít opakování")
  (:review-no-cards . "Žádné kartičky k opakování")
  (:review-no-cards-desc . "Momentálně nemáte žádné kartičky k opakování.")
  (:review-no-cards-hint . "Přeložte nějaký text a klikněte na \"Uložit do kartiček\" pro vytvoření balíčku!")
  (:review-start-translating . "Začít překládat")
- (:review-show-answer . "Ukázat odpověď")
  (:review-click-reveal . "Klikněte pro zobrazení odpovědi")
  (:review-grammar-breakdown . "Gramatický rozbor")
  (:review-how-well . "Vzpomněli jste si?")
@@ -175,8 +152,6 @@
  (:review-progress . "Kartička ~a z ~a")
  (:review-complete . "Opakování dokončeno!")
  (:review-complete-msg . "Zopakovali jste ~a kartíček")
- (:review-correct . "Správně")
- (:review-accuracy . "Přesnost")
  (:review-again-btn . "Opakovat znovu")
  (:review-translate-more . "Překládat více")
  (:review-streak . "denní série")
@@ -231,8 +206,6 @@
  (:subscribe-grammar-explanations . "Gramatická vysvětlení")
  (:subscribe-spaced-repetition . "Rozložené opakování")
  (:subscribe-annual-desc . "Ušetřete 20 € - dva měsíce zdarma!")
- (:subscribe-cta . "Předplatit")
- (:subscribe-success . "Předplatné úspěšné!")
  (:subscribe-manage . "Správa předplatného")
  (:subscribe-activated . "Předplatné aktivováno!")
  (:subscribe-thank-you . "Děkujeme za předplacení. Váš účet je nyní aktivní.")
@@ -257,9 +230,6 @@
 
  ;; Errors and status
  (:error-generic . "Něco se pokazilo")
- (:error-not-found . "Stránka nenalezena")
- (:error-unauthorized . "Pro pokračování se přihlaste")
- (:error-subscription-required . "Vyžadováno předplatné")
  (:error-text-too-long . "Text je příliš dlouhý. Maximální délka překladu je 120 znaků.")
  (:error-input-too-long . "Vstup je příliš dlouhý")
  (:error-unknown-source-lang . "Vybraný zdrojový jazyk není podporován.")
@@ -270,14 +240,10 @@
  (:error-translation-retry . "Nepodařilo se vygenerovat překlad po několika pokusech. Zkuste přeformulovat text.")
  (:error-quota-exceeded . "Dosažen limit překladů")
  (:error-quota-exceeded-detail . "Vyčerpali jste všechny překlady na tento měsíc. Kvóta se automaticky obnoví každý měsíc.")
- (:quota-warning . "Zbývající překlady: ~A")
  (:quota-low-warning . "Zbývá pouze ~A překladů. Zvažte nákup dalších.")
  (:top-up-button . "Koupit další překlady")
- (:top-up-success . "Dobití úspěšné! Nyní máte ~A dalších překladů.")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 překladů")
- (:loading . "Načítání...")
- (:empty-state . "Zatím zde nic není")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi pro školy a univerzity")
@@ -311,11 +277,9 @@
  ;; Footer
  (:footer-privacy . "Zásady ochrany osobních údajů")
  (:footer-terms . "Podmínky služby")
- (:footer-contact . "Kontakt")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi je v rané fázi vývoje. Našli jste chybu nebo máte návrh?")
- (:early-software-contact . "Kontaktujte nás na")
 
  ;; Privacy Policy
  (:privacy-title . "Zásady ochrany osobních údajů")
@@ -410,8 +374,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Estonsko")
 
-
-
  ;; Decks
  (:decks-title . "Balíčky")
  (:decks-subtitle . "Vytvářejte vlastní balíčky a sdílejte je s ostatními.")
@@ -430,10 +392,7 @@
  (:decks-error-desc-too-long . "Popis balíčku může mít nejvýše ~A znaků.")
  (:decks-error-default-readonly . "Automatické balíčky nelze upravovat.")
  (:decks-your-title . "Vaše balíčky")
- (:decks-col-name . "Název")
- (:decks-col-desc . "Popis")
  (:decks-col-updated . "Aktualizováno")
- (:decks-col-actions . "Akce")
  (:decks-no-decks . "Zatím žádné balíčky.")
  (:decks-open-btn . "Otevřít")
  (:decks-no-desc . "Bez popisu.")
@@ -448,15 +407,10 @@
  (:decks-filter-to . "Do jazyka")
  (:decks-filter-any . "Jakýkoli jazyk")
  (:decks-filter-include-assigned . "Zahrnout kartičky, které už jsou v balíčku")
- (:decks-flashcards-col-from . "Z")
- (:decks-flashcards-col-to . "Do")
  (:decks-flashcards-add . "Přidat")
  (:decks-flashcards-added . "Přidáno")
  (:decks-flashcards-in-deck . "V jiném balíčku")
  (:decks-flashcards-empty . "Žádné kartičky neodpovídají těmto filtrům.")
- (:decks-add-trans-title . "Přidat překlad")
- (:decks-trans-id-placeholder . "ID překladu")
- (:decks-add-trans-btn . "Přidat překlad")
  (:decks-items-title . "Položky balíčku")
  (:decks-col-original . "Originál")
  (:decks-col-translated . "Překlad")
@@ -474,55 +428,7 @@
  (:flashcards-hide-perfected . "Skrýt zvládnuté kartičky")
  (:flashcards-col-original . "Originál")
  (:flashcards-col-translated . "Překlad")
- (:flashcards-col-lang . "Jazyky")
  (:flashcards-no-cards . "Zatím žádné kartičky. Začněte překládat a vytvořte si nějaké!")
-
- ;; API Errors
- (:api-error-missing-text . "Chybí text k překladu.")
- (:api-error-invalid-translation-id . "Neplatné ID překladu.")
- (:api-error-translation-not-found . "Překlad, který jste se pokusili uložit, už neexistuje.")
- (:api-error-invalid-bookmark-id . "Neplatné ID záložky")
- (:api-error-bookmark-not-found . "Záložka nenalezena")
- (:api-error-forbidden . "Zakázáno")
- (:api-error-failed-delete-bookmark . "Nepodařilo se smazat záložku")
- (:api-error-invalid-flashcard-id . "Neplatné ID kartičky")
- (:api-error-missing-deck-id . "Chybí ID balíčku")
- (:api-error-flashcard-not-found . "Kartička nenalezena")
- (:api-error-deck-not-found . "Balíček nenalezen")
- (:api-error-deck-name-required . "Název balíčku je povinný")
- (:api-error-session-expired . "Vaše opakovací relace vypršela. Spusťte prosím novou relaci.")
- (:api-error-invalid-card-id . "Neplatné ID kartičky.")
- (:api-error-invalid-rating . "Neplatné hodnocení.")
- (:api-error-rating-range . "Hodnocení musí být mezi 0 a 5.")
- (:api-error-card-not-found . "Kartička nebyla nalezena.")
- (:api-error-permission-denied . "Nemáte oprávnění opakovat tuto kartičku.")
- (:api-error-unknown-source-lang . "Neznámý zdrojový jazyk.")
- (:api-error-unknown-target-lang . "Neznámý cílový jazyk.")
- (:api-error-failed-add-to-deck . "Nepodařilo se přidat do balíčku")
-
- ;; API Success messages
- (:api-success-added . "Přidáno!")
- (:api-success-added-simple . "Přidáno")
-
- ;; API Stats
- (:api-stats-due . "~A k opakování")
- (:api-stats-total . "~A celkem")
-
- ;; Time units
- (:api-time-day . "den")
- (:api-time-days . "dny")
- (:api-time-day-left . "den zbývá")
- (:api-time-days-left . "dny zbývají")
-
- ;; Subscription status
- (:api-subscription-active . "Aktivní")
- (:api-subscription-inactive . "Neaktivní")
- (:api-subscription-subscribe-hint . "Předplaťte si pro odemčení překladů")
-
- ;; Generic status
- (:status-bad-request . "Neplatný požadavek")
- (:status-not-found . "Nenalezeno")
- (:status-forbidden . "Zakázáno")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Učte se jazyky komplexně")
@@ -530,7 +436,6 @@
  (:landing-hero-trust-line . "7 dní zdarma se 100 překlady. Zrušit kdykoliv.")
  (:landing-credibility-languages . "14 jazyků")
  (:landing-credibility-ai . "Včetně gramatického rozboru")
- (:landing-credibility-origin . "Vyrobeno v Estonsku")
  (:landing-step-1-title . "Přeložte libovolný text")
  (:landing-step-1-desc . "Zadejte slovo nebo frázi. Získejte překlad s úplným gramatickým rozborem.")
  (:landing-step-2-title . "Uložte do kartiček")
@@ -554,13 +459,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Zkušební doba")
- (:trial-days-remaining . "Zbývá ~A dní")
- (:trial-translations-used . "~A/100 použitých překladů")
- (:trial-upgrade-prompt . "Upgradujte a pokračujte v překládání")
- (:trial-expired . "Vaše zkušební doba skončila")
- (:trial-expired-detail . "Předplaťte si a pokračujte v učení s Hiisi.")
- (:trial-quota-warning . "Zbývá ~A zkušebních překladů (~A dní). Předplaťte si 600/měsíc.")
- (:trial-quota-exceeded . "Dosaženo limitu zkušebních překladů. Předplaťte si a pokračujte.")
  (:error-trial-quota-exceeded . "Dosaženo limitu zkušebních překladů")
  (:error-trial-quota-detail . "Využili jste všech 100 zkušebních překladů. Předplaťte si a pokračujte v učení.")
 
@@ -578,22 +476,8 @@
  (:custom-flashcard-add-form . "Přidat gramatický výraz")
  (:custom-flashcard-remove-form . "Odstranit")
  (:custom-flashcard-ai-fill . "Vyplnit pomocí AI")
- (:custom-flashcard-ai-fill-all . "Vyplnit vše pomocí AI")
- (:custom-flashcard-ai-fill-translation . "Přeložit pomocí AI")
- (:custom-flashcard-ai-fill-breakdown . "Vygenerovat rozbor")
- (:custom-flashcard-ai-fill-note . "Vygenerovat poznámku")
  (:custom-flashcard-create-btn . "Vytvořit kartičku")
  (:custom-flashcard-update-btn . "Uložit změny")
- (:custom-flashcard-delete-btn . "Smazat kartičku")
- (:custom-flashcard-delete-confirm . "Opravdu chcete smazat tuto kartičku?")
- (:custom-flashcard-created . "Kartička úspěšně vytvořena")
- (:custom-flashcard-updated . "Kartička úspěšně aktualizována")
- (:custom-flashcard-deleted . "Kartička úspěšně smazána")
- (:custom-flashcard-add-to-deck . "Přidat do balíčku")
- (:custom-flashcard-not-found . "Kartička nenalezena")
- (:custom-flashcard-not-owner . "Upravovat můžete pouze kartičky, které jste vytvořili")
- (:custom-flashcard-ai-generating . "Generování pomocí AI...")
- (:custom-flashcard-badge . "Vlastní")
 
  ;; Hlásení problémů
  (:issues-open-button . "Nahlásit problém")

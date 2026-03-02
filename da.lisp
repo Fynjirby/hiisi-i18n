@@ -23,31 +23,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Sproglæring")
- (:app-tagline . "Lær sprog gennem oversættelser")
 
  ;; Landing page
- (:landing-hero-title . "Mestre ethvert sprog")
- (:landing-hero-subtitle . "Oversæt hvad som helst. Generer automatisk flashcards der lærer dig hvorfor det fungerer sådan.")
- (:landing-cta . "Begynd at lære")
  (:landing-learn-more . "Læs mere")
  (:landing-how-it-works . "Sådan fungerer det")
- (:landing-feature-1-title . "Automatiske flashcards")
- (:landing-feature-1-desc . "Hver oversættelse genererer automatisk flashcards med grammatisk analyse. Ingen manuel oprettelse af kort.")
- (:landing-feature-2-title . "Spredt gentagelse")
- (:landing-feature-2-desc . "SM-2-algoritmen planlægger gentagelser med optimale intervaller. Lær effektivt, husk permanent.")
- (:landing-feature-3-title . "Grammatikundervisning")
- (:landing-feature-3-desc . "Hver oversættelse forklarer grammatik, ordstammer og sætningsstruktur. Forstå hvorfor, ikke kun hvad.")
- (:landing-free-trial . "7 dages gratis prøveperiode.")
  (:landing-start-trial . "Start gratis prøveperiode")
  (:landing-best-value . "Bedste værdi")
- (:landing-cta-title . "Klar til at lære sprog gennem grammatik, ikke udenadslære?")
- (:landing-cta-subtitle . "Hver oversættelse bliver en læringsmulighed. Hvert flashcard lærer dig hvorfor.")
- (:landing-signup-free . "Tilmeld dig gratis")
 
  ;; Auth pages
  (:auth-register . "Registrer")
  (:auth-login . "Log ind")
- (:auth-logout . "Log ud")
  (:auth-email . "E-mail")
  (:auth-password . "Adgangskode")
  (:auth-password-again . "Bekræft adgangskode")
@@ -110,11 +95,6 @@
  (:translate-from . "Fra:")
  (:translate-to . "Til:")
  (:translate-submit . "Oversæt")
- (:translate-save . "Gem som flashcard")
- (:translate-saved . "Gemt!")
- (:translate-like . "Synes godt om")
- (:translate-dislike . "Synes ikke om")
- (:translate-char-limit . "tegn tilbage")
  (:translate-auto-detect . "Alle (Automatisk)")
  (:translate-empty-state . "Indtast tekst ovenfor og klik Oversæt for at se resultatet med grammatisk analyse")
  (:translate-select-deck-placeholder . "Vælg kortbunke (valgfrit)")
@@ -126,7 +106,6 @@
  (:translate-like-tooltip . "God oversættelse")
  (:translate-dislike-tooltip . "Dårlig oversættelse - anmod om en ny")
  (:translate-dislike-confirm . "Dette genererer en ny oversættelse. Fortsæt?")
- (:translate-liked . "Kan lide!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
@@ -160,12 +139,10 @@
  (:review-by-language-pair . "Gentag efter sprogpar")
  (:review-all-cards . "Gentag alle kort")
 
- (:review-start . "Start gentagelse")
  (:review-no-cards . "Ingen kort at gentage")
  (:review-no-cards-desc . "Du har ingen flashcards der skal gentages lige nu.")
  (:review-no-cards-hint . "Oversæt noget tekst og klik \"Gem som flashcard\" for at opbygge din samling!")
  (:review-start-translating . "Begynd at oversætte")
- (:review-show-answer . "Vis svar")
  (:review-click-reveal . "Klik for at vise svar")
  (:review-grammar-breakdown . "Grammatisk analyse")
  (:review-how-well . "Kunne du huske det?")
@@ -176,8 +153,6 @@
  (:review-progress . "Kort ~a af ~a")
  (:review-complete . "Session fuldført!")
  (:review-complete-msg . "Du gennemgik ~a kort")
- (:review-correct . "Korrekt")
- (:review-accuracy . "Præcision")
  (:review-again-btn . "Gentag igen")
  (:review-translate-more . "Oversæt mere")
  (:review-streak . "dages række")
@@ -232,8 +207,6 @@
  (:subscribe-grammar-explanations . "Grammatikforklaringer")
  (:subscribe-spaced-repetition . "Spredt gentagelse")
  (:subscribe-annual-desc . "Spar €20 - to måneder gratis!")
- (:subscribe-cta . "Abonner")
- (:subscribe-success . "Abonnement gennemført!")
  (:subscribe-manage . "Administrer abonnement")
  (:subscribe-activated . "Abonnement aktiveret!")
  (:subscribe-thank-you . "Tak fordi du abonnerer. Din konto er nu aktiv.")
@@ -258,9 +231,6 @@
 
  ;; Errors and status
  (:error-generic . "Noget gik galt")
- (:error-not-found . "Siden blev ikke fundet")
- (:error-unauthorized . "Log ind for at fortsætte")
- (:error-subscription-required . "Abonnement påkrævet")
  (:error-text-too-long . "Teksten er for lang. Maksimal oversættelseslængde er 120 tegn.")
  (:error-input-too-long . "Input for langt")
  (:error-unknown-source-lang . "Det valgte kildesprog understøttes ikke.")
@@ -271,14 +241,10 @@
  (:error-translation-retry . "Kunne ikke generere en oversættelse efter flere forsøg. Prøv at omformulere din tekst.")
  (:error-quota-exceeded . "Oversættelsesgrænse nået")
  (:error-quota-exceeded-detail . "Du har brugt alle dine oversættelser for denne måned. Din kvote nulstilles automatisk hver måned.")
- (:quota-warning . "Oversættelser tilbage: ~A")
  (:quota-low-warning . "Kun ~A oversættelser tilbage. Overvej at købe flere.")
  (:top-up-button . "Køb flere oversættelser")
- (:top-up-success . "Opfyldning succesfuld! Du har nu ~A yderligere oversættelser.")
  (:top-up-price . "€5")
  (:top-up-amount . "300 oversættelser")
- (:loading . "Indlæser...")
- (:empty-state . "Intet her endnu")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi til skoler og universiteter")
@@ -312,11 +278,9 @@
  ;; Footer
  (:footer-privacy . "Privatlivspolitik")
  (:footer-terms . "Servicevilkår")
- (:footer-contact . "Kontakt")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi er under tidlig udvikling. Fundet en fejl eller har du et forslag?")
- (:early-software-contact . "Kontakt os på")
 
  ;; Privatlivspolitik
  (:privacy-title . "Privatlivspolitik")
@@ -411,8 +375,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Estland")
 
-
-
  ;; Decks
  (:decks-title . "Kortbunker")
  (:decks-subtitle . "Opret brugerdefinerede kortbunker og del dem med andre.")
@@ -431,10 +393,7 @@
  (:decks-error-desc-too-long . "Beskrivelsen af kortbunken må højst være ~A tegn.")
  (:decks-error-default-readonly . "Automatiske kortbunker kan ikke redigeres.")
  (:decks-your-title . "Dine kortbunker")
- (:decks-col-name . "Navn")
- (:decks-col-desc . "Beskrivelse")
  (:decks-col-updated . "Opdateret")
- (:decks-col-actions . "Handlinger")
  (:decks-no-decks . "Ingen kortbunker endnu.")
  (:decks-open-btn . "Åbn")
  (:decks-no-desc . "Ingen beskrivelse.")
@@ -449,15 +408,10 @@
  (:decks-filter-to . "Målsprog")
  (:decks-filter-any . "Alle sprog")
  (:decks-filter-include-assigned . "Inkludér kort, der allerede er i en kortbunke")
- (:decks-flashcards-col-from . "Fra")
- (:decks-flashcards-col-to . "Til")
  (:decks-flashcards-add . "Tilføj")
  (:decks-flashcards-added . "Tilføjet")
  (:decks-flashcards-in-deck . "I en anden kortbunke")
  (:decks-flashcards-empty . "Ingen kort matcher disse filtre.")
- (:decks-add-trans-title . "Tilføj oversættelse")
- (:decks-trans-id-placeholder . "Oversættelses-ID")
- (:decks-add-trans-btn . "Tilføj oversættelse")
  (:decks-items-title . "Kortbunkens indhold")
  (:decks-col-original . "Original")
  (:decks-col-translated . "Oversættelse")
@@ -475,55 +429,7 @@
  (:flashcards-hide-perfected . "Skjul fuldt indlærte kort")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Oversættelse")
- (:flashcards-col-lang . "Sprog")
  (:flashcards-no-cards . "Ingen kort endnu. Begynd at oversætte for at oprette nogle!")
-
- ;; API errors
- (:api-error-missing-text . "Manglende tekst til oversættelse.")
- (:api-error-invalid-translation-id . "Ugyldigt oversættelses-ID.")
- (:api-error-translation-not-found . "Oversættelsen, du forsøgte at gemme, findes ikke længere.")
- (:api-error-invalid-bookmark-id . "Ugyldigt bogmærke-ID")
- (:api-error-bookmark-not-found . "Bogmærke ikke fundet")
- (:api-error-forbidden . "Forbudt")
- (:api-error-failed-delete-bookmark . "Kunne ikke slette bogmærke")
- (:api-error-invalid-flashcard-id . "Ugyldigt flashkort-ID")
- (:api-error-missing-deck-id . "Manglende kortbunke-ID")
- (:api-error-flashcard-not-found . "Flashkort ikke fundet")
- (:api-error-deck-not-found . "Kortbunke ikke fundet")
- (:api-error-deck-name-required . "Kortbunkenavn er påkrævet")
- (:api-error-session-expired . "Din repetitionssession er udløbet. Start venligst en ny session.")
- (:api-error-invalid-card-id . "Ugyldigt kort-ID.")
- (:api-error-invalid-rating . "Ugyldig vurdering.")
- (:api-error-rating-range . "Vurdering skal være mellem 0 og 5.")
- (:api-error-card-not-found . "Kort ikke fundet.")
- (:api-error-permission-denied . "Du har ikke tilladelse til at repetere dette kort.")
- (:api-error-unknown-source-lang . "Ukendt kildesprog.")
- (:api-error-unknown-target-lang . "Ukendt målsprog.")
- (:api-error-failed-add-to-deck . "Kunne ikke tilføje til kortbunke")
-
- ;; API success messages
- (:api-success-added . "Tilføjet!")
- (:api-success-added-simple . "Tilføjet")
-
- ;; API stats
- (:api-stats-due . "~A forfalder")
- (:api-stats-total . "~A i alt")
-
- ;; Time units
- (:api-time-day . "dag")
- (:api-time-days . "dage")
- (:api-time-day-left . "dag tilbage")
- (:api-time-days-left . "dage tilbage")
-
- ;; Subscription status
- (:api-subscription-active . "Aktiv")
- (:api-subscription-inactive . "Inaktiv")
- (:api-subscription-subscribe-hint . "Abonnér for at låse oversættelser op")
-
- ;; Generic status
- (:status-bad-request . "Ugyldig anmodning")
- (:status-not-found . "Ikke fundet")
- (:status-forbidden . "Forbudt")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Lær sprog grundigt")
@@ -531,7 +437,6 @@
  (:landing-hero-trust-line . "7 dages gratis prøveperiode med 100 oversættelser. Opsig når som helst.")
  (:landing-credibility-languages . "14 sprog")
  (:landing-credibility-ai . "Grammatisk analyse inkluderet")
- (:landing-credibility-origin . "Lavet i Estland")
  (:landing-step-1-title . "Oversæt enhver tekst")
  (:landing-step-1-desc . "Indtast et ord eller en sætning. Få en oversættelse med fuld grammatisk analyse.")
  (:landing-step-2-title . "Gem som flashkort")
@@ -555,13 +460,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis prøveperiode")
- (:trial-days-remaining . "~A dage tilbage")
- (:trial-translations-used . "~A/100 oversættelser brugt")
- (:trial-upgrade-prompt . "Opgrader for at fortsætte med at oversætte")
- (:trial-expired . "Din gratis prøveperiode er udløbet")
- (:trial-expired-detail . "Abonner for at fortsætte med at lære med Hiisi.")
- (:trial-quota-warning . "~A prøveoversættelser tilbage (~A dage). Abonner for 600/måned.")
- (:trial-quota-exceeded . "Grænse for prøveoversættelser nået. Abonner for at fortsætte.")
  (:error-trial-quota-exceeded . "Grænse for prøveoversættelser nået")
  (:error-trial-quota-detail . "Du har brugt alle 100 prøveoversættelser. Abonner for at fortsætte med at lære.")
 
@@ -579,22 +477,8 @@
  (:custom-flashcard-add-form . "Tilføj grammatisk begreb")
  (:custom-flashcard-remove-form . "Fjern")
  (:custom-flashcard-ai-fill . "Udfyld med AI")
- (:custom-flashcard-ai-fill-all . "Udfyld alt med AI")
- (:custom-flashcard-ai-fill-translation . "Oversæt med AI")
- (:custom-flashcard-ai-fill-breakdown . "Generer analyse")
- (:custom-flashcard-ai-fill-note . "Generer note")
  (:custom-flashcard-create-btn . "Opret flashkort")
  (:custom-flashcard-update-btn . "Gem ændringer")
- (:custom-flashcard-delete-btn . "Slet flashkort")
- (:custom-flashcard-delete-confirm . "Er du sikker på, at du vil slette dette flashkort?")
- (:custom-flashcard-created . "Flashkort oprettet")
- (:custom-flashcard-updated . "Flashkort opdateret")
- (:custom-flashcard-deleted . "Flashkort slettet")
- (:custom-flashcard-add-to-deck . "Tilføj til kortbunke")
- (:custom-flashcard-not-found . "Flashkort ikke fundet")
- (:custom-flashcard-not-owner . "Du kan kun redigere flashkort, du selv har oprettet")
- (:custom-flashcard-ai-generating . "Genererer med AI...")
- (:custom-flashcard-badge . "Tilpasset")
 
  ;; Problemrapportering
  (:issues-open-button . "Rapportér et problem")

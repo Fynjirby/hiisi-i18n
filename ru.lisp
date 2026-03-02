@@ -23,31 +23,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Изучение языков")
- (:app-tagline . "Изучайте языки через переводы")
 
  ;; Landing page
- (:landing-hero-title . "Освойте любой язык")
- (:landing-hero-subtitle . "Переводите что угодно. Автоматически создавайте карточки, которые объясняют, почему это работает именно так.")
- (:landing-cta . "Начать обучение")
  (:landing-learn-more . "Узнать больше")
  (:landing-how-it-works . "Как это работает")
- (:landing-feature-1-title . "Автоматические карточки")
- (:landing-feature-1-desc . "Каждый перевод автоматически создаёт карточки с грамматическим разбором. Никакого ручного создания карточек.")
- (:landing-feature-2-title . "Интервальное повторение")
- (:landing-feature-2-desc . "Алгоритм SM-2 планирует повторения через оптимальные интервалы. Учитесь эффективно, запоминайте навсегда.")
- (:landing-feature-3-title . "Обучение грамматике")
- (:landing-feature-3-desc . "Каждый перевод объясняет грамматику, корни слов и структуру предложения. Понимайте почему, а не только что.")
- (:landing-free-trial . "7 дней бесплатно.")
  (:landing-start-trial . "Начать бесплатно")
  (:landing-best-value . "Лучшая цена")
- (:landing-cta-title . "Готовы изучать языки через грамматику, а не зубрёжку?")
- (:landing-cta-subtitle . "Каждый перевод становится возможностью для обучения. Каждая карточка объясняет почему.")
- (:landing-signup-free . "Зарегистрироваться бесплатно")
 
  ;; Auth pages
  (:auth-register . "Регистрация")
  (:auth-login . "Войти")
- (:auth-logout . "Выйти")
  (:auth-email . "Email")
  (:auth-password . "Пароль")
  (:auth-password-again . "Подтвердите пароль")
@@ -110,11 +95,6 @@
  (:translate-from . "С:")
  (:translate-to . "На:")
  (:translate-submit . "Перевести")
- (:translate-save . "Сохранить в карточки")
- (:translate-saved . "Сохранено!")
- (:translate-like . "Нравится")
- (:translate-dislike . "Не нравится")
- (:translate-char-limit . "символов осталось")
  (:translate-auto-detect . "Любой (Автоопределение)")
  (:translate-empty-state . "Введите текст выше и нажмите Перевести, чтобы увидеть результат с грамматическим разбором")
  (:translate-select-deck-placeholder . "Выберите колоду (необязательно)")
@@ -126,7 +106,6 @@
  (:translate-like-tooltip . "Хороший перевод")
  (:translate-dislike-tooltip . "Плохой перевод - запросить новый")
  (:translate-dislike-confirm . "Это сгенерирует новый перевод. Продолжить?")
- (:translate-liked . "Нравится!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Авто")
@@ -160,12 +139,10 @@
  (:review-by-language-pair . "Повторять по языковой паре")
  (:review-all-cards . "Повторить все карточки")
 
- (:review-start . "Начать повторение")
  (:review-no-cards . "Нет карточек для повторения")
  (:review-no-cards-desc . "У вас нет карточек, запланированных на повторение прямо сейчас.")
  (:review-no-cards-hint . "Переведите текст и нажмите \"Сохранить в карточки\", чтобы создать колоду!")
  (:review-start-translating . "Начать переводить")
- (:review-show-answer . "Показать ответ")
  (:review-click-reveal . "Нажмите, чтобы показать ответ")
  (:review-grammar-breakdown . "Грамматический разбор")
  (:review-how-well . "Вы вспомнили?")
@@ -176,8 +153,6 @@
  (:review-progress . "Карточка ~a из ~a")
  (:review-complete . "Сессия завершена!")
  (:review-complete-msg . "Вы повторили ~a карточек")
- (:review-correct . "Правильно")
- (:review-accuracy . "Точность")
  (:review-again-btn . "Повторить снова")
  (:review-translate-more . "Переводить ещё")
  (:review-streak . "дней подряд")
@@ -225,8 +200,6 @@
  (:subscribe-annual-price . "€100")
  (:subscribe-monthly-desc . "600 переводов в месяц")
  (:subscribe-annual-desc . "Сэкономьте €20 — два месяца бесплатно!")
- (:subscribe-cta . "Подписаться")
- (:subscribe-success . "Подписка оформлена!")
  (:subscribe-manage . "Управление подпиской")
  (:subscribe-choose-plan . "Выберите тариф")
  (:subscribe-start-today . "Начните сегодня")
@@ -258,9 +231,6 @@
 
  ;; Errors and status
  (:error-generic . "Что-то пошло не так")
- (:error-not-found . "Страница не найдена")
- (:error-unauthorized . "Войдите для продолжения")
- (:error-subscription-required . "Требуется подписка")
  (:error-text-too-long . "Текст слишком длинный. Максимальная длина перевода — 120 символов.")
  (:error-input-too-long . "Слишком длинный ввод")
  (:error-unknown-source-lang . "Выбранный исходный язык не поддерживается.")
@@ -271,14 +241,10 @@
  (:error-translation-retry . "Не удалось сгенерировать перевод после нескольких попыток. Попробуйте переформулировать текст.")
  (:error-quota-exceeded . "Лимит переводов исчерпан")
  (:error-quota-exceeded-detail . "Вы использовали все переводы за этот месяц. Ваша квота автоматически сбрасывается каждый месяц.")
- (:quota-warning . "Осталось переводов: ~A")
  (:quota-low-warning . "Осталось всего ~A переводов. Рассмотрите возможность покупки.")
  (:top-up-button . "Купить больше переводов")
- (:top-up-success . "Пополнение успешно! Теперь у вас ~A дополнительных переводов.")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 переводов")
- (:loading . "Загрузка...")
- (:empty-state . "Здесь пока ничего нет")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi для школ и университетов")
@@ -312,11 +278,9 @@
  ;; Footer
  (:footer-privacy . "Политика конфиденциальности")
  (:footer-terms . "Условия использования")
- (:footer-contact . "Контакты")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi находится на ранней стадии разработки. Нашли ошибку или есть предложение?")
- (:early-software-contact . "Свяжитесь с нами по адресу")
 
  ;; Политика конфиденциальности
  (:privacy-title . "Политика конфиденциальности")
@@ -411,8 +375,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Эстония")
 
-
-
  ;; Decks
  (:decks-title . "Колоды")
  (:decks-subtitle . "Создавайте собственные колоды и делитесь ими с другими.")
@@ -431,10 +393,7 @@
  (:decks-error-desc-too-long . "Описание колоды должно быть не длиннее ~A символов.")
  (:decks-error-default-readonly . "Автоматические колоды нельзя редактировать.")
  (:decks-your-title . "Ваши колоды")
- (:decks-col-name . "Название")
- (:decks-col-desc . "Описание")
  (:decks-col-updated . "Обновлено")
- (:decks-col-actions . "Действия")
  (:decks-no-decks . "Колод пока нет.")
  (:decks-open-btn . "Открыть")
  (:decks-no-desc . "Без описания.")
@@ -449,15 +408,10 @@
  (:decks-filter-to . "Язык перевода")
  (:decks-filter-any . "Любой язык")
  (:decks-filter-include-assigned . "Показывать карточки, которые уже в колоде")
- (:decks-flashcards-col-from . "Из")
- (:decks-flashcards-col-to . "В")
  (:decks-flashcards-add . "Добавить")
  (:decks-flashcards-added . "Добавлено")
  (:decks-flashcards-in-deck . "В другой колоде")
  (:decks-flashcards-empty . "Нет карточек, соответствующих этим фильтрам.")
- (:decks-add-trans-title . "Добавить перевод")
- (:decks-trans-id-placeholder . "ID перевода")
- (:decks-add-trans-btn . "Добавить перевод")
  (:decks-items-title . "Содержимое колоды")
  (:decks-col-original . "Оригинал")
  (:decks-col-translated . "Перевод")
@@ -475,55 +429,7 @@
  (:flashcards-hide-perfected . "Скрыть полностью освоенные карточки")
  (:flashcards-col-original . "Оригинал")
  (:flashcards-col-translated . "Перевод")
- (:flashcards-col-lang . "Языки")
  (:flashcards-no-cards . "Карточек пока нет. Начните переводить, чтобы создать их!")
-
- ;; API errors
- (:api-error-missing-text . "Отсутствует текст для перевода.")
- (:api-error-invalid-translation-id . "Неверный ID перевода.")
- (:api-error-translation-not-found . "Перевод, который вы пытались сохранить, больше не существует.")
- (:api-error-invalid-bookmark-id . "Неверный ID закладки")
- (:api-error-bookmark-not-found . "Закладка не найдена")
- (:api-error-forbidden . "Доступ запрещён")
- (:api-error-failed-delete-bookmark . "Не удалось удалить закладку")
- (:api-error-invalid-flashcard-id . "Неверный ID карточки")
- (:api-error-missing-deck-id . "Отсутствует ID колоды")
- (:api-error-flashcard-not-found . "Карточка не найдена")
- (:api-error-deck-not-found . "Колода не найдена")
- (:api-error-deck-name-required . "Требуется название колоды")
- (:api-error-session-expired . "Ваша сессия повторения истекла. Пожалуйста, начните новую сессию.")
- (:api-error-invalid-card-id . "Неверный ID карточки.")
- (:api-error-invalid-rating . "Неверная оценка.")
- (:api-error-rating-range . "Оценка должна быть от 0 до 5.")
- (:api-error-card-not-found . "Карточка не найдена.")
- (:api-error-permission-denied . "У вас нет прав на повторение этой карточки.")
- (:api-error-unknown-source-lang . "Неизвестный исходный язык.")
- (:api-error-unknown-target-lang . "Неизвестный целевой язык.")
- (:api-error-failed-add-to-deck . "Не удалось добавить в колоду")
-
- ;; API success messages
- (:api-success-added . "Добавлено!")
- (:api-success-added-simple . "Добавлено")
-
- ;; API stats
- (:api-stats-due . "~A к повторению")
- (:api-stats-total . "~A всего")
-
- ;; Time units
- (:api-time-day . "день")
- (:api-time-days . "дней")
- (:api-time-day-left . "день остался")
- (:api-time-days-left . "дней осталось")
-
- ;; Subscription status
- (:api-subscription-active . "Активна")
- (:api-subscription-inactive . "Неактивна")
- (:api-subscription-subscribe-hint . "Подпишитесь, чтобы разблокировать переводы")
-
- ;; Generic status
- (:status-bad-request . "Неверный запрос")
- (:status-not-found . "Не найдено")
- (:status-forbidden . "Доступ запрещён")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Изучайте языки всесторонне")
@@ -531,7 +437,6 @@
  (:landing-hero-trust-line . "7 дней бесплатного пробного периода со 100 переводами. Отменить можно в любой момент.")
  (:landing-credibility-languages . "14 языков")
  (:landing-credibility-ai . "Грамматический разбор включён")
- (:landing-credibility-origin . "Сделано в Эстонии")
  (:landing-step-1-title . "Переводите любой текст")
  (:landing-step-1-desc . "Введите слово или фразу. Получите перевод с полным грамматическим разбором.")
  (:landing-step-2-title . "Сохраните как карточки")
@@ -555,13 +460,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Бесплатный пробный период")
- (:trial-days-remaining . "Осталось ~A дней")
- (:trial-translations-used . "~A/100 переводов использовано")
- (:trial-upgrade-prompt . "Обновите тариф, чтобы продолжить переводить")
- (:trial-expired . "Ваш бесплатный пробный период завершился")
- (:trial-expired-detail . "Подпишитесь, чтобы продолжить обучение с Hiisi.")
- (:trial-quota-warning . "Осталось ~A пробных переводов (~A дней). Подпишитесь на 600/месяц.")
- (:trial-quota-exceeded . "Лимит пробных переводов достигнут. Подпишитесь, чтобы продолжить.")
  (:error-trial-quota-exceeded . "Лимит пробных переводов достигнут")
  (:error-trial-quota-detail . "Вы использовали все 100 пробных переводов. Подпишитесь, чтобы продолжить обучение.")
 
@@ -579,22 +477,8 @@
  (:custom-flashcard-add-form . "Добавить грамматический термин")
  (:custom-flashcard-remove-form . "Удалить")
  (:custom-flashcard-ai-fill . "Заполнить с помощью ИИ")
- (:custom-flashcard-ai-fill-all . "Заполнить всё с помощью ИИ")
- (:custom-flashcard-ai-fill-translation . "Перевести с помощью ИИ")
- (:custom-flashcard-ai-fill-breakdown . "Сгенерировать разбор")
- (:custom-flashcard-ai-fill-note . "Сгенерировать заметку")
  (:custom-flashcard-create-btn . "Создать карточку")
  (:custom-flashcard-update-btn . "Сохранить изменения")
- (:custom-flashcard-delete-btn . "Удалить карточку")
- (:custom-flashcard-delete-confirm . "Вы уверены, что хотите удалить эту карточку?")
- (:custom-flashcard-created . "Карточка успешно создана")
- (:custom-flashcard-updated . "Карточка успешно обновлена")
- (:custom-flashcard-deleted . "Карточка успешно удалена")
- (:custom-flashcard-add-to-deck . "Добавить в колоду")
- (:custom-flashcard-not-found . "Карточка не найдена")
- (:custom-flashcard-not-owner . "Вы можете редактировать только карточки, которые создали сами")
- (:custom-flashcard-ai-generating . "Генерируется с помощью ИИ...")
- (:custom-flashcard-badge . "Пользовательская")
 
  ;; Сообщения о проблемах
  (:issues-open-button . "Сообщить о проблеме")

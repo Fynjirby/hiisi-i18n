@@ -22,31 +22,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Keeleõpe")
- (:app-tagline . "Õpi keeli tõlkimise kaudu")
 
  ;; Landing page
- (:landing-hero-title . "Omanda ükskõik milline keel")
- (:landing-hero-subtitle . "Tõlgi mida iganes. Loo automaatselt mälukaarte, mis õpetavad sulle, miks see nii toimib.")
- (:landing-cta . "Alusta õppimist")
  (:landing-learn-more . "Loe lähemalt")
  (:landing-how-it-works . "Kuidas see töötab")
- (:landing-feature-1-title . "Automaatsed mälukaardid")
- (:landing-feature-1-desc . "Iga tõlge loob automaatselt mälukaardid koos grammatika selgitustega. Pole vaja käsitsi kaarte luua.")
- (:landing-feature-2-title . "Hajutatud kordamine")
- (:landing-feature-2-desc . "SM-2 algoritm ajastab kordamised optimaalsete intervallidega. Õpi tõhusalt, jäta püsivalt meelde.")
- (:landing-feature-3-title . "Grammatika õpetus")
- (:landing-feature-3-desc . "Iga tõlge selgitab grammatikat, sõnatüvesid ja lauseehitust. Mõista põhjust, mitte ainult tulemust.")
- (:landing-free-trial . "7-päevane tasuta prooviperiood.")
  (:landing-start-trial . "Alusta tasuta prooviperioodi")
  (:landing-best-value . "Parim pakkumine")
- (:landing-cta-title . "Valmis õppima keeli grammatika, mitte päheõppimise kaudu?")
- (:landing-cta-subtitle . "Iga tõlge muutub õppimisvõimaluseks. Iga mälukaart õpetab sulle põhjust.")
- (:landing-signup-free . "Registreeru tasuta")
 
  ;; Auth pages
  (:auth-register . "Registreeru")
  (:auth-login . "Logi sisse")
- (:auth-logout . "Logi välja")
  (:auth-email . "E-post")
  (:auth-password . "Parool")
  (:auth-password-again . "Kinnita parool")
@@ -109,11 +94,6 @@
  (:translate-from . "Allikast:")
  (:translate-to . "Sihtkeelde:")
  (:translate-submit . "Tõlgi")
- (:translate-save . "Salvesta mälukaartidesse")
- (:translate-saved . "Salvestatud!")
- (:translate-like . "Meeldib")
- (:translate-dislike . "Ei meeldi")
- (:translate-char-limit . "tähemärki alles")
  (:translate-auto-detect . "Suvaline (automaattuvastus)")
  (:translate-empty-state . "Sisesta tekst ülal ja klõpsa Tõlgi, et näha tulemust koos grammatika analüüsiga")
  (:translate-select-deck-placeholder . "Vali kaardipakk (valikuline)")
@@ -125,7 +105,6 @@
  (:translate-like-tooltip . "Hea tõlge")
  (:translate-dislike-tooltip . "Halb tõlge - taotle uut")
  (:translate-dislike-confirm . "See genereerib uue tõlke. Jätkata?")
- (:translate-liked . "Meeldib!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
@@ -159,12 +138,10 @@
  (:review-by-language-pair . "Korda keelepaari järgi")
  (:review-all-cards . "Korda kõiki kaarte")
 
- (:review-start . "Alusta kordamist")
  (:review-no-cards . "Pole kaarte kordamiseks")
  (:review-no-cards-desc . "Sul pole praegu ühtegi mälukaarti, mis vajaks kordamist.")
  (:review-no-cards-hint . "Tõlgi teksti ja klõpsa \"Salvesta mälukaartidesse\", et oma pakki üles ehitada!")
  (:review-start-translating . "Alusta tõlkimist")
- (:review-show-answer . "Näita vastust")
  (:review-click-reveal . "Klõpsa vastuse nägemiseks")
  (:review-grammar-breakdown . "Grammatika analüüs")
  (:review-how-well . "Kas tuli meelde?")
@@ -175,8 +152,6 @@
  (:review-progress . "Kaart ~a/~a")
  (:review-complete . "Seanss lõpetatud!")
  (:review-complete-msg . "Kordasid ~a kaarti")
- (:review-correct . "Õige")
- (:review-accuracy . "Täpsus")
  (:review-again-btn . "Korda uuesti")
  (:review-translate-more . "Tõlgi rohkem")
  (:review-streak . "päevane seeria")
@@ -231,8 +206,6 @@
  (:subscribe-grammar-explanations . "Grammatika selgitused")
  (:subscribe-spaced-repetition . "Hajutatud kordamine")
  (:subscribe-annual-desc . "Säästa €20 — kaks kuud tasuta!")
- (:subscribe-cta . "Telli")
- (:subscribe-success . "Tellimus õnnestus!")
  (:subscribe-manage . "Halda tellimust")
  (:subscribe-activated . "Tellimus aktiveeritud!")
  (:subscribe-thank-you . "Täname tellimuse eest. Sinu konto on nüüd aktiivne.")
@@ -257,9 +230,6 @@
 
  ;; Errors and status
  (:error-generic . "Midagi läks valesti")
- (:error-not-found . "Lehte ei leitud")
- (:error-unauthorized . "Jätkamiseks logi palun sisse")
- (:error-subscription-required . "Tellimus nõutud")
  (:error-text-too-long . "Tekst on liiga pikk. Maksimaalne tõlke pikkus on 120 tähemärki.")
  (:error-input-too-long . "Sisend liiga pikk")
  (:error-unknown-source-lang . "Valitud lähtekeel ei ole toetatud.")
@@ -270,14 +240,10 @@
  (:error-translation-retry . "Tõlget ei õnnestunud mitme katse järel genereerida. Palun proovi oma teksti ümber sõnastada.")
  (:error-quota-exceeded . "Tõlkelimiit täis")
  (:error-quota-exceeded-detail . "Oled kasutanud kõik oma selle kuu tõlked. Sinu kvoot lähtestub automaatselt iga kuu.")
- (:quota-warning . "Jäänud tõlked: ~A")
  (:quota-low-warning . "Alles ~A tõlget. Kaaluge juurde ostmist.")
  (:top-up-button . "Osta rohkem tõlkeid")
- (:top-up-success . "Laadimine õnnestus! Teil on nüüd ~A lisatõlget.")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 tõlget")
- (:loading . "Laadimine...")
- (:empty-state . "Siin pole veel midagi")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi koolidele ja ülikoolidele")
@@ -311,11 +277,9 @@
  ;; Footer
  (:footer-privacy . "Privaatsuspoliitika")
  (:footer-terms . "Kasutustingimused")
- (:footer-contact . "Kontakt")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi on varajases arendusfaasis. Leidsid vea või on sul ettepanek?")
- (:early-software-contact . "Võta meiega ühendust aadressil")
 
  ;; Privacy Policy
  (:privacy-title . "Privaatsuspoliitika")
@@ -410,8 +374,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Eesti")
 
-
-
  ;; Decks
  (:decks-title . "Kaardipakid")
  (:decks-subtitle . "Loo kohandatud kaardipakke ja jaga neid teistega.")
@@ -430,10 +392,7 @@
  (:decks-error-desc-too-long . "Kaardipaki kirjeldus võib olla kuni ~A märki pikk.")
  (:decks-error-default-readonly . "Automaatseid kaardipakke ei saa muuta.")
  (:decks-your-title . "Sinu kaardipakid")
- (:decks-col-name . "Nimi")
- (:decks-col-desc . "Kirjeldus")
  (:decks-col-updated . "Uuendatud")
- (:decks-col-actions . "Tegevused")
  (:decks-no-decks . "Kaardipakke veel pole.")
  (:decks-open-btn . "Ava")
  (:decks-no-desc . "Kirjeldus puudub.")
@@ -448,15 +407,10 @@
  (:decks-filter-to . "Sihtkeel")
  (:decks-filter-any . "Mis tahes keel")
  (:decks-filter-include-assigned . "Kuva kaardid, mis on juba kaardipakis")
- (:decks-flashcards-col-from . "Lähte")
- (:decks-flashcards-col-to . "Siht")
  (:decks-flashcards-add . "Lisa")
  (:decks-flashcards-added . "Lisatud")
  (:decks-flashcards-in-deck . "Teises kaardipakis")
  (:decks-flashcards-empty . "Ükski kaart ei vasta nendele filtritele.")
- (:decks-add-trans-title . "Lisa tõlge")
- (:decks-trans-id-placeholder . "Tõlke ID")
- (:decks-add-trans-btn . "Lisa tõlge")
  (:decks-items-title . "Kaardipaki sisu")
  (:decks-col-original . "Originaal")
  (:decks-col-translated . "Tõlge")
@@ -474,55 +428,7 @@
  (:flashcards-hide-perfected . "Peida täielikult omandatud kaardid")
  (:flashcards-col-original . "Originaal")
  (:flashcards-col-translated . "Tõlge")
- (:flashcards-col-lang . "Keeled")
  (:flashcards-no-cards . "Kaarte veel pole. Alusta tõlkimist, et neid luua!")
-
- ;; API Errors
- (:api-error-missing-text . "Tõlgitav tekst puudub.")
- (:api-error-invalid-translation-id . "Vigane tõlke ID.")
- (:api-error-translation-not-found . "Tõlget, mida proovisid salvestada, ei ole enam olemas.")
- (:api-error-invalid-bookmark-id . "Vigane järjehoidja ID")
- (:api-error-bookmark-not-found . "Järjehoidjat ei leitud")
- (:api-error-forbidden . "Keelatud")
- (:api-error-failed-delete-bookmark . "Järjehoidja kustutamine ebaõnnestus")
- (:api-error-invalid-flashcard-id . "Vigane õppekaardi ID")
- (:api-error-missing-deck-id . "Kaardipaki ID puudub")
- (:api-error-flashcard-not-found . "Õppekaarti ei leitud")
- (:api-error-deck-not-found . "Kaardipakki ei leitud")
- (:api-error-deck-name-required . "Kaardipaki nimi on kohustuslik")
- (:api-error-session-expired . "Sinu kordamissessioon on aegunud. Palun alusta uut sessiooni.")
- (:api-error-invalid-card-id . "Vigane kaardi ID.")
- (:api-error-invalid-rating . "Vigane hinnang.")
- (:api-error-rating-range . "Hinnang peab olema vahemikus 0 kuni 5.")
- (:api-error-card-not-found . "Kaarti ei leitud.")
- (:api-error-permission-denied . "Sul ei ole õigust seda kaarti korrata.")
- (:api-error-unknown-source-lang . "Tundmatu lähtekeel.")
- (:api-error-unknown-target-lang . "Tundmatu sihtkeel.")
- (:api-error-failed-add-to-deck . "Kaardipakki lisamine ebaõnnestus")
-
- ;; API Success messages
- (:api-success-added . "Lisatud!")
- (:api-success-added-simple . "Lisatud")
-
- ;; API Stats
- (:api-stats-due . "~A kordamiseks")
- (:api-stats-total . "~A kokku")
-
- ;; Time units
- (:api-time-day . "päev")
- (:api-time-days . "päeva")
- (:api-time-day-left . "päev jäänud")
- (:api-time-days-left . "päeva jäänud")
-
- ;; Subscription status
- (:api-subscription-active . "Aktiivne")
- (:api-subscription-inactive . "Mitteaktiivne")
- (:api-subscription-subscribe-hint . "Tõlgete avamiseks telli")
-
- ;; Generic status
- (:status-bad-request . "Vigane päring")
- (:status-not-found . "Ei leitud")
- (:status-forbidden . "Keelatud")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Õpi keeli põhjalikult")
@@ -530,7 +436,6 @@
  (:landing-hero-trust-line . "7 päeva tasuta prooviperioodi 100 tõlkega. Tühista igal ajal.")
  (:landing-credibility-languages . "14 keelt")
  (:landing-credibility-ai . "Grammatiline analüüs kaasas")
- (:landing-credibility-origin . "Loodud Eestis")
  (:landing-step-1-title . "Tõlgi mistahes teksti")
  (:landing-step-1-desc . "Sisesta sõna või fraas. Saa tõlge koos täieliku grammatilise analüüsiga.")
  (:landing-step-2-title . "Salvesta õppekaartidena")
@@ -554,13 +459,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Tasuta prooviperiood")
- (:trial-days-remaining . "~A päeva jäänud")
- (:trial-translations-used . "~A/100 tõlget kasutatud")
- (:trial-upgrade-prompt . "Uuenda, et jätkata tõlkimist")
- (:trial-expired . "Sinu tasuta prooviperiood on lõppenud")
- (:trial-expired-detail . "Telli, et jätkata õppimist Hiisiga.")
- (:trial-quota-warning . "~A proovitõlget jäänud (~A päeva). Telli 600/kuu.")
- (:trial-quota-exceeded . "Proovitõlgete limiit täis. Telli, et jätkata.")
  (:error-trial-quota-exceeded . "Proovitõlgete limiit täis")
  (:error-trial-quota-detail . "Oled kasutanud kõik 100 proovitõlget. Telli, et jätkata õppimist.")
 
@@ -578,22 +476,8 @@
  (:custom-flashcard-add-form . "Lisa grammatiline termin")
  (:custom-flashcard-remove-form . "Eemalda")
  (:custom-flashcard-ai-fill . "Täida tehisaruga")
- (:custom-flashcard-ai-fill-all . "Täida kõik tehisaruga")
- (:custom-flashcard-ai-fill-translation . "Tõlgi tehisaruga")
- (:custom-flashcard-ai-fill-breakdown . "Genereeri analüüs")
- (:custom-flashcard-ai-fill-note . "Genereeri märkus")
  (:custom-flashcard-create-btn . "Loo õppekaart")
  (:custom-flashcard-update-btn . "Salvesta muudatused")
- (:custom-flashcard-delete-btn . "Kustuta õppekaart")
- (:custom-flashcard-delete-confirm . "Kas oled kindel, et soovid selle õppekaardi kustutada?")
- (:custom-flashcard-created . "Õppekaart edukalt loodud")
- (:custom-flashcard-updated . "Õppekaart edukalt uuendatud")
- (:custom-flashcard-deleted . "Õppekaart edukalt kustutatud")
- (:custom-flashcard-add-to-deck . "Lisa pakki")
- (:custom-flashcard-not-found . "Õppekaarti ei leitud")
- (:custom-flashcard-not-owner . "Saad muuta ainult enda loodud õppekaarte")
- (:custom-flashcard-ai-generating . "Genereerimine tehisaruga...")
- (:custom-flashcard-badge . "Kohandatud")
 
  ;; Probleemidest teavitamine
  (:issues-open-button . "Teata probleemist")

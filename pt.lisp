@@ -23,31 +23,16 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Aprendizado de idiomas")
- (:app-tagline . "Aprenda idiomas através de traduções")
 
  ;; Landing page
- (:landing-hero-title . "Domine Qualquer Idioma")
- (:landing-hero-subtitle . "Traduza qualquer coisa. Gere automaticamente flashcards que ensinam por que funciona assim.")
- (:landing-cta . "Começar a Aprender")
  (:landing-learn-more . "Saiba Mais")
  (:landing-how-it-works . "Como Funciona")
- (:landing-feature-1-title . "Flashcards Automáticos")
- (:landing-feature-1-desc . "Cada tradução gera automaticamente flashcards com análise gramatical. Sem criação manual de cartões.")
- (:landing-feature-2-title . "Repetição Espaçada")
- (:landing-feature-2-desc . "O algoritmo SM-2 agenda revisões em intervalos ideais. Aprenda eficientemente, lembre-se permanentemente.")
- (:landing-feature-3-title . "Ensino de Gramática")
- (:landing-feature-3-desc . "Cada tradução explica gramática, raízes das palavras e estrutura das frases. Entenda o porquê, não apenas o quê.")
- (:landing-free-trial . "7 dias de teste grátis.")
  (:landing-start-trial . "Iniciar Teste Grátis")
  (:landing-best-value . "Melhor Valor")
- (:landing-cta-title . "Pronto para aprender idiomas através da gramática, não da memorização?")
- (:landing-cta-subtitle . "Cada tradução se torna uma oportunidade de aprendizado. Cada flashcard ensina o porquê.")
- (:landing-signup-free . "Cadastre-se Grátis")
 
  ;; Auth pages
  (:auth-register . "Registrar")
  (:auth-login . "Entrar")
- (:auth-logout . "Sair")
  (:auth-email . "Email")
  (:auth-password . "Senha")
  (:auth-password-again . "Confirmar Senha")
@@ -110,11 +95,6 @@
  (:translate-from . "De:")
  (:translate-to . "Para:")
  (:translate-submit . "Traduzir")
- (:translate-save . "Salvar em Flashcards")
- (:translate-saved . "Salvo!")
- (:translate-like . "Gostei")
- (:translate-dislike . "Não Gostei")
- (:translate-char-limit . "caracteres restantes")
  (:translate-auto-detect . "Qualquer (Detectar automaticamente)")
  (:translate-empty-state . "Digite o texto acima e clique em Traduzir para ver o resultado com análise gramatical")
  (:translate-select-deck-placeholder . "Selecionar baralho (opcional)")
@@ -126,7 +106,6 @@
  (:translate-like-tooltip . "Boa tradução")
  (:translate-dislike-tooltip . "Má tradução - solicitar uma nova")
  (:translate-dislike-confirm . "Isso gerará uma nova tradução. Continuar?")
- (:translate-liked . "Gostei!")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
@@ -160,12 +139,10 @@
  (:review-by-language-pair . "Revisar por par de idiomas")
  (:review-all-cards . "Revisar todos os cartões")
 
- (:review-start . "Iniciar Revisão")
  (:review-no-cards . "Nenhum Cartão para Revisar")
  (:review-no-cards-desc . "Você não tem nenhum flashcard pendente para revisão agora.")
  (:review-no-cards-hint . "Traduza algum texto e clique em \"Salvar em Flashcards\" para construir seu baralho!")
  (:review-start-translating . "Começar a Traduzir")
- (:review-show-answer . "Mostrar Resposta")
  (:review-click-reveal . "Clique para revelar a resposta")
  (:review-grammar-breakdown . "Análise Gramatical")
  (:review-how-well . "Você se lembrou?")
@@ -176,8 +153,6 @@
  (:review-progress . "Cartão ~a de ~a")
  (:review-complete . "Sessão Completa!")
  (:review-complete-msg . "Você revisou ~a cartões")
- (:review-correct . "Corretos")
- (:review-accuracy . "Precisão")
  (:review-again-btn . "Revisar Novamente")
  (:review-translate-more . "Traduzir Mais")
  (:review-streak . "dias de sequência")
@@ -232,8 +207,6 @@
  (:subscribe-grammar-explanations . "Explicações gramaticais")
  (:subscribe-spaced-repetition . "Repetição espaçada")
  (:subscribe-annual-desc . "Economize €20 — dois meses grátis!")
- (:subscribe-cta . "Assinar")
- (:subscribe-success . "Assinatura Bem-sucedida!")
  (:subscribe-manage . "Gerenciar Assinatura")
  (:subscribe-activated . "Assinatura Ativada!")
  (:subscribe-thank-you . "Obrigado por assinar. Sua conta agora está ativa.")
@@ -258,9 +231,6 @@
 
  ;; Errors and status
  (:error-generic . "Algo deu errado")
- (:error-not-found . "Página não encontrada")
- (:error-unauthorized . "Faça login para continuar")
- (:error-subscription-required . "Assinatura necessária")
  (:error-text-too-long . "O texto é muito longo. O comprimento máximo da tradução é de 120 caracteres.")
  (:error-input-too-long . "Entrada Muito Longa")
  (:error-unknown-source-lang . "O idioma de origem selecionado não é suportado.")
@@ -271,14 +241,10 @@
  (:error-translation-retry . "Não foi possível gerar uma tradução após várias tentativas. Por favor, tente reformular seu texto.")
  (:error-quota-exceeded . "Limite de traduções atingido")
  (:error-quota-exceeded-detail . "Você usou todas as suas traduções deste mês. Sua cota é redefinida automaticamente todo mês.")
- (:quota-warning . "Traduções restantes: ~A")
  (:quota-low-warning . "Apenas ~A traduções restantes. Considere comprar mais.")
  (:top-up-button . "Comprar mais traduções")
- (:top-up-success . "Recarga bem-sucedida! Agora você tem ~A traduções adicionais.")
  (:top-up-price . "€5")
  (:top-up-amount . "300 traduções")
- (:loading . "Carregando...")
- (:empty-state . "Nada aqui ainda")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi para escolas e universidades")
@@ -312,11 +278,9 @@
  ;; Footer
  (:footer-privacy . "Política de Privacidade")
  (:footer-terms . "Termos de Serviço")
- (:footer-contact . "Contato")
 
  ;; Early software notice
  (:early-software-notice . "Hiisi está em desenvolvimento inicial. Encontrou um bug ou tem uma sugestão?")
- (:early-software-contact . "Contacte-nos em")
 
  ;; Política de privacidade
  (:privacy-title . "Política de privacidade")
@@ -411,8 +375,6 @@
  (:terms-address-1 . "Lambda Symbolics OÜ")
  (:terms-address-2 . "Estónia")
 
-
-
  ;; Decks
  (:decks-title . "Baralhos")
  (:decks-subtitle . "Crie baralhos personalizados e partilhe-os com outros.")
@@ -431,10 +393,7 @@
  (:decks-error-desc-too-long . "A descrição do baralho deve ter no máximo ~A caracteres.")
  (:decks-error-default-readonly . "Os baralhos automáticos não podem ser editados.")
  (:decks-your-title . "Os seus baralhos")
- (:decks-col-name . "Nome")
- (:decks-col-desc . "Descrição")
  (:decks-col-updated . "Atualizado")
- (:decks-col-actions . "Ações")
  (:decks-no-decks . "Ainda não há baralhos.")
  (:decks-open-btn . "Abrir")
  (:decks-no-desc . "Sem descrição.")
@@ -449,15 +408,10 @@
  (:decks-filter-to . "Idioma de destino")
  (:decks-filter-any . "Qualquer idioma")
  (:decks-filter-include-assigned . "Incluir cartões que já estão num baralho")
- (:decks-flashcards-col-from . "De")
- (:decks-flashcards-col-to . "Para")
  (:decks-flashcards-add . "Adicionar")
  (:decks-flashcards-added . "Adicionado")
  (:decks-flashcards-in-deck . "Noutro baralho")
  (:decks-flashcards-empty . "Nenhum cartão corresponde a estes filtros.")
- (:decks-add-trans-title . "Adicionar tradução")
- (:decks-trans-id-placeholder . "ID da tradução")
- (:decks-add-trans-btn . "Adicionar tradução")
  (:decks-items-title . "Conteúdo do baralho")
  (:decks-col-original . "Original")
  (:decks-col-translated . "Tradução")
@@ -475,55 +429,7 @@
  (:flashcards-hide-perfected . "Ocultar cartões dominados")
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Tradução")
- (:flashcards-col-lang . "Idiomas")
  (:flashcards-no-cards . "Ainda não há cartões. Comece a traduzir para criar alguns!")
-
- ;; API errors
- (:api-error-missing-text . "Falta texto para traduzir.")
- (:api-error-invalid-translation-id . "ID de tradução inválido.")
- (:api-error-translation-not-found . "A tradução que tentou guardar já não existe.")
- (:api-error-invalid-bookmark-id . "ID de marcador inválido")
- (:api-error-bookmark-not-found . "Marcador não encontrado")
- (:api-error-forbidden . "Proibido")
- (:api-error-failed-delete-bookmark . "Falha ao eliminar marcador")
- (:api-error-invalid-flashcard-id . "ID de cartão inválido")
- (:api-error-missing-deck-id . "Falta ID do baralho")
- (:api-error-flashcard-not-found . "Cartão não encontrado")
- (:api-error-deck-not-found . "Baralho não encontrado")
- (:api-error-deck-name-required . "O nome do baralho é obrigatório")
- (:api-error-session-expired . "A sua sessão de revisão expirou. Inicie uma nova sessão.")
- (:api-error-invalid-card-id . "ID de cartão inválido.")
- (:api-error-invalid-rating . "Classificação inválida.")
- (:api-error-rating-range . "A classificação deve estar entre 0 e 5.")
- (:api-error-card-not-found . "Cartão não encontrado.")
- (:api-error-permission-denied . "Não tem permissão para rever este cartão.")
- (:api-error-unknown-source-lang . "Idioma de origem desconhecido.")
- (:api-error-unknown-target-lang . "Idioma de destino desconhecido.")
- (:api-error-failed-add-to-deck . "Falha ao adicionar ao baralho")
-
- ;; API success messages
- (:api-success-added . "Adicionado!")
- (:api-success-added-simple . "Adicionado")
-
- ;; API stats
- (:api-stats-due . "~A pendentes")
- (:api-stats-total . "~A no total")
-
- ;; Time units
- (:api-time-day . "dia")
- (:api-time-days . "dias")
- (:api-time-day-left . "dia restante")
- (:api-time-days-left . "dias restantes")
-
- ;; Subscription status
- (:api-subscription-active . "Ativo")
- (:api-subscription-inactive . "Inativo")
- (:api-subscription-subscribe-hint . "Subscreva para desbloquear traduções")
-
- ;; Generic status
- (:status-bad-request . "Pedido inválido")
- (:status-not-found . "Não encontrado")
- (:status-forbidden . "Proibido")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Aprenda idiomas de forma abrangente")
@@ -531,7 +437,6 @@
  (:landing-hero-trust-line . "7 dias de teste grátis com 100 traduções. Cancele a qualquer momento.")
  (:landing-credibility-languages . "14 idiomas")
  (:landing-credibility-ai . "Análise gramatical incluída")
- (:landing-credibility-origin . "Feito na Estónia")
  (:landing-step-1-title . "Traduza qualquer texto")
  (:landing-step-1-desc . "Insira uma palavra ou frase. Obtenha uma tradução com análise gramatical completa.")
  (:landing-step-2-title . "Guarde como cartões")
@@ -555,13 +460,6 @@
 
  ;; Trial status (in-app)
  (:trial-status . "Teste gratuito")
- (:trial-days-remaining . "~A dias restantes")
- (:trial-translations-used . "~A/100 traduções usadas")
- (:trial-upgrade-prompt . "Faça upgrade para continuar a traduzir")
- (:trial-expired . "O seu teste gratuito terminou")
- (:trial-expired-detail . "Subscreva para continuar a aprender com o Hiisi.")
- (:trial-quota-warning . "~A traduções de teste restantes (~A dias). Subscreva por 600/mês.")
- (:trial-quota-exceeded . "Limite de traduções de teste atingido. Subscreva para continuar.")
  (:error-trial-quota-exceeded . "Limite de traduções de teste atingido")
  (:error-trial-quota-detail . "Usou todas as 100 traduções de teste. Subscreva para continuar a aprender.")
 
@@ -579,22 +477,8 @@
  (:custom-flashcard-add-form . "Adicionar termo gramatical")
  (:custom-flashcard-remove-form . "Remover")
  (:custom-flashcard-ai-fill . "Preencher com IA")
- (:custom-flashcard-ai-fill-all . "Preencher tudo com IA")
- (:custom-flashcard-ai-fill-translation . "Traduzir com IA")
- (:custom-flashcard-ai-fill-breakdown . "Gerar análise")
- (:custom-flashcard-ai-fill-note . "Gerar nota")
  (:custom-flashcard-create-btn . "Criar cartão")
  (:custom-flashcard-update-btn . "Guardar alterações")
- (:custom-flashcard-delete-btn . "Eliminar cartão")
- (:custom-flashcard-delete-confirm . "Tem a certeza de que quer eliminar este cartão?")
- (:custom-flashcard-created . "Cartão criado com sucesso")
- (:custom-flashcard-updated . "Cartão atualizado com sucesso")
- (:custom-flashcard-deleted . "Cartão eliminado com sucesso")
- (:custom-flashcard-add-to-deck . "Adicionar ao baralho")
- (:custom-flashcard-not-found . "Cartão não encontrado")
- (:custom-flashcard-not-owner . "Só pode editar cartões que criou")
- (:custom-flashcard-ai-generating . "A gerar com IA...")
- (:custom-flashcard-badge . "Personalizado")
 
  ;; Relato de problemas
  (:issues-open-button . "Reportar um problema")
