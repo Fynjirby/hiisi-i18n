@@ -193,6 +193,8 @@
  (:dashboard-no-translations . "Nessuna traduzione ancora")
  (:dashboard-streak . "Serie di ripasso")
  (:dashboard-days . "giorni")
+ (:dashboard-all-caught-up . "Tutto in pari!")
+ (:dashboard-all-caught-up-hint . "Traduci ancora per ampliare la tua raccolta.")
  (:dashboard-quick-actions . "Azioni rapide")
  (:dashboard-getting-started . "Per iniziare")
  (:dashboard-tip-1 . "Traduci il testo che vuoi imparare")

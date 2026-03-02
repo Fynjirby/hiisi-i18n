@@ -193,6 +193,8 @@
  (:dashboard-no-translations . "Noch keine Übersetzungen")
  (:dashboard-streak . "Wiederholungsserie")
  (:dashboard-days . "Tage")
+ (:dashboard-all-caught-up . "Alles aufgeholt!")
+ (:dashboard-all-caught-up-hint . "Übersetze mehr, um deine Sammlung auszubauen.")
  (:dashboard-quick-actions . "Schnellaktionen")
  (:dashboard-getting-started . "Erste Schritte")
  (:dashboard-tip-1 . "Übersetze Text, den du lernen möchtest")

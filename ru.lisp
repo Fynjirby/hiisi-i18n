@@ -193,6 +193,8 @@
  (:dashboard-no-translations . "Пока нет переводов")
  (:dashboard-streak . "Текущая серия")
  (:dashboard-days . "дней")
+ (:dashboard-all-caught-up . "Все повторено!")
+ (:dashboard-all-caught-up-hint . "Переводите больше, чтобы пополнять свою коллекцию.")
  (:dashboard-quick-actions . "Быстрые действия")
  (:dashboard-getting-started . "Начало работы")
  (:dashboard-tip-1 . "Переводите текст, который хотите выучить")

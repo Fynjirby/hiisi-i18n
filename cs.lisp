@@ -192,6 +192,8 @@
  (:dashboard-no-translations . "Zatím žádné překlady")
  (:dashboard-streak . "Aktuální série")
  (:dashboard-days . "dní")
+ (:dashboard-all-caught-up . "Máte hotovo!")
+ (:dashboard-all-caught-up-hint . "Překládejte dál a rozšiřujte svou sbírku.")
  (:dashboard-quick-actions . "Rychlé akce")
  (:dashboard-getting-started . "Začínáme")
  (:dashboard-tip-1 . "Přeložte text, který se chcete naučit")

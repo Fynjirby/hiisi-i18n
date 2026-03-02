@@ -192,6 +192,8 @@
  (:dashboard-no-translations . "Inga översättningar än")
  (:dashboard-streak . "Nuvarande svit")
  (:dashboard-days . "dagar")
+ (:dashboard-all-caught-up . "Allt är avklarat!")
+ (:dashboard-all-caught-up-hint . "Översätt mer för att bygga upp din samling.")
  (:dashboard-quick-actions . "Snabbåtgärder")
  (:dashboard-getting-started . "Kom igång")
  (:dashboard-tip-1 . "Översätt text du vill lära dig")

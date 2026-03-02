@@ -192,6 +192,8 @@
  (:dashboard-no-translations . "Tõlkeid veel pole")
  (:dashboard-streak . "Kordamise seeria")
  (:dashboard-days . "päeva")
+ (:dashboard-all-caught-up . "Kõik on üle vaadatud!")
+ (:dashboard-all-caught-up-hint . "Tõlgi veel, et oma kogu kasvatada.")
  (:dashboard-quick-actions . "Kiirtoimingud")
  (:dashboard-getting-started . "Alustamine")
  (:dashboard-tip-1 . "Tõlgi teksti, mida soovid õppida")
