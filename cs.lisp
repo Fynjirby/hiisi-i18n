@@ -22,7 +22,7 @@
 
  ;; App title and branding
  (:app-title . "Hiisi - Studium jazyků")
- (:app-tagline . "Učte se jazyky s překlady poháněnými AI")
+ (:app-tagline . "Učte se jazyky prostřednictvím strukturovaných překladů")
 
  ;; Landing page
  (:landing-hero-title . "Ovládněte jakýkoliv jazyk")
@@ -290,7 +290,7 @@
  (:institutions-benefit-3 . "Gramatické rozbory a rozložené opakování podporují víc než jen memorování izolovaných slovíček.")
  (:institutions-benefit-4 . "Podpora s učitelským pohledem od člověka, který pozorně naslouchá a bere potřeby výuky vážně.")
  (:institutions-request-title . "Začněme rozhovor")
- (:institutions-request-subtitle . "Napište nám o své instituci, jazycích i o tom, jakou podporu ve výuce potřebujete. Ozveme se vám do 2 pracovních dnů.")
+ (:institutions-request-subtitle . "Napište nám o své instituci, jazycích i o tom, jakou podporu ve výuce potřebujete. Ozveme se vám do týdne.")
  (:institutions-field-name . "Název instituce")
  (:institutions-field-name-placeholder . "Univerzita v Helsinkách")
  (:institutions-field-contact-name . "Jméno kontaktní osoby")
@@ -305,7 +305,7 @@
  (:institutions-submit . "Odeslat poptávku")
  (:institutions-success-title . "Děkujeme - Hiisi pro školy a univerzity")
  (:institutions-success-heading . "Děkujeme!")
- (:institutions-success-body . "Obdrželi jsme vaši poptávku. Podíváme se na potřeby vaší instituce a ozveme se vám do 2 pracovních dnů.")
+ (:institutions-success-body . "Obdrželi jsme vaši poptávku. Podíváme se na potřeby vaší instituce a ozveme se vám do týdne.")
  (:institutions-success-back . "Zpět na úvod")
 
  ;; Footer
@@ -371,7 +371,7 @@
  (:terms-title . "Podmínky služby")
  (:terms-updated . "Poslední aktualizace: leden 2026")
  (:terms-1-title . "1. Popis služby")
- (:terms-1-body . "Hiisi je jazyková výuková aplikace, která poskytuje překlady poháněné umělou inteligencí s gramatickými vysvětleními a kartičkami s rozloženým opakováním. Službu provozuje Lambda Symbolics OÜ.")
+ (:terms-1-body . "Hiisi je jazyková výuková aplikace, která poskytuje automatické překlady s gramatickými vysvětleními a kartičky s rozloženým opakováním. Službu provozuje Lambda Symbolics OÜ.")
  (:terms-2-title . "2. Registrace účtu")
  (:terms-2-body . "Pro používání Hiisi musíte vytvořit účet s platnou e-mailovou adresou. Jste zodpovědní za zabezpečení svých přihlašovacích údajů.")
  (:terms-3-title . "3. Předplatné a platby")
@@ -386,12 +386,12 @@
  (:terms-4-list-3 . "Sdílet své přihlašovací údaje s ostatními")
  (:terms-4-list-4 . "Používat automatizované nástroje pro přístup ke službě způsobem, který zhoršuje výkon pro ostatní")
  (:terms-5-title . "5. Obsah a duševní vlastnictví")
- (:terms-5-body-1 . "Překlady generované Hiisi jsou vytvářeny pomocí umělé inteligence a nemusí být unikátní. Své překlady a kartičky můžete používat pro jakýkoli osobní účel, ale nemáte výhradní autorská práva k obsahu generovanému umělou inteligencí.")
+ (:terms-5-body-1 . "Překlady generované Hiisi jsou vytvářeny automaticky a nemusí být unikátní. Své překlady a kartičky můžete používat pro jakýkoli osobní účel, ale nemáte výhradní autorská práva k automaticky generovanému obsahu.")
  (:terms-5-body-2 . "Aplikace Hiisi, značka a původní obsah zůstávají majetkem Lambda Symbolics OÜ.")
  (:terms-6-title . "6. Dostupnost služby")
  (:terms-6-intro . "Hiisi je poskytováno na bázi \"jak je\". Negarantujeme:")
  (:terms-6-list-1 . "Nepřerušenou nebo bezchybnou službu")
- (:terms-6-list-2 . "Přesnost překladů generovaných umělou inteligencí")
+ (:terms-6-list-2 . "Přesnost automaticky generovaných překladů")
  (:terms-6-list-3 . "Dostupnost konkrétních funkcí")
  (:terms-6-body . "Funkce můžeme kdykoli upravit nebo ukončit.")
  (:terms-7-title . "7. Omezení odpovědnosti")

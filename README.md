@@ -31,7 +31,7 @@ Each language file is a single alist (association list) keyed by keywords:
 
  ;; App title
  (:app-title . "Hiisi")
- (:app-tagline . "Learn languages with AI-powered translations")
+ (:app-tagline . "Learn languages through translations")
 
  ;; ... more keys
 )
