@@ -151,7 +151,7 @@
  (:review-easy . "Snadno")
  (:review-progress . "Kartička ~a z ~a")
  (:review-complete . "Opakování dokončeno!")
- (:review-complete-msg . "Zopakovali jste ~a kartíček")
+ (:review-complete-msg . "Zopakovali jste ~a kartiček")
  (:review-again-btn . "Opakovat znovu")
  (:review-translate-more . "Překládat více")
  (:review-streak . "denní série")
@@ -159,7 +159,7 @@
  ;; Dashboard
  (:dashboard-title . "Přehled")
  (:dashboard-cards-due . "Kartičky na dnes")
- (:dashboard-total-cards . "Celkem kartíček")
+ (:dashboard-total-cards . "Celkem kartiček")
  (:dashboard-subscription . "Předplatné")
  (:dashboard-subscribed-until . "Předplaceno do")
  (:dashboard-not-subscribed . "Bez předplatného")
