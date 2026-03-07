@@ -330,7 +330,7 @@
  (:privacy-contact-intro . "Ved spørgsmål om privatliv:")
  (:privacy-contact-email-label . "E-mail: ")
  (:privacy-address-1 . "Lambda Symbolics OÜ")
- (:privacy-address-2 . "Estland")
+ (:privacy-address-2 . "Harju maakond, Tallinn, Kesklinna linnaosa, Tornimäe tn 5, 10145")
 
  ;; Brugsvilkår
  (:terms-title . "Brugsvilkår")
@@ -373,7 +373,7 @@
  (:terms-contact-intro . "Ved spørgsmål om disse vilkår:")
  (:terms-contact-email-label . "E-mail: ")
  (:terms-address-1 . "Lambda Symbolics OÜ")
- (:terms-address-2 . "Estland")
+ (:terms-address-2 . "Harju maakond, Tallinn, Kesklinna linnaosa, Tornimäe tn 5, 10145")
 
  ;; Decks
  (:decks-title . "Kortbunker")

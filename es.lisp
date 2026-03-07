@@ -330,7 +330,7 @@
  (:privacy-contact-intro . "Para consultas relacionadas con la privacidad:")
  (:privacy-contact-email-label . "Correo electrónico: ")
  (:privacy-address-1 . "Lambda Symbolics OÜ")
- (:privacy-address-2 . "Estonia")
+ (:privacy-address-2 . "Harju maakond, Tallinn, Kesklinna linnaosa, Tornimäe tn 5, 10145")
 
  ;; Términos de servicio
  (:terms-title . "Términos de servicio")
@@ -373,7 +373,7 @@
  (:terms-contact-intro . "Para preguntas sobre estos términos:")
  (:terms-contact-email-label . "Correo electrónico: ")
  (:terms-address-1 . "Lambda Symbolics OÜ")
- (:terms-address-2 . "Estonia")
+ (:terms-address-2 . "Harju maakond, Tallinn, Kesklinna linnaosa, Tornimäe tn 5, 10145")
 
  ;; Decks
  (:decks-title . "Mazos")

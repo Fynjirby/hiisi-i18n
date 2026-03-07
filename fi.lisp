@@ -329,7 +329,7 @@
  (:privacy-contact-intro . "Tietosuojaan liittyvissä kysymyksissä:")
  (:privacy-contact-email-label . "Sähköposti: ")
  (:privacy-address-1 . "Lambda Symbolics OÜ")
- (:privacy-address-2 . "Viro")
+ (:privacy-address-2 . "Harju maakond, Tallinn, Kesklinna linnaosa, Tornimäe tn 5, 10145")
 
  ;; Käyttöehdot
  (:terms-title . "Käyttöehdot")
@@ -372,7 +372,7 @@
  (:terms-contact-intro . "Jos sinulla on kysyttävää näistä ehdoista:")
  (:terms-contact-email-label . "Sähköposti: ")
  (:terms-address-1 . "Lambda Symbolics OÜ")
- (:terms-address-2 . "Viro")
+ (:terms-address-2 . "Harju maakond, Tallinn, Kesklinna linnaosa, Tornimäe tn 5, 10145")
 
  ;; Decks
  (:decks-title . "Pakkat")
