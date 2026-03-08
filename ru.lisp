@@ -452,6 +452,8 @@
  (:starter-deck-topic-time-description . "Дни, месяцы, встречи, время на часах и относительные даты.")
  (:starter-deck-topic-food-title . "Ресторан и еда")
  (:starter-deck-topic-food-description . "Заказ, особенности питания, напитки, счёт и повседневные приёмы пищи вне дома.")
+ (:starter-deck-topic-emergency-title . "Экстренные ситуации и здоровье")
+ (:starter-deck-topic-emergency-description . "Врачи, аптеки, симптомы, части тела и срочная помощь.")
 
  ;; Flashcards management page
  (:flashcards-title . "Мои карточки")

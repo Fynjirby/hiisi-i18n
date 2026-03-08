@@ -452,6 +452,8 @@
  (:starter-deck-topic-time-description . "Giorni, mesi, appuntamenti, orario e date relative.")
  (:starter-deck-topic-food-title . "Ristorante e cibo")
  (:starter-deck-topic-food-description . "Ordinare, esigenze alimentari, bevande, il conto e pasti quotidiani fuori casa.")
+ (:starter-deck-topic-emergency-title . "Emergenze e salute")
+ (:starter-deck-topic-emergency-description . "Medici, farmacie, sintomi, parti del corpo e aiuto urgente.")
 
  ;; Flashcards management page
  (:flashcards-title . "Le mie carte")

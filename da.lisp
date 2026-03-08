@@ -452,6 +452,8 @@
  (:starter-deck-topic-time-description . "Dage, måneder, aftaler, klokkeslæt og relative datoer.")
  (:starter-deck-topic-food-title . "Restaurant og mad")
  (:starter-deck-topic-food-description . "Bestilling, kosthensyn, drikkevarer, regningen og daglige måltider ude.")
+ (:starter-deck-topic-emergency-title . "Nødsituationer og sundhed")
+ (:starter-deck-topic-emergency-description . "Læger, apoteker, symptomer, kropsdele og akut hjælp.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mine kort")

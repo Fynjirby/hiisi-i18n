@@ -451,6 +451,8 @@
  (:starter-deck-topic-time-description . "Päivät, kuukaudet, tapaamiset, kellonajat ja suhteelliset päivämäärät.")
  (:starter-deck-topic-food-title . "Ravintola ja ruoka")
  (:starter-deck-topic-food-description . "Tilaaminen, ruokavaliot, juomat, lasku ja tavalliset ateriat kodin ulkopuolella.")
+ (:starter-deck-topic-emergency-title . "Hätätilanteet ja terveys")
+ (:starter-deck-topic-emergency-description . "Lääkärit, apteekit, oireet, kehonosat ja kiireellinen apu.")
 
  ;; Flashcards management page
  (:flashcards-title . "Korttini")

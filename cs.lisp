@@ -451,6 +451,8 @@
  (:starter-deck-topic-time-description . "Dny, měsíce, schůzky, čas na hodinách a relativní data.")
  (:starter-deck-topic-food-title . "Restaurace a jídlo")
  (:starter-deck-topic-food-description . "Objednávání, stravovací omezení, nápoje, účet a běžná jídla mimo domov.")
+ (:starter-deck-topic-emergency-title . "Pohotovost a zdraví")
+ (:starter-deck-topic-emergency-description . "Lékaři, lékárny, příznaky, části těla a naléhavá pomoc.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje kartičky")

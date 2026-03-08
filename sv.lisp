@@ -451,6 +451,8 @@
  (:starter-deck-topic-time-description . "Dagar, månader, möten, klockslag och relativa datum.")
  (:starter-deck-topic-food-title . "Restaurang och mat")
  (:starter-deck-topic-food-description . "Beställning, kostönskemål, drycker, notan och vanliga måltider ute.")
+ (:starter-deck-topic-emergency-title . "Nödsituationer och hälsa")
+ (:starter-deck-topic-emergency-description . "Läkare, apotek, symtom, kroppsdelar och akut hjälp.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mina kort")

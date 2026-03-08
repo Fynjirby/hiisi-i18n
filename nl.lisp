@@ -451,6 +451,8 @@
  (:starter-deck-topic-time-description . "Dagen, maanden, afspraken, kloktijden en relatieve datums.")
  (:starter-deck-topic-food-title . "Restaurant en eten")
  (:starter-deck-topic-food-description . "Bestellen, dieetwensen, drankjes, de rekening en alledaagse maaltijden buitenshuis.")
+ (:starter-deck-topic-emergency-title . "Noodsituaties en gezondheid")
+ (:starter-deck-topic-emergency-description . "Artsen, apotheken, symptomen, lichaamsdelen en dringende hulp.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mijn kaarten")

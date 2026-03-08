@@ -453,6 +453,8 @@
  (:starter-deck-topic-time-description . "Days, months, appointments, clock time, and relative dates.")
  (:starter-deck-topic-food-title . "Restaurant and food")
  (:starter-deck-topic-food-description . "Ordering, dietary needs, drinks, the bill, and everyday meals out.")
+ (:starter-deck-topic-emergency-title . "Emergency and health")
+ (:starter-deck-topic-emergency-description . "Doctors, pharmacies, symptoms, body parts, and urgent help.")
 
  ;; Flashcards management page
  (:flashcards-title . "My Flashcards")
