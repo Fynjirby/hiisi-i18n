@@ -455,6 +455,8 @@
  (:starter-deck-topic-food-description . "Ordering, dietary needs, drinks, the bill, and everyday meals out.")
  (:starter-deck-topic-emergency-title . "Emergency and health")
  (:starter-deck-topic-emergency-description . "Doctors, pharmacies, symptoms, body parts, and urgent help.")
+ (:starter-deck-topic-directions-title . "Directions and transportation")
+ (:starter-deck-topic-directions-description . "Turning, stops, tickets, platforms, and getting around town.")
 
  ;; Flashcards management page
  (:flashcards-title . "My Flashcards")

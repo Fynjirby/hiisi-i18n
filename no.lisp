@@ -454,6 +454,8 @@
  (:starter-deck-topic-food-description . "Bestilling, kosthensyn, drikke, regningen og vanlige måltider ute.")
  (:starter-deck-topic-emergency-title . "Nødsituasjoner og helse")
  (:starter-deck-topic-emergency-description . "Leger, apotek, symptomer, kroppsdeler og akutt hjelp.")
+ (:starter-deck-topic-directions-title . "Veibeskrivelser og transport")
+ (:starter-deck-topic-directions-description . "Veibeskrivelser, holdeplasser, billetter, plattformer og å komme seg rundt i byen.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mine kort")

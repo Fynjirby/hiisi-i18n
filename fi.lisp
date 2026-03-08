@@ -453,6 +453,8 @@
  (:starter-deck-topic-food-description . "Tilaaminen, ruokavaliot, juomat, lasku ja tavalliset ateriat kodin ulkopuolella.")
  (:starter-deck-topic-emergency-title . "Hätätilanteet ja terveys")
  (:starter-deck-topic-emergency-description . "Lääkärit, apteekit, oireet, kehonosat ja kiireellinen apu.")
+ (:starter-deck-topic-directions-title . "Reittiohjeet ja liikenne")
+ (:starter-deck-topic-directions-description . "Kääntyminen, pysäkit, liput, laiturit ja liikkuminen kaupungissa.")
 
  ;; Flashcards management page
  (:flashcards-title . "Korttini")

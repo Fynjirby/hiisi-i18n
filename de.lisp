@@ -454,6 +454,8 @@
  (:starter-deck-topic-food-description . "Bestellen, Ernährungswünsche, Getränke, die Rechnung und alltägliche Mahlzeiten außer Haus.")
  (:starter-deck-topic-emergency-title . "Notfälle und Gesundheit")
  (:starter-deck-topic-emergency-description . "Ärzte, Apotheken, Symptome, Körperteile und dringende Hilfe.")
+ (:starter-deck-topic-directions-title . "Wegbeschreibung und Verkehrsmittel")
+ (:starter-deck-topic-directions-description . "Abbiegen, Haltestellen, Tickets, Bahnsteige und das Fortbewegen in der Stadt.")
 
  ;; Flashcards management page
  (:flashcards-title . "Meine Karten")

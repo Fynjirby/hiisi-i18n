@@ -453,6 +453,8 @@
  (:starter-deck-topic-food-description . "Objednávání, stravovací omezení, nápoje, účet a běžná jídla mimo domov.")
  (:starter-deck-topic-emergency-title . "Pohotovost a zdraví")
  (:starter-deck-topic-emergency-description . "Lékaři, lékárny, příznaky, části těla a naléhavá pomoc.")
+ (:starter-deck-topic-directions-title . "Směry a doprava")
+ (:starter-deck-topic-directions-description . "Odbočování, zastávky, jízdenky, nástupiště a pohyb po městě.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje kartičky")

@@ -454,6 +454,8 @@
  (:starter-deck-topic-food-description . "Pedir, necesidades alimentarias, bebidas, la cuenta y comidas cotidianas fuera de casa.")
  (:starter-deck-topic-emergency-title . "Emergencias y salud")
  (:starter-deck-topic-emergency-description . "Médicos, farmacias, síntomas, partes del cuerpo y ayuda urgente.")
+ (:starter-deck-topic-directions-title . "Indicaciones y transporte")
+ (:starter-deck-topic-directions-description . "Giros, paradas, billetes, andenes y moverse por la ciudad.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mis tarjetas")

@@ -454,6 +454,8 @@
  (:starter-deck-topic-food-description . "Zamawianie, potrzeby dietetyczne, napoje, rachunek i codzienne posiłki poza domem.")
  (:starter-deck-topic-emergency-title . "Nagłe sytuacje i zdrowie")
  (:starter-deck-topic-emergency-description . "Lekarze, apteki, objawy, części ciała i pilna pomoc.")
+ (:starter-deck-topic-directions-title . "Wskazywanie drogi i transport")
+ (:starter-deck-topic-directions-description . "Skręcanie, przystanki, bilety, perony i poruszanie się po mieście.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje fiszki")

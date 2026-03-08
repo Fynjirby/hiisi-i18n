@@ -453,6 +453,8 @@
  (:starter-deck-topic-food-description . "Bestellen, dieetwensen, drankjes, de rekening en alledaagse maaltijden buitenshuis.")
  (:starter-deck-topic-emergency-title . "Noodsituaties en gezondheid")
  (:starter-deck-topic-emergency-description . "Artsen, apotheken, symptomen, lichaamsdelen en dringende hulp.")
+ (:starter-deck-topic-directions-title . "Routebeschrijvingen en vervoer")
+ (:starter-deck-topic-directions-description . "Afslaan, haltes, tickets, perrons en je verplaatsen in de stad.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mijn kaarten")

@@ -453,6 +453,8 @@
  (:starter-deck-topic-food-description . "Beställning, kostönskemål, drycker, notan och vanliga måltider ute.")
  (:starter-deck-topic-emergency-title . "Nödsituationer och hälsa")
  (:starter-deck-topic-emergency-description . "Läkare, apotek, symtom, kroppsdelar och akut hjälp.")
+ (:starter-deck-topic-directions-title . "Vägbeskrivningar och transport")
+ (:starter-deck-topic-directions-description . "Svängar, hållplatser, biljetter, perronger och att ta sig runt i staden.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mina kort")

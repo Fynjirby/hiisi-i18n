@@ -453,6 +453,8 @@
  (:starter-deck-topic-food-description . "Tellimine, toitumisvajadused, joogid, arve ja igapäevased söögikorrad kodust väljas.")
  (:starter-deck-topic-emergency-title . "Hädaolukorrad ja tervis")
  (:starter-deck-topic-emergency-description . "Arstid, apteegid, sümptomid, kehaosad ja kiire abi.")
+ (:starter-deck-topic-directions-title . "Teejuhised ja transport")
+ (:starter-deck-topic-directions-description . "Pööramised, peatused, piletid, perroonid ja linnas liikumine.")
 
  ;; Flashcards management page
  (:flashcards-title . "Minu kaardid")

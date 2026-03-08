@@ -454,6 +454,8 @@
  (:starter-deck-topic-food-description . "Заказ, особенности питания, напитки, счёт и повседневные приёмы пищи вне дома.")
  (:starter-deck-topic-emergency-title . "Экстренные ситуации и здоровье")
  (:starter-deck-topic-emergency-description . "Врачи, аптеки, симптомы, части тела и срочная помощь.")
+ (:starter-deck-topic-directions-title . "Ориентирование и транспорт")
+ (:starter-deck-topic-directions-description . "Повороты, остановки, билеты, платформы и передвижение по городу.")
 
  ;; Flashcards management page
  (:flashcards-title . "Мои карточки")
