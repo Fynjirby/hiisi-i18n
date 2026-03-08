@@ -457,6 +457,8 @@
  (:starter-deck-topic-emergency-description . "Doctors, pharmacies, symptoms, body parts, and urgent help.")
  (:starter-deck-topic-directions-title . "Directions and transportation")
  (:starter-deck-topic-directions-description . "Turning, stops, tickets, platforms, and getting around town.")
+ (:starter-deck-topic-school-title . "School and education")
+ (:starter-deck-topic-school-description . "Classes, homework, exams, classroom items, and everyday school life.")
 
  ;; Flashcards management page
  (:flashcards-title . "My Flashcards")

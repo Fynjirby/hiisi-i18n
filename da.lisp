@@ -456,6 +456,8 @@
  (:starter-deck-topic-emergency-description . "Læger, apoteker, symptomer, kropsdele og akut hjælp.")
  (:starter-deck-topic-directions-title . "Vejvisning og transport")
  (:starter-deck-topic-directions-description . "Sving, stoppesteder, billetter, perroner og at komme rundt i byen.")
+ (:starter-deck-topic-school-title . "Skole og uddannelse")
+ (:starter-deck-topic-school-description . "Timer, lektier, prøver, skoleudstyr og hverdagslivet på skolen.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mine kort")

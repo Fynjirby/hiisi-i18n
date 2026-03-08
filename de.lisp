@@ -456,6 +456,8 @@
  (:starter-deck-topic-emergency-description . "Ärzte, Apotheken, Symptome, Körperteile und dringende Hilfe.")
  (:starter-deck-topic-directions-title . "Wegbeschreibung und Verkehrsmittel")
  (:starter-deck-topic-directions-description . "Abbiegen, Haltestellen, Tickets, Bahnsteige und das Fortbewegen in der Stadt.")
+ (:starter-deck-topic-school-title . "Schule und Bildung")
+ (:starter-deck-topic-school-description . "Unterricht, Hausaufgaben, Prüfungen, Schulsachen und der Schulalltag.")
 
  ;; Flashcards management page
  (:flashcards-title . "Meine Karten")

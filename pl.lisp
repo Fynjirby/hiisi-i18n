@@ -456,6 +456,8 @@
  (:starter-deck-topic-emergency-description . "Lekarze, apteki, objawy, części ciała i pilna pomoc.")
  (:starter-deck-topic-directions-title . "Wskazywanie drogi i transport")
  (:starter-deck-topic-directions-description . "Skręcanie, przystanki, bilety, perony i poruszanie się po mieście.")
+ (:starter-deck-topic-school-title . "Szkoła i edukacja")
+ (:starter-deck-topic-school-description . "Lekcje, zadania domowe, egzaminy, przybory szkolne i codzienne życie w szkole.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje fiszki")

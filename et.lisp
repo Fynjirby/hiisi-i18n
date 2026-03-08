@@ -455,6 +455,8 @@
  (:starter-deck-topic-emergency-description . "Arstid, apteegid, sümptomid, kehaosad ja kiire abi.")
  (:starter-deck-topic-directions-title . "Teejuhised ja transport")
  (:starter-deck-topic-directions-description . "Pööramised, peatused, piletid, perroonid ja linnas liikumine.")
+ (:starter-deck-topic-school-title . "Kool ja haridus")
+ (:starter-deck-topic-school-description . "Tunnid, kodutööd, eksamid, koolitarbed ja igapäevane koolielu.")
 
  ;; Flashcards management page
  (:flashcards-title . "Minu kaardid")

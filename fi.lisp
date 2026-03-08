@@ -455,6 +455,8 @@
  (:starter-deck-topic-emergency-description . "Lääkärit, apteekit, oireet, kehonosat ja kiireellinen apu.")
  (:starter-deck-topic-directions-title . "Reittiohjeet ja liikenne")
  (:starter-deck-topic-directions-description . "Kääntyminen, pysäkit, liput, laiturit ja liikkuminen kaupungissa.")
+ (:starter-deck-topic-school-title . "Koulu ja opiskelu")
+ (:starter-deck-topic-school-description . "Tunnit, kotitehtävät, kokeet, koulutarvikkeet ja arjen kouluelämä.")
 
  ;; Flashcards management page
  (:flashcards-title . "Korttini")

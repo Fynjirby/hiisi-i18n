@@ -456,6 +456,8 @@
  (:starter-deck-topic-emergency-description . "Врачи, аптеки, симптомы, части тела и срочная помощь.")
  (:starter-deck-topic-directions-title . "Ориентирование и транспорт")
  (:starter-deck-topic-directions-description . "Повороты, остановки, билеты, платформы и передвижение по городу.")
+ (:starter-deck-topic-school-title . "Школа и учёба")
+ (:starter-deck-topic-school-description . "Уроки, домашние задания, экзамены, школьные принадлежности и повседневная школьная жизнь.")
 
  ;; Flashcards management page
  (:flashcards-title . "Мои карточки")

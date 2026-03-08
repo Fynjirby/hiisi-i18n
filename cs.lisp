@@ -455,6 +455,8 @@
  (:starter-deck-topic-emergency-description . "Lékaři, lékárny, příznaky, části těla a naléhavá pomoc.")
  (:starter-deck-topic-directions-title . "Směry a doprava")
  (:starter-deck-topic-directions-description . "Odbočování, zastávky, jízdenky, nástupiště a pohyb po městě.")
+ (:starter-deck-topic-school-title . "Škola a vzdělávání")
+ (:starter-deck-topic-school-description . "Vyučování, domácí úkoly, zkoušky, školní pomůcky a každodenní školní život.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje kartičky")

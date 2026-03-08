@@ -455,6 +455,8 @@
  (:starter-deck-topic-emergency-description . "Artsen, apotheken, symptomen, lichaamsdelen en dringende hulp.")
  (:starter-deck-topic-directions-title . "Routebeschrijvingen en vervoer")
  (:starter-deck-topic-directions-description . "Afslaan, haltes, tickets, perrons en je verplaatsen in de stad.")
+ (:starter-deck-topic-school-title . "School en onderwijs")
+ (:starter-deck-topic-school-description . "Lessen, huiswerk, examens, schoolspullen en het dagelijks leven op school.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mijn kaarten")
