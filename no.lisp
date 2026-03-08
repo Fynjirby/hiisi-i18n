@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Telling, totalsummer, priser, etasjer og dagligdagse mengder.")
  (:starter-deck-topic-time-title . "Tid og datoer")
  (:starter-deck-topic-time-description . "Dager, måneder, avtaler, klokkeslett og relative datoer.")
+ (:starter-deck-topic-food-title . "Restaurant og mat")
+ (:starter-deck-topic-food-description . "Bestilling, kosthensyn, drikke, regningen og vanlige måltider ute.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mine kort")

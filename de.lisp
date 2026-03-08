@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Zählen, Summen, Preise, Stockwerke und alltägliche Mengen.")
  (:starter-deck-topic-time-title . "Zeit und Daten")
  (:starter-deck-topic-time-description . "Tage, Monate, Termine, Uhrzeiten und relative Datumsangaben.")
+ (:starter-deck-topic-food-title . "Restaurant und Essen")
+ (:starter-deck-topic-food-description . "Bestellen, Ernährungswünsche, Getränke, die Rechnung und alltägliche Mahlzeiten außer Haus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Meine Karten")

@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Contagem, totais, preços, andares e quantidades do dia a dia.")
  (:starter-deck-topic-time-title . "Hora e datas")
  (:starter-deck-topic-time-description . "Dias, meses, compromissos, horas e datas relativas.")
+ (:starter-deck-topic-food-title . "Restaurante e comida")
+ (:starter-deck-topic-food-description . "Pedir, restrições alimentares, bebidas, a conta e refeições do dia a dia fora de casa.")
 
  ;; Flashcards management page
  (:flashcards-title . "Meus cartões")

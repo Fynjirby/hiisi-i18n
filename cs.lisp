@@ -449,6 +449,8 @@
  (:starter-deck-topic-numbers-description . "Počítání, součty, ceny, patra a běžná množství.")
  (:starter-deck-topic-time-title . "Čas a data")
  (:starter-deck-topic-time-description . "Dny, měsíce, schůzky, čas na hodinách a relativní data.")
+ (:starter-deck-topic-food-title . "Restaurace a jídlo")
+ (:starter-deck-topic-food-description . "Objednávání, stravovací omezení, nápoje, účet a běžná jídla mimo domov.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje kartičky")

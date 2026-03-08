@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Optælling, totaler, priser, etager og daglige mængder.")
  (:starter-deck-topic-time-title . "Tid og datoer")
  (:starter-deck-topic-time-description . "Dage, måneder, aftaler, klokkeslæt og relative datoer.")
+ (:starter-deck-topic-food-title . "Restaurant og mad")
+ (:starter-deck-topic-food-description . "Bestilling, kosthensyn, drikkevarer, regningen og daglige måltider ude.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mine kort")

@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Contar, totales, precios, pisos y cantidades cotidianas.")
  (:starter-deck-topic-time-title . "Hora y fechas")
  (:starter-deck-topic-time-description . "Días, meses, citas, la hora y fechas relativas.")
+ (:starter-deck-topic-food-title . "Restaurante y comida")
+ (:starter-deck-topic-food-description . "Pedir, necesidades alimentarias, bebidas, la cuenta y comidas cotidianas fuera de casa.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mis tarjetas")

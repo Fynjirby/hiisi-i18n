@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Счёт, суммы, цены, этажи и повседневные количества.")
  (:starter-deck-topic-time-title . "Время и даты")
  (:starter-deck-topic-time-description . "Дни, месяцы, встречи, время на часах и относительные даты.")
+ (:starter-deck-topic-food-title . "Ресторан и еда")
+ (:starter-deck-topic-food-description . "Заказ, особенности питания, напитки, счёт и повседневные приёмы пищи вне дома.")
 
  ;; Flashcards management page
  (:flashcards-title . "Мои карточки")

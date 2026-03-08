@@ -449,6 +449,8 @@
  (:starter-deck-topic-numbers-description . "Tellen, totalen, prijzen, verdiepingen en alledaagse hoeveelheden.")
  (:starter-deck-topic-time-title . "Tijd en data")
  (:starter-deck-topic-time-description . "Dagen, maanden, afspraken, kloktijden en relatieve datums.")
+ (:starter-deck-topic-food-title . "Restaurant en eten")
+ (:starter-deck-topic-food-description . "Bestellen, dieetwensen, drankjes, de rekening en alledaagse maaltijden buitenshuis.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mijn kaarten")

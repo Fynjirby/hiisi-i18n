@@ -451,6 +451,8 @@
  (:starter-deck-topic-numbers-description . "Counting, totals, prices, floors, and everyday quantities.")
  (:starter-deck-topic-time-title . "Time and dates")
  (:starter-deck-topic-time-description . "Days, months, appointments, clock time, and relative dates.")
+ (:starter-deck-topic-food-title . "Restaurant and food")
+ (:starter-deck-topic-food-description . "Ordering, dietary needs, drinks, the bill, and everyday meals out.")
 
  ;; Flashcards management page
  (:flashcards-title . "My Flashcards")

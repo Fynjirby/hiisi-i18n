@@ -449,6 +449,8 @@
  (:starter-deck-topic-numbers-description . "Laskemista, summia, hintoja, kerroksia ja arjen määriä.")
  (:starter-deck-topic-time-title . "Aika ja päivämäärät")
  (:starter-deck-topic-time-description . "Päivät, kuukaudet, tapaamiset, kellonajat ja suhteelliset päivämäärät.")
+ (:starter-deck-topic-food-title . "Ravintola ja ruoka")
+ (:starter-deck-topic-food-description . "Tilaaminen, ruokavaliot, juomat, lasku ja tavalliset ateriat kodin ulkopuolella.")
 
  ;; Flashcards management page
  (:flashcards-title . "Korttini")

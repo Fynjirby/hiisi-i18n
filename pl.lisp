@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Liczenie, sumy, ceny, piętra i codzienne ilości.")
  (:starter-deck-topic-time-title . "Czas i daty")
  (:starter-deck-topic-time-description . "Dni, miesiące, spotkania, godziny i daty względne.")
+ (:starter-deck-topic-food-title . "Restauracja i jedzenie")
+ (:starter-deck-topic-food-description . "Zamawianie, potrzeby dietetyczne, napoje, rachunek i codzienne posiłki poza domem.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje fiszki")

@@ -449,6 +449,8 @@
  (:starter-deck-topic-numbers-description . "Loendamine, kogusummad, hinnad, korrused ja igapäevased kogused.")
  (:starter-deck-topic-time-title . "Aeg ja kuupäevad")
  (:starter-deck-topic-time-description . "Päevad, kuud, kohtumised, kellaajad ja suhtelised kuupäevad.")
+ (:starter-deck-topic-food-title . "Restoran ja toit")
+ (:starter-deck-topic-food-description . "Tellimine, toitumisvajadused, joogid, arve ja igapäevased söögikorrad kodust väljas.")
 
  ;; Flashcards management page
  (:flashcards-title . "Minu kaardid")

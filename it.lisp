@@ -450,6 +450,8 @@
  (:starter-deck-topic-numbers-description . "Contare, totali, prezzi, piani degli edifici e quantità quotidiane.")
  (:starter-deck-topic-time-title . "Orario e date")
  (:starter-deck-topic-time-description . "Giorni, mesi, appuntamenti, orario e date relative.")
+ (:starter-deck-topic-food-title . "Ristorante e cibo")
+ (:starter-deck-topic-food-description . "Ordinare, esigenze alimentari, bevande, il conto e pasti quotidiani fuori casa.")
 
  ;; Flashcards management page
  (:flashcards-title . "Le mie carte")

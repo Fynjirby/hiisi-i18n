@@ -449,6 +449,8 @@
  (:starter-deck-topic-numbers-description . "Räkning, totalsummor, priser, våningar och vardagliga mängder.")
  (:starter-deck-topic-time-title . "Tid och datum")
  (:starter-deck-topic-time-description . "Dagar, månader, möten, klockslag och relativa datum.")
+ (:starter-deck-topic-food-title . "Restaurang och mat")
+ (:starter-deck-topic-food-description . "Beställning, kostönskemål, drycker, notan och vanliga måltider ute.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mina kort")
