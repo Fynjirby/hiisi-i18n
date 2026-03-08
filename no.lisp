@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Veibeskrivelser, holdeplasser, billetter, plattformer og å komme seg rundt i byen.")
  (:starter-deck-topic-school-title . "Skole og utdanning")
  (:starter-deck-topic-school-description . "Timer, lekser, prøver, skolesaker og hverdagslivet på skolen.")
+ (:starter-deck-topic-university-title . "Universitet og studier")
+ (:starter-deck-topic-university-description . "Forelesninger, seminarer, studieretninger, oppgaver og hverdagslivet på campus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mine kort")

@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Svolte, fermate, biglietti, binari e muoversi in città.")
  (:starter-deck-topic-school-title . "Scuola e istruzione")
  (:starter-deck-topic-school-description . "Lezioni, compiti, esami, materiale scolastico e vita quotidiana a scuola.")
+ (:starter-deck-topic-university-title . "Università e studi")
+ (:starter-deck-topic-university-description . "Lezioni, seminari, corsi di studio, compiti e vita quotidiana nel campus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Le mie carte")

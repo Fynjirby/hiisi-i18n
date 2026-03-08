@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Повороты, остановки, билеты, платформы и передвижение по городу.")
  (:starter-deck-topic-school-title . "Школа и учёба")
  (:starter-deck-topic-school-description . "Уроки, домашние задания, экзамены, школьные принадлежности и повседневная школьная жизнь.")
+ (:starter-deck-topic-university-title . "Университет и учёба")
+ (:starter-deck-topic-university-description . "Лекции, семинары, специальности, задания и повседневная жизнь в кампусе.")
 
  ;; Flashcards management page
  (:flashcards-title . "Мои карточки")

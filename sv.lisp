@@ -457,6 +457,8 @@
  (:starter-deck-topic-directions-description . "Svängar, hållplatser, biljetter, perronger och att ta sig runt i staden.")
  (:starter-deck-topic-school-title . "Skola och utbildning")
  (:starter-deck-topic-school-description . "Lektioner, läxor, prov, skolmaterial och vardagslivet i skolan.")
+ (:starter-deck-topic-university-title . "Universitet och studier")
+ (:starter-deck-topic-university-description . "Föreläsningar, seminarier, huvudämnen, uppgifter och vardagslivet på campus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mina kort")

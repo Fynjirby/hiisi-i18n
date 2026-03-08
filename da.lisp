@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Sving, stoppesteder, billetter, perroner og at komme rundt i byen.")
  (:starter-deck-topic-school-title . "Skole og uddannelse")
  (:starter-deck-topic-school-description . "Timer, lektier, prøver, skoleudstyr og hverdagslivet på skolen.")
+ (:starter-deck-topic-university-title . "Universitet og studier")
+ (:starter-deck-topic-university-description . "Forelæsninger, seminarer, studieretninger, opgaver og hverdagslivet på campus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mine kort")

@@ -457,6 +457,8 @@
  (:starter-deck-topic-directions-description . "Kääntyminen, pysäkit, liput, laiturit ja liikkuminen kaupungissa.")
  (:starter-deck-topic-school-title . "Koulu ja opiskelu")
  (:starter-deck-topic-school-description . "Tunnit, kotitehtävät, kokeet, koulutarvikkeet ja arjen kouluelämä.")
+ (:starter-deck-topic-university-title . "Yliopisto ja opinnot")
+ (:starter-deck-topic-university-description . "Luennot, seminaarit, pääaineet, tehtävät ja arjen kampuselämä.")
 
  ;; Flashcards management page
  (:flashcards-title . "Korttini")

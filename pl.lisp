@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Skręcanie, przystanki, bilety, perony i poruszanie się po mieście.")
  (:starter-deck-topic-school-title . "Szkoła i edukacja")
  (:starter-deck-topic-school-description . "Lekcje, zadania domowe, egzaminy, przybory szkolne i codzienne życie w szkole.")
+ (:starter-deck-topic-university-title . "Uniwersytet i studia")
+ (:starter-deck-topic-university-description . "Wykłady, seminaria, kierunki, prace zaliczeniowe i codzienne życie na kampusie.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje fiszki")

@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Abbiegen, Haltestellen, Tickets, Bahnsteige und das Fortbewegen in der Stadt.")
  (:starter-deck-topic-school-title . "Schule und Bildung")
  (:starter-deck-topic-school-description . "Unterricht, Hausaufgaben, Prüfungen, Schulsachen und der Schulalltag.")
+ (:starter-deck-topic-university-title . "Universität und Studium")
+ (:starter-deck-topic-university-description . "Vorlesungen, Seminare, Studienfächer, Aufgaben und der Alltag auf dem Campus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Meine Karten")

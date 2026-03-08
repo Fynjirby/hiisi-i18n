@@ -459,6 +459,8 @@
  (:starter-deck-topic-directions-description . "Turning, stops, tickets, platforms, and getting around town.")
  (:starter-deck-topic-school-title . "School and education")
  (:starter-deck-topic-school-description . "Classes, homework, exams, classroom items, and everyday school life.")
+ (:starter-deck-topic-university-title . "University and studies")
+ (:starter-deck-topic-university-description . "Lectures, seminars, majors, assignments, and everyday campus life.")
 
  ;; Flashcards management page
  (:flashcards-title . "My Flashcards")

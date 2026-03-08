@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Giros, paradas, billetes, andenes y moverse por la ciudad.")
  (:starter-deck-topic-school-title . "Escuela y educación")
  (:starter-deck-topic-school-description . "Clases, deberes, exámenes, material escolar y la vida diaria en la escuela.")
+ (:starter-deck-topic-university-title . "Universidad y estudios")
+ (:starter-deck-topic-university-description . "Clases magistrales, seminarios, carreras, trabajos y la vida diaria en el campus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Mis tarjetas")

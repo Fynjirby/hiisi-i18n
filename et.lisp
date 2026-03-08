@@ -457,6 +457,8 @@
  (:starter-deck-topic-directions-description . "Pööramised, peatused, piletid, perroonid ja linnas liikumine.")
  (:starter-deck-topic-school-title . "Kool ja haridus")
  (:starter-deck-topic-school-description . "Tunnid, kodutööd, eksamid, koolitarbed ja igapäevane koolielu.")
+ (:starter-deck-topic-university-title . "Ülikool ja õpingud")
+ (:starter-deck-topic-university-description . "Loengud, seminarid, erialad, ülesanded ja igapäevane elu ülikoolilinnakus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Minu kaardid")

@@ -458,6 +458,8 @@
  (:starter-deck-topic-directions-description . "Orientação, paragens, bilhetes, plataformas e deslocações pela cidade.")
  (:starter-deck-topic-school-title . "Escola e educação")
  (:starter-deck-topic-school-description . "Aulas, trabalhos de casa, exames, material escolar e o dia a dia na escola.")
+ (:starter-deck-topic-university-title . "Universidade e estudos")
+ (:starter-deck-topic-university-description . "Aulas, seminários, cursos, trabalhos e o dia a dia no campus.")
 
  ;; Flashcards management page
  (:flashcards-title . "Meus cartões")

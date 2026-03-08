@@ -457,6 +457,8 @@
  (:starter-deck-topic-directions-description . "Odbočování, zastávky, jízdenky, nástupiště a pohyb po městě.")
  (:starter-deck-topic-school-title . "Škola a vzdělávání")
  (:starter-deck-topic-school-description . "Vyučování, domácí úkoly, zkoušky, školní pomůcky a každodenní školní život.")
+ (:starter-deck-topic-university-title . "Univerzita a studium")
+ (:starter-deck-topic-university-description . "Přednášky, semináře, studijní obory, úkoly a každodenní život na univerzitě.")
 
  ;; Flashcards management page
  (:flashcards-title . "Moje kartičky")
