@@ -183,7 +183,7 @@
  (:account-deletion-scheduled . "Tilisi on ajastettu poistettavaksi päivänä ~A.")
  (:account-deletion-cancel-hint . "Voit perua ennen tätä päivää ja pitää tilisi.")
  (:account-deletion-cancel . "Peru poisto")
- (:account-deletion-request . "Voit pyytää tilin poistamista milloin tahansa. Poisto ajoitetaan 14 päivän päähän vahvistuksesta. Jos muutat mieltäsi poiston jälkeen, ota yhteyttä tukeen.")
+ (:account-deletion-request . "Voit pyytää tilin poistamista milloin tahansa. Poisto ajoitetaan 14 päivän päähän vahvistuksesta. Jos muutat mielesi, ota yhteyttä tukeen ennen kuin tämä 14 päivän jakso päättyy.")
  (:account-deletion-confirm . "Ajastetaanko tilin poisto 14 päivän päähän tästä päivästä?")
  (:account-deletion-schedule . "Ajasta poisto")
  (:account-reminders-title . "Sähköpostimuistutukset")

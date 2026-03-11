@@ -183,7 +183,7 @@
  (:account-deletion-scheduled . "Je account staat gepland voor verwijdering op ~A.")
  (:account-deletion-cancel-hint . "Je kunt voor deze datum annuleren om je account te behouden.")
  (:account-deletion-cancel . "Verwijdering annuleren")
- (:account-deletion-request . "Je kunt op elk moment een verzoek tot verwijdering van je account indienen. Verwijdering wordt 14 dagen na bevestiging gepland. Als je na verwijdering van gedachten verandert, neem contact op met support.")
+ (:account-deletion-request . "Je kunt op elk moment een verzoek tot verwijdering van je account indienen. Verwijdering wordt 14 dagen na bevestiging gepland. Als je van gedachten verandert, neem dan contact op met support voordat die periode van 14 dagen afloopt.")
  (:account-deletion-confirm . "Accountverwijdering plannen over 14 dagen vanaf vandaag?")
  (:account-deletion-schedule . "Verwijdering plannen")
  (:account-reminders-title . "E-mailherinneringen")

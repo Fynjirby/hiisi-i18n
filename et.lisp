@@ -183,7 +183,7 @@
  (:account-deletion-scheduled . "Sinu konto on planeeritud kustutamiseks kuupäeval ~A.")
  (:account-deletion-cancel-hint . "Saad enne seda kuupäeva tühistada ja konto alles jätta.")
  (:account-deletion-cancel . "Tühista kustutamine")
- (:account-deletion-request . "Kontot saad kustutada igal ajal. Kustutamine on planeeritud 14 päeva pärast kinnitamist. Kui pärast kustutamist meelt muudad, võta ühendust toega.")
+ (:account-deletion-request . "Konto kustutamist saad taotleda igal ajal. Kustutamine on planeeritud 14 päeva pärast kinnitamist. Kui mõtled ümber, võta ühendust toega enne selle 14-päevase perioodi lõppu.")
  (:account-deletion-confirm . "Kas planeerida konto kustutamine 14 päeva pärast tänast?")
  (:account-deletion-schedule . "Planeeri kustutamine")
  (:account-reminders-title . "E-posti meeldetuletused")

@@ -184,7 +184,7 @@
  (:account-deletion-scheduled . "Your account is scheduled for deletion on ~A.")
  (:account-deletion-cancel-hint . "You can cancel before this date to keep your account.")
  (:account-deletion-cancel . "Cancel deletion")
- (:account-deletion-request . "You can request account deletion at any time. Deletion is scheduled 14 days from confirmation. If you change your mind after deletion, please contact support.")
+ (:account-deletion-request . "You can request account deletion at any time. Deletion is scheduled 14 days from confirmation. If you change your mind, please contact support before the 14-day period ends.")
  (:account-deletion-confirm . "Schedule account deletion for 14 days from now?")
  (:account-deletion-schedule . "Schedule deletion")
  (:account-reminders-title . "Email Reminders")

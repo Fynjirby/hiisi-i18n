@@ -183,7 +183,7 @@
  (:account-deletion-scheduled . "Ditt konto är planerat att raderas den ~A.")
  (:account-deletion-cancel-hint . "Du kan avbryta före detta datum för att behålla kontot.")
  (:account-deletion-cancel . "Avbryt radering")
- (:account-deletion-request . "Du kan begära att kontot raderas när som helst. Radering planeras 14 dagar efter bekräftelse. Om du ångrar dig efter radering, kontakta support.")
+ (:account-deletion-request . "Du kan begära att kontot raderas när som helst. Radering planeras 14 dagar efter bekräftelse. Om du ångrar dig, kontakta support innan den här 14-dagarsperioden löper ut.")
  (:account-deletion-confirm . "Planera kontoradering om 14 dagar från i dag?")
  (:account-deletion-schedule . "Planera radering")
  (:account-reminders-title . "E-postpåminnelser")

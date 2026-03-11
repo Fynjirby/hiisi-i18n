@@ -184,7 +184,7 @@
  (:account-deletion-scheduled . "Din konto er planlagt til sletning den ~A.")
  (:account-deletion-cancel-hint . "Du kan annullere før denne dato for at beholde din konto.")
  (:account-deletion-cancel . "Annuller sletning")
- (:account-deletion-request . "Du kan anmode om sletning af kontoen når som helst. Sletning planlægges 14 dage efter bekræftelse. Hvis du fortryder efter sletning, kontakt support.")
+ (:account-deletion-request . "Du kan anmode om sletning af kontoen når som helst. Sletning planlægges 14 dage efter bekræftelse. Hvis du fortryder, skal du kontakte support, før denne periode på 14 dage udløber.")
  (:account-deletion-confirm . "Planlæg sletning af konto om 14 dage fra nu?")
  (:account-deletion-schedule . "Planlæg sletning")
  (:account-reminders-title . "E-mailpåmindelser")

@@ -184,7 +184,7 @@
  (:account-deletion-scheduled . "Ihr Konto ist für die Löschung am ~A geplant.")
  (:account-deletion-cancel-hint . "Sie können vor diesem Datum abbrechen, um Ihr Konto zu behalten.")
  (:account-deletion-cancel . "Löschung abbrechen")
- (:account-deletion-request . "Sie können die Kontolöschung jederzeit anfordern. Die Löschung ist 14 Tage nach der Bestätigung geplant. Wenn Sie es sich nach der Löschung anders überlegen, kontaktieren Sie bitte den Support.")
+ (:account-deletion-request . "Sie können die Kontolöschung jederzeit anfordern. Die Löschung ist 14 Tage nach der Bestätigung geplant. Wenn Sie es sich anders überlegen, kontaktieren Sie bitte den Support, bevor diese 14 Tage ablaufen.")
  (:account-deletion-confirm . "Kontolöschung in 14 Tagen ab heute planen?")
  (:account-deletion-schedule . "Löschung planen")
  (:account-reminders-title . "E-Mail-Erinnerungen")

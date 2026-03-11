@@ -184,7 +184,7 @@
  (:account-deletion-scheduled . "Kontoen din er planlagt slettet den ~A.")
  (:account-deletion-cancel-hint . "Du kan avbryte før denne datoen for å beholde kontoen.")
  (:account-deletion-cancel . "Avbryt sletting")
- (:account-deletion-request . "Du kan be om sletting av kontoen når som helst. Sletting planlegges 14 dager etter bekreftelse. Hvis du ombestemmer deg etter sletting, kontakt støtte.")
+ (:account-deletion-request . "Du kan be om sletting av kontoen når som helst. Sletting planlegges 14 dager etter bekreftelse. Hvis du ombestemmer deg, kontakt støtte før denne 14-dagersperioden utløper.")
  (:account-deletion-confirm . "Planlegg sletting av konto om 14 dager fra i dag?")
  (:account-deletion-schedule . "Planlegg sletting")
  (:account-reminders-title . "E-postpåminnelser")

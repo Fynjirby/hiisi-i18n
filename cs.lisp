@@ -183,7 +183,7 @@
  (:account-deletion-scheduled . "Váš účet je naplánován k odstranění na ~A.")
  (:account-deletion-cancel-hint . "Zrušením před tímto datem si účet ponecháte.")
  (:account-deletion-cancel . "Zrušit odstranění")
- (:account-deletion-request . "O odstranění účtu můžete požádat kdykoli. Odstranění je naplánováno na 14 dní od potvrzení. Pokud si to po odstranění rozmyslíte, kontaktujte podporu.")
+ (:account-deletion-request . "O odstranění účtu můžete požádat kdykoli. Odstranění je naplánováno na 14 dní od potvrzení. Pokud si to rozmyslíte, kontaktujte podporu před uplynutím této 14denní lhůty.")
  (:account-deletion-confirm . "Naplánovat odstranění účtu za 14 dní od dneška?")
  (:account-deletion-schedule . "Naplánovat odstranění")
  (:account-reminders-title . "E-mailová připomenutí")

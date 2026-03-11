@@ -184,7 +184,7 @@
  (:account-deletion-scheduled . "Tu cuenta está programada para eliminarse el ~A.")
  (:account-deletion-cancel-hint . "Puedes cancelar antes de esta fecha para conservar tu cuenta.")
  (:account-deletion-cancel . "Cancelar eliminación")
- (:account-deletion-request . "Puedes solicitar la eliminación de la cuenta en cualquier momento. La eliminación se programa 14 días después de la confirmación. Si te arrepientes después de la eliminación, contacta con soporte.")
+ (:account-deletion-request . "Puedes solicitar la eliminación de la cuenta en cualquier momento. La eliminación se programa 14 días después de la confirmación. Si cambias de idea, contacta con soporte antes de que termine ese período de 14 días.")
  (:account-deletion-confirm . "¿Programar la eliminación de la cuenta dentro de 14 días a partir de hoy?")
  (:account-deletion-schedule . "Programar eliminación")
  (:account-reminders-title . "Recordatorios por correo")

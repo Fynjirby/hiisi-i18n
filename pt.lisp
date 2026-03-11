@@ -184,7 +184,7 @@
  (:account-deletion-scheduled . "Sua conta está programada para exclusão em ~A.")
  (:account-deletion-cancel-hint . "Você pode cancelar antes dessa data para manter sua conta.")
  (:account-deletion-cancel . "Cancelar exclusão")
- (:account-deletion-request . "Você pode solicitar a exclusão da conta a qualquer momento. A exclusão é programada para 14 dias após a confirmação. Se você mudar de ideia após a exclusão, entre em contato com o suporte.")
+ (:account-deletion-request . "Você pode solicitar a exclusão da conta a qualquer momento. A exclusão é programada para 14 dias após a confirmação. Se você mudar de ideia, entre em contato com o suporte antes que esse período de 14 dias termine.")
  (:account-deletion-confirm . "Agendar a exclusão da conta para 14 dias a partir de hoje?")
  (:account-deletion-schedule . "Agendar exclusão")
  (:account-reminders-title . "Lembretes por e-mail")
