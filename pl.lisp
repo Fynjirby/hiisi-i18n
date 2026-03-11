@@ -43,6 +43,14 @@
  (:auth-login-subtitle . "Wprowadź swoje dane")
  (:auth-login-invalid-credentials . "Nieprawidlowy e-mail lub haslo.")
  (:auth-login-rate-limited . "Zbyt wiele prob logowania. Poczekaj kilka minut i sproboj ponownie.")
+(:auth-register-rate-limited . "Zbyt wiele prób rejestracji. Odczekaj kilka minut i spróbuj ponownie.")
+(:auth-email-invalid . "Podaj prawidłowy adres e-mail.")
+(:auth-password-too-short . "Hasło musi mieć co najmniej 8 znaków.")
+(:auth-passwords-mismatch . "Hasła nie są takie same.")
+(:auth-display-name-invalid . "Wyświetlana nazwa musi mieć od 1 do 100 znaków.")
+(:auth-register-email-exists . "Konto z tym adresem e-mail już istnieje.")
+(:auth-register-unavailable . "Rejestracja jest tymczasowo niedostępna. Spróbuj ponownie później.")
+(:auth-activation-email-send-failed . "Nie udało się wysłać wiadomości aktywacyjnej. Spróbuj ponownie.")
  (:auth-forgot-password . "Zapomniałeś hasła?")
  (:auth-no-account . "Nie masz konta?")
  (:auth-have-account . "Masz już konto?")
@@ -87,6 +95,8 @@
  (:auth-back-to-app . "Wróć do aplikacji")
  (:auth-password-updated . "Hasło zaktualizowane!")
  (:auth-password-updated-detail . "Twoje hasło zostało pomyślnie zaktualizowane.")
+(:auth-current-password-invalid . "Obecne hasło jest nieprawidłowe.")
+(:auth-new-password-same . "Nowe hasło musi być inne niż obecne hasło.")
 
  ;; Translation page
  (:translate-title . "Tłumacz")
@@ -232,9 +242,15 @@
  (:subscribe-faq-payment-q . "Jakie metody płatności akceptujecie?")
  (:subscribe-faq-payment-a . "Akceptujemy wszystkie główne karty kredytowe i debetowe za pośrednictwem naszego partnera płatniczego Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Proces płatności jest tymczasowo niedostępny. Spróbuj ponownie.")
+(:subscribe-portal-unavailable . "Zarządzanie subskrypcją jest tymczasowo niedostępne. Spróbuj ponownie.")
 
  ;; Errors and status
  (:error-generic . "Coś poszło nie tak")
+(:error-invalid-request . "Nieprawidłowe dane żądania.")
+(:error-not-found . "Nie znaleziono żądanego zasobu.")
+(:error-forbidden . "Nie masz do tego dostępu.")
+(:error-rate-limited . "Odczekaj chwilę i spróbuj ponownie.")
  (:error-text-too-long . "Tekst jest za długi. Maksymalna długość tłumaczenia to 120 znaków.")
  (:error-input-too-long . "Tekst za długi")
  (:error-unknown-source-lang . "Wybrany język źródłowy nie jest obsługiwany.")
@@ -249,6 +265,7 @@
  (:top-up-button . "Kup więcej tłumaczeń")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 tłumaczeń")
+(:review-session-expired . "Sesja powtórek wygasła. Rozpocznij nową sesję.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi dla szkół i uniwersytetów")

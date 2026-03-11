@@ -43,6 +43,14 @@
  (:auth-login-subtitle . "Enter your credentials")
  (:auth-login-invalid-credentials . "Invalid email or password.")
  (:auth-login-rate-limited . "Too many login attempts. Please wait a few minutes and try again.")
+(:auth-register-rate-limited . "Too many registration attempts. Please wait a few minutes and try again.")
+(:auth-email-invalid . "Please enter a valid email address.")
+(:auth-password-too-short . "Password must be at least 8 characters long.")
+(:auth-passwords-mismatch . "Passwords do not match.")
+(:auth-display-name-invalid . "Display name must be between 1 and 100 characters.")
+(:auth-register-email-exists . "An account with this email already exists.")
+(:auth-register-unavailable . "Registration is temporarily unavailable. Please try again later.")
+(:auth-activation-email-send-failed . "Failed to send activation email. Please try again.")
  (:auth-forgot-password . "Forgot password?")
  (:auth-no-account . "Don't have an account?")
  (:auth-have-account . "Already have an account?")
@@ -87,6 +95,8 @@
  (:auth-back-to-app . "Back to App")
  (:auth-password-updated . "Password updated!")
  (:auth-password-updated-detail . "Your password has been successfully updated.")
+(:auth-current-password-invalid . "Current password is incorrect.")
+(:auth-new-password-same . "New password must be different from current password.")
 
  ;; Translation page
  (:translate-title . "Translate")
@@ -232,10 +242,16 @@
  (:subscribe-faq-payment-q . "What payment methods do you accept?")
  (:subscribe-faq-payment-a . "We accept all major credit cards and debit cards through our payment partner Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Checkout is temporarily unavailable. Please try again.")
+(:subscribe-portal-unavailable . "Subscription management is temporarily unavailable. Please try again.")
 
  ;; Generic status
 
  (:error-generic . "Something went wrong")
+(:error-invalid-request . "Invalid request data.")
+(:error-not-found . "Requested resource not found.")
+(:error-forbidden . "You do not have access to this.")
+(:error-rate-limited . "Please wait a moment and try again.")
  (:error-text-too-long . "Text is too long. Maximum translation length is 120 characters.")
  (:error-input-too-long . "Input Too Long")
  (:error-unknown-source-lang . "The source language you selected is not supported.")
@@ -250,6 +266,7 @@
  (:top-up-button . "Buy More Translations")
  (:top-up-price . "€5")
  (:top-up-amount . "300 translations")
+(:review-session-expired . "Your review session has expired. Please start a new session.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi for Schools and Universities")

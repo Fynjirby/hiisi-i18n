@@ -43,6 +43,14 @@
  (:auth-login-subtitle . "Anmeldedaten eingeben")
  (:auth-login-invalid-credentials . "Ungültige E-Mail oder ungültiges Passwort.")
  (:auth-login-rate-limited . "Zu viele Anmeldeversuche. Bitte warte ein paar Minuten und versuche es erneut.")
+(:auth-register-rate-limited . "Zu viele Registrierungsversuche. Bitte warte ein paar Minuten und versuche es erneut.")
+(:auth-email-invalid . "Bitte gib eine gültige E-Mail-Adresse ein.")
+(:auth-password-too-short . "Das Passwort muss mindestens 8 Zeichen lang sein.")
+(:auth-passwords-mismatch . "Die Passwörter stimmen nicht überein.")
+(:auth-display-name-invalid . "Der Anzeigename muss zwischen 1 und 100 Zeichen lang sein.")
+(:auth-register-email-exists . "Mit dieser E-Mail-Adresse existiert bereits ein Konto.")
+(:auth-register-unavailable . "Die Registrierung ist vorübergehend nicht verfügbar. Bitte versuche es später erneut.")
+(:auth-activation-email-send-failed . "Die Aktivierungs-E-Mail konnte nicht gesendet werden. Bitte versuche es erneut.")
  (:auth-forgot-password . "Passwort vergessen?")
  (:auth-no-account . "Noch kein Konto?")
  (:auth-have-account . "Bereits ein Konto?")
@@ -87,6 +95,8 @@
  (:auth-back-to-app . "Zurück zur App")
  (:auth-password-updated . "Passwort aktualisiert!")
  (:auth-password-updated-detail . "Dein Passwort wurde erfolgreich aktualisiert.")
+(:auth-current-password-invalid . "Das aktuelle Passwort ist falsch.")
+(:auth-new-password-same . "Das neue Passwort muss sich vom aktuellen Passwort unterscheiden.")
 
  ;; Translation page
  (:translate-title . "Übersetzen")
@@ -232,9 +242,15 @@
  (:subscribe-faq-payment-q . "Welche Zahlungsmethoden akzeptiert ihr?")
  (:subscribe-faq-payment-a . "Wir akzeptieren alle gängigen Kredit- und Debitkarten über unseren Zahlungspartner Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Der Bezahlvorgang ist vorübergehend nicht verfügbar. Bitte versuche es erneut.")
+(:subscribe-portal-unavailable . "Die Abonnementverwaltung ist vorübergehend nicht verfügbar. Bitte versuche es erneut.")
 
  ;; Errors and status
  (:error-generic . "Etwas ist schiefgelaufen")
+(:error-invalid-request . "Ungültige Anfragedaten.")
+(:error-not-found . "Die angeforderte Ressource wurde nicht gefunden.")
+(:error-forbidden . "Du hast darauf keinen Zugriff.")
+(:error-rate-limited . "Bitte warte einen Moment und versuche es erneut.")
  (:error-text-too-long . "Text ist zu lang. Die maximale Übersetzungslänge beträgt 120 Zeichen.")
  (:error-input-too-long . "Eingabe zu lang")
  (:error-unknown-source-lang . "Die ausgewählte Ausgangssprache wird nicht unterstützt.")
@@ -249,6 +265,7 @@
  (:top-up-button . "Mehr Übersetzungen kaufen")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 Übersetzungen")
+(:review-session-expired . "Deine Lernsitzung ist abgelaufen. Bitte starte eine neue Sitzung.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi für Schulen und Universitäten")

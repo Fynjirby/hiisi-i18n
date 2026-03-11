@@ -43,6 +43,14 @@
  (:auth-login-subtitle . "Indtast dine oplysninger")
  (:auth-login-invalid-credentials . "Ugyldig e-mail eller adgangskode.")
  (:auth-login-rate-limited . "For mange loginforsog. Vent et par minutter og prov igen.")
+(:auth-register-rate-limited . "For mange registreringsforsøg. Vent et par minutter og prøv igen.")
+(:auth-email-invalid . "Indtast en gyldig e-mailadresse.")
+(:auth-password-too-short . "Adgangskoden skal være mindst 8 tegn lang.")
+(:auth-passwords-mismatch . "Adgangskoderne stemmer ikke overens.")
+(:auth-display-name-invalid . "Visningsnavnet skal være mellem 1 og 100 tegn langt.")
+(:auth-register-email-exists . "Der findes allerede en konto med denne e-mailadresse.")
+(:auth-register-unavailable . "Registrering er midlertidigt utilgængelig. Prøv igen senere.")
+(:auth-activation-email-send-failed . "Det lykkedes ikke at sende aktiveringsmailen. Prøv igen.")
  (:auth-forgot-password . "Glemt adgangskode?")
  (:auth-no-account . "Har du ikke en konto?")
  (:auth-have-account . "Har du allerede en konto?")
@@ -87,6 +95,8 @@
  (:auth-back-to-app . "Tilbage til appen")
  (:auth-password-updated . "Adgangskode opdateret!")
  (:auth-password-updated-detail . "Din adgangskode er blevet opdateret.")
+(:auth-current-password-invalid . "Den nuværende adgangskode er forkert.")
+(:auth-new-password-same . "Den nye adgangskode skal være forskellig fra den nuværende adgangskode.")
 
  ;; Translation page
  (:translate-title . "Oversæt")
@@ -232,9 +242,15 @@
  (:subscribe-faq-payment-q . "Hvilke betalingsmetoder accepterer I?")
  (:subscribe-faq-payment-a . "Vi accepterer alle større kredit- og debetkort gennem vores betalingspartner Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Checkout er midlertidigt utilgængelig. Prøv igen.")
+(:subscribe-portal-unavailable . "Abonnementsstyring er midlertidigt utilgængelig. Prøv igen.")
 
  ;; Errors and status
  (:error-generic . "Noget gik galt")
+(:error-invalid-request . "Ugyldige forespørgselsdata.")
+(:error-not-found . "Den ønskede ressource blev ikke fundet.")
+(:error-forbidden . "Du har ikke adgang til dette.")
+(:error-rate-limited . "Vent et øjeblik og prøv igen.")
  (:error-text-too-long . "Teksten er for lang. Maksimal oversættelseslængde er 120 tegn.")
  (:error-input-too-long . "Input for langt")
  (:error-unknown-source-lang . "Det valgte kildesprog understøttes ikke.")
@@ -249,6 +265,7 @@
  (:top-up-button . "Køb flere oversættelser")
  (:top-up-price . "€5")
  (:top-up-amount . "300 oversættelser")
+(:review-session-expired . "Din repetitionssession er udløbet. Start en ny session.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi til skoler og universiteter")

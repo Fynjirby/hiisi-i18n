@@ -42,6 +42,14 @@
  (:auth-login-subtitle . "Syötä tunnuksesi")
  (:auth-login-invalid-credentials . "Virheellinen sähköposti tai salasana.")
  (:auth-login-rate-limited . "Liian monta kirjautumisyritystä. Odota muutama minuutti ja yritä uudelleen.")
+(:auth-register-rate-limited . "Liikaa rekisteröintiyrityksiä. Odota muutama minuutti ja yritä uudelleen.")
+(:auth-email-invalid . "Anna kelvollinen sähköpostiosoite.")
+(:auth-password-too-short . "Salasanan on oltava vähintään 8 merkkiä pitkä.")
+(:auth-passwords-mismatch . "Salasanat eivät täsmää.")
+(:auth-display-name-invalid . "Näyttönimen on oltava 1–100 merkkiä pitkä.")
+(:auth-register-email-exists . "Tällä sähköpostiosoitteella on jo tili.")
+(:auth-register-unavailable . "Rekisteröityminen on tilapäisesti poissa käytöstä. Yritä myöhemmin uudelleen.")
+(:auth-activation-email-send-failed . "Aktivointisähköpostin lähettäminen epäonnistui. Yritä uudelleen.")
  (:auth-forgot-password . "Unohditko salasanan?")
  (:auth-no-account . "Eikö sinulla ole tiliä?")
  (:auth-have-account . "Onko sinulla jo tili?")
@@ -86,6 +94,8 @@
  (:auth-back-to-app . "Takaisin sovellukseen")
  (:auth-password-updated . "Salasana päivitetty!")
  (:auth-password-updated-detail . "Salasanasi on päivitetty onnistuneesti.")
+(:auth-current-password-invalid . "Nykyinen salasana on väärä.")
+(:auth-new-password-same . "Uuden salasanan on oltava eri kuin nykyisen salasanan.")
 
  ;; Translation page
  (:translate-title . "Käännä")
@@ -231,9 +241,15 @@
  (:subscribe-faq-payment-q . "Mitä maksutapoja hyväksytte?")
  (:subscribe-faq-payment-a . "Hyväksymme kaikki yleisimmät luotto- ja pankkikortit maksukumppanimme Polar.sh:n kautta.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Maksuun siirtyminen on tilapäisesti poissa käytöstä. Yritä uudelleen.")
+(:subscribe-portal-unavailable . "Tilauksen hallinta on tilapäisesti poissa käytöstä. Yritä uudelleen.")
 
  ;; Errors and status
  (:error-generic . "Jokin meni pieleen")
+(:error-invalid-request . "Virheelliset pyyntötiedot.")
+(:error-not-found . "Pyydettyä kohdetta ei löytynyt.")
+(:error-forbidden . "Sinulla ei ole oikeutta tähän.")
+(:error-rate-limited . "Odota hetki ja yritä uudelleen.")
  (:error-text-too-long . "Teksti on liian pitkä. Käännöksen enimmäispituus on 120 merkkiä.")
  (:error-input-too-long . "Syöte liian pitkä")
  (:error-unknown-source-lang . "Valitsemaasi lähdekieltä ei tueta.")
@@ -248,6 +264,7 @@
  (:top-up-button . "Osta lisää käännöksiä")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 käännöstä")
+(:review-session-expired . "Kertausistuntosi on vanhentunut. Aloita uusi istunto.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi kouluille ja yliopistoille")

@@ -43,6 +43,14 @@
  (:auth-login-subtitle . "Digite suas credenciais")
  (:auth-login-invalid-credentials . "E-mail ou senha invalidos.")
  (:auth-login-rate-limited . "Muitas tentativas de login. Aguarde alguns minutos e tente novamente.")
+(:auth-register-rate-limited . "Demasiadas tentativas de registo. Aguarde alguns minutos e tente novamente.")
+(:auth-email-invalid . "Introduza um endereço de e-mail válido.")
+(:auth-password-too-short . "A palavra-passe tem de ter pelo menos 8 caracteres.")
+(:auth-passwords-mismatch . "As palavras-passe não coincidem.")
+(:auth-display-name-invalid . "O nome visível tem de ter entre 1 e 100 caracteres.")
+(:auth-register-email-exists . "Já existe uma conta com este e-mail.")
+(:auth-register-unavailable . "O registo está temporariamente indisponível. Tente novamente mais tarde.")
+(:auth-activation-email-send-failed . "Não foi possível enviar o e-mail de ativação. Tente novamente.")
  (:auth-forgot-password . "Esqueceu a senha?")
  (:auth-no-account . "Não tem uma conta?")
  (:auth-have-account . "Já tem uma conta?")
@@ -87,6 +95,8 @@
  (:auth-back-to-app . "Voltar para o app")
  (:auth-password-updated . "Senha atualizada!")
  (:auth-password-updated-detail . "Sua senha foi atualizada com sucesso.")
+(:auth-current-password-invalid . "A palavra-passe atual está incorreta.")
+(:auth-new-password-same . "A nova palavra-passe tem de ser diferente da palavra-passe atual.")
 
  ;; Translation page
  (:translate-title . "Traduzir")
@@ -232,9 +242,15 @@
  (:subscribe-faq-payment-q . "Quais métodos de pagamento vocês aceitam?")
  (:subscribe-faq-payment-a . "Aceitamos todos os principais cartões de crédito e débito através do nosso parceiro de pagamentos Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "O checkout está temporariamente indisponível. Tente novamente.")
+(:subscribe-portal-unavailable . "A gestão da subscrição está temporariamente indisponível. Tente novamente.")
 
  ;; Errors and status
  (:error-generic . "Algo deu errado")
+(:error-invalid-request . "Dados de pedido inválidos.")
+(:error-not-found . "O recurso pedido não foi encontrado.")
+(:error-forbidden . "Não tem acesso a isto.")
+(:error-rate-limited . "Aguarde um momento e tente novamente.")
  (:error-text-too-long . "O texto é muito longo. O comprimento máximo da tradução é de 120 caracteres.")
  (:error-input-too-long . "Entrada Muito Longa")
  (:error-unknown-source-lang . "O idioma de origem selecionado não é suportado.")
@@ -249,6 +265,7 @@
  (:top-up-button . "Comprar mais traduções")
  (:top-up-price . "€5")
  (:top-up-amount . "300 traduções")
+(:review-session-expired . "A sua sessão de revisão expirou. Inicie uma nova sessão.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi para escolas e universidades")

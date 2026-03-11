@@ -42,6 +42,14 @@
  (:auth-login-subtitle . "Zadejte své přihlašovací údaje")
  (:auth-login-invalid-credentials . "Neplatný e-mail nebo heslo.")
  (:auth-login-rate-limited . "Příliš mnoho pokusů o přihlášení. Počkejte prosím několik minut a zkuste to znovu.")
+(:auth-register-rate-limited . "Příliš mnoho pokusů o registraci. Počkejte prosím několik minut a zkuste to znovu.")
+(:auth-email-invalid . "Zadejte prosím platnou e-mailovou adresu.")
+(:auth-password-too-short . "Heslo musí mít alespoň 8 znaků.")
+(:auth-passwords-mismatch . "Hesla se neshodují.")
+(:auth-display-name-invalid . "Zobrazované jméno musí mít 1 až 100 znaků.")
+(:auth-register-email-exists . "Účet s tímto e-mailem už existuje.")
+(:auth-register-unavailable . "Registrace je dočasně nedostupná. Zkuste to prosím znovu později.")
+(:auth-activation-email-send-failed . "Nepodařilo se odeslat aktivační e-mail. Zkuste to prosím znovu.")
  (:auth-forgot-password . "Zapomenuté heslo?")
  (:auth-no-account . "Nemáte účet?")
  (:auth-have-account . "Již máte účet?")
@@ -86,6 +94,8 @@
  (:auth-back-to-app . "Zpět do aplikace")
  (:auth-password-updated . "Heslo aktualizováno!")
  (:auth-password-updated-detail . "Vaše heslo bylo úspěšně aktualizováno.")
+(:auth-current-password-invalid . "Aktuální heslo není správné.")
+(:auth-new-password-same . "Nové heslo se musí lišit od současného hesla.")
 
  ;; Translation page
  (:translate-title . "Překlad")
@@ -231,9 +241,15 @@
  (:subscribe-faq-payment-q . "Jaké platební metody přijímáte?")
  (:subscribe-faq-payment-a . "Přijímáme všechny hlavní kreditní a debetní karty prostřednictvím našeho platebního partnera Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Pokladna je dočasně nedostupná. Zkuste to prosím znovu.")
+(:subscribe-portal-unavailable . "Správa předplatného je dočasně nedostupná. Zkuste to prosím znovu.")
 
  ;; Errors and status
  (:error-generic . "Něco se pokazilo")
+(:error-invalid-request . "Neplatná data požadavku.")
+(:error-not-found . "Požadovaný prostředek nebyl nalezen.")
+(:error-forbidden . "K této akci nemáte přístup.")
+(:error-rate-limited . "Chvíli prosím počkejte a zkuste to znovu.")
  (:error-text-too-long . "Text je příliš dlouhý. Maximální délka překladu je 120 znaků.")
  (:error-input-too-long . "Vstup je příliš dlouhý")
  (:error-unknown-source-lang . "Vybraný zdrojový jazyk není podporován.")
@@ -248,6 +264,7 @@
  (:top-up-button . "Koupit další překlady")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 překladů")
+(:review-session-expired . "Vaše opakovací relace vypršela. Začněte prosím novou relaci.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi pro školy a univerzity")

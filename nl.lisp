@@ -42,6 +42,14 @@
  (:auth-login-subtitle . "Voer je gegevens in")
  (:auth-login-invalid-credentials . "Ongeldig e-mailadres of wachtwoord.")
  (:auth-login-rate-limited . "Te veel inlogpogingen. Wacht een paar minuten en probeer het opnieuw.")
+(:auth-register-rate-limited . "Te veel registratiepogingen. Wacht een paar minuten en probeer het opnieuw.")
+(:auth-email-invalid . "Voer een geldig e-mailadres in.")
+(:auth-password-too-short . "Het wachtwoord moet minimaal 8 tekens lang zijn.")
+(:auth-passwords-mismatch . "De wachtwoorden komen niet overeen.")
+(:auth-display-name-invalid . "De weergavenaam moet tussen 1 en 100 tekens lang zijn.")
+(:auth-register-email-exists . "Er bestaat al een account met dit e-mailadres.")
+(:auth-register-unavailable . "Registratie is tijdelijk niet beschikbaar. Probeer het later opnieuw.")
+(:auth-activation-email-send-failed . "Het verzenden van de activatiemail is mislukt. Probeer het opnieuw.")
  (:auth-forgot-password . "Wachtwoord vergeten?")
  (:auth-no-account . "Heb je geen account?")
  (:auth-have-account . "Heb je al een account?")
@@ -86,6 +94,8 @@
  (:auth-back-to-app . "Terug naar app")
  (:auth-password-updated . "Wachtwoord bijgewerkt!")
  (:auth-password-updated-detail . "Je wachtwoord is succesvol bijgewerkt.")
+(:auth-current-password-invalid . "Het huidige wachtwoord is onjuist.")
+(:auth-new-password-same . "Het nieuwe wachtwoord moet verschillen van het huidige wachtwoord.")
 
  ;; Translation page
  (:translate-title . "Vertalen")
@@ -231,9 +241,15 @@
  (:subscribe-faq-payment-q . "Welke betaalmethoden accepteren jullie?")
  (:subscribe-faq-payment-a . "We accepteren alle gangbare creditcards en betaalkaarten via onze betalingspartner Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Checkout is tijdelijk niet beschikbaar. Probeer het opnieuw.")
+(:subscribe-portal-unavailable . "Abonnementsbeheer is tijdelijk niet beschikbaar. Probeer het opnieuw.")
 
  ;; Errors and status
  (:error-generic . "Er ging iets mis")
+(:error-invalid-request . "Ongeldige aanvraaggegevens.")
+(:error-not-found . "De gevraagde bron is niet gevonden.")
+(:error-forbidden . "Je hebt hier geen toegang toe.")
+(:error-rate-limited . "Wacht even en probeer het opnieuw.")
  (:error-text-too-long . "Tekst is te lang. Maximale vertalingslengte is 120 tekens.")
  (:error-input-too-long . "Invoer te lang")
  (:error-unknown-source-lang . "De brontaal die je hebt geselecteerd wordt niet ondersteund.")
@@ -248,6 +264,7 @@
  (:top-up-button . "Koop meer vertalingen")
  (:top-up-price . "€5")
  (:top-up-amount . "300 vertalingen")
+(:review-session-expired . "Je herhaalsessie is verlopen. Start een nieuwe sessie.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi voor scholen en universiteiten")

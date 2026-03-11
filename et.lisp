@@ -42,6 +42,14 @@
  (:auth-login-subtitle . "Sisesta oma andmed")
  (:auth-login-invalid-credentials . "Vigane e-post või parool.")
  (:auth-login-rate-limited . "Liiga palju sisselogimiskatseid. Oota paar minutit ja proovi uuesti.")
+(:auth-register-rate-limited . "Liiga palju registreerimiskatseid. Oota mõni minut ja proovi uuesti.")
+(:auth-email-invalid . "Sisesta kehtiv e-posti aadress.")
+(:auth-password-too-short . "Parool peab olema vähemalt 8 märki pikk.")
+(:auth-passwords-mismatch . "Paroolid ei ühti.")
+(:auth-display-name-invalid . "Kuvatav nimi peab olema 1 kuni 100 märki pikk.")
+(:auth-register-email-exists . "Selle e-posti aadressiga konto on juba olemas.")
+(:auth-register-unavailable . "Registreerimine on ajutiselt maas. Proovi hiljem uuesti.")
+(:auth-activation-email-send-failed . "Aktiveerimiskirja saatmine ebaõnnestus. Proovi uuesti.")
  (:auth-forgot-password . "Unustasid parooli?")
  (:auth-no-account . "Pole veel kontot?")
  (:auth-have-account . "On juba konto?")
@@ -86,6 +94,8 @@
  (:auth-back-to-app . "Tagasi rakendusse")
  (:auth-password-updated . "Parool uuendatud!")
  (:auth-password-updated-detail . "Sinu parool on edukalt uuendatud.")
+(:auth-current-password-invalid . "Praegune parool on vale.")
+(:auth-new-password-same . "Uus parool peab erinema praegusest paroolist.")
 
  ;; Translation page
  (:translate-title . "Tõlgi")
@@ -231,9 +241,15 @@
  (:subscribe-faq-payment-q . "Milliseid makseviise aktsepteerite?")
  (:subscribe-faq-payment-a . "Aktsepteerime kõiki peamisi krediit- ja deebetkaarte meie maksepartneri Polar.sh kaudu.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Maksele suunamine on ajutiselt maas. Proovi uuesti.")
+(:subscribe-portal-unavailable . "Tellimuse haldus on ajutiselt maas. Proovi uuesti.")
 
  ;; Errors and status
  (:error-generic . "Midagi läks valesti")
+(:error-invalid-request . "Vigased päringuandmed.")
+(:error-not-found . "Soovitud ressurssi ei leitud.")
+(:error-forbidden . "Sul puudub sellele ligipääs.")
+(:error-rate-limited . "Oota hetk ja proovi uuesti.")
  (:error-text-too-long . "Tekst on liiga pikk. Maksimaalne tõlke pikkus on 120 tähemärki.")
  (:error-input-too-long . "Sisend liiga pikk")
  (:error-unknown-source-lang . "Valitud lähtekeel ei ole toetatud.")
@@ -248,6 +264,7 @@
  (:top-up-button . "Osta rohkem tõlkeid")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 tõlget")
+(:review-session-expired . "Sinu kordamisseanss on aegunud. Alusta uut seanssi.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi koolidele ja ülikoolidele")

@@ -43,6 +43,14 @@
  (:auth-login-subtitle . "Inserisci le tue credenziali")
  (:auth-login-invalid-credentials . "Email o password non validi.")
  (:auth-login-rate-limited . "Troppi tentativi di accesso. Attendi qualche minuto e riprova.")
+(:auth-register-rate-limited . "Troppi tentativi di registrazione. Attendi qualche minuto e riprova.")
+(:auth-email-invalid . "Inserisci un indirizzo email valido.")
+(:auth-password-too-short . "La password deve contenere almeno 8 caratteri.")
+(:auth-passwords-mismatch . "Le password non coincidono.")
+(:auth-display-name-invalid . "Il nome visualizzato deve contenere da 1 a 100 caratteri.")
+(:auth-register-email-exists . "Esiste già un account con questa email.")
+(:auth-register-unavailable . "La registrazione è temporaneamente non disponibile. Riprova più tardi.")
+(:auth-activation-email-send-failed . "Non è stato possibile inviare l'email di attivazione. Riprova.")
  (:auth-forgot-password . "Password dimenticata?")
  (:auth-no-account . "Non hai un account?")
  (:auth-have-account . "Hai già un account?")
@@ -87,6 +95,8 @@
  (:auth-back-to-app . "Torna all'app")
  (:auth-password-updated . "Password aggiornata!")
  (:auth-password-updated-detail . "La tua password è stata aggiornata con successo.")
+(:auth-current-password-invalid . "La password attuale non è corretta.")
+(:auth-new-password-same . "La nuova password deve essere diversa da quella attuale.")
 
  ;; Translation page
  (:translate-title . "Traduci")
@@ -232,9 +242,15 @@
  (:subscribe-faq-payment-q . "Quali metodi di pagamento accettate?")
  (:subscribe-faq-payment-a . "Accettiamo tutte le principali carte di credito e debito tramite il nostro partner di pagamento Polar.sh.")
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
+(:subscribe-checkout-unavailable . "Il checkout è temporaneamente non disponibile. Riprova.")
+(:subscribe-portal-unavailable . "La gestione dell'abbonamento è temporaneamente non disponibile. Riprova.")
 
  ;; Errors and status
  (:error-generic . "Qualcosa è andato storto")
+(:error-invalid-request . "Dati della richiesta non validi.")
+(:error-not-found . "Risorsa richiesta non trovata.")
+(:error-forbidden . "Non hai accesso a questo.")
+(:error-rate-limited . "Attendi un momento e riprova.")
  (:error-text-too-long . "Il testo è troppo lungo. La lunghezza massima della traduzione è 120 caratteri.")
  (:error-input-too-long . "Testo troppo lungo")
  (:error-unknown-source-lang . "La lingua di origine selezionata non è supportata.")
@@ -249,6 +265,7 @@
  (:top-up-button . "Acquista più traduzioni")
  (:top-up-price . "€5")
  (:top-up-amount . "300 traduzioni")
+(:review-session-expired . "La tua sessione di ripasso è scaduta. Avvia una nuova sessione.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi per scuole e università")

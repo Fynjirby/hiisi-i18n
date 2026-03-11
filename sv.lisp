@@ -42,6 +42,14 @@
  (:auth-login-subtitle . "Ange dina uppgifter")
  (:auth-login-invalid-credentials . "Ogiltig e-post eller losenord.")
  (:auth-login-rate-limited . "For manga inloggningsforsok. Vanta nagra minuter och forsok igen.")
+(:auth-register-rate-limited . "För många registreringsförsök. Vänta några minuter och försök igen.")
+(:auth-email-invalid . "Ange en giltig e-postadress.")
+(:auth-password-too-short . "Lösenordet måste vara minst 8 tecken långt.")
+(:auth-passwords-mismatch . "Lösenorden matchar inte.")
+(:auth-display-name-invalid . "Visningsnamnet måste vara mellan 1 och 100 tecken långt.")
+(:auth-register-email-exists . "Det finns redan ett konto med den här e-postadressen.")
+(:auth-register-unavailable . "Registrering är tillfälligt otillgänglig. Försök igen senare.")
+(:auth-activation-email-send-failed . "Det gick inte att skicka aktiveringsmejlet. Försök igen.")
  (:auth-forgot-password . "Glömt lösenordet?")
  (:auth-no-account . "Har du inget konto?")
  (:auth-have-account . "Har du redan ett konto?")
@@ -86,6 +94,8 @@
  (:auth-back-to-app . "Tillbaka till appen")
  (:auth-password-updated . "Lösenord uppdaterat!")
  (:auth-password-updated-detail . "Ditt lösenord har uppdaterats.")
+(:auth-current-password-invalid . "Det nuvarande lösenordet är fel.")
+(:auth-new-password-same . "Det nya lösenordet måste skilja sig från det nuvarande lösenordet.")
 
  ;; Translation page
  (:translate-title . "Översätt")
@@ -231,9 +241,15 @@
  (:subscribe-faq-payment-q . "Vilka betalningsmetoder accepteras?")
  (:subscribe-faq-payment-a . "Vi accepterar alla större kreditkort och PayPal.")
  (:subscribe-copyright . "© 2025 Hiisi. Alla rättigheter förbehållna.")
+(:subscribe-checkout-unavailable . "Kassa är tillfälligt otillgänglig. Försök igen.")
+(:subscribe-portal-unavailable . "Abonnemangshantering är tillfälligt otillgänglig. Försök igen.")
 
  ;; Errors and status
  (:error-generic . "Något gick fel")
+(:error-invalid-request . "Ogiltiga begärandedata.")
+(:error-not-found . "Den begärda resursen hittades inte.")
+(:error-forbidden . "Du har inte åtkomst till detta.")
+(:error-rate-limited . "Vänta en stund och försök igen.")
  (:error-text-too-long . "Texten är för lång. Maximal översättningslängd är 120 tecken.")
  (:error-input-too-long . "Inmatningen är för lång")
  (:error-unknown-source-lang . "Källspråket du valde stöds inte.")
@@ -248,6 +264,7 @@
  (:top-up-button . "Köp fler översättningar")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 översättningar")
+(:review-session-expired . "Din repetitionssession har gått ut. Starta en ny session.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi för skolor och universitet")

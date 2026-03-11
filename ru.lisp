@@ -43,6 +43,14 @@
  (:auth-login-subtitle . "Введите данные")
  (:auth-login-invalid-credentials . "Nevernyi e-mail ili parol.")
  (:auth-login-rate-limited . "Slishkom mnogo popytok vhoda. Podozhdite neskolko minut i poprobuyte snova.")
+(:auth-register-rate-limited . "Слишком много попыток регистрации. Подождите несколько минут и попробуйте снова.")
+(:auth-email-invalid . "Введите корректный адрес электронной почты.")
+(:auth-password-too-short . "Пароль должен содержать не менее 8 символов.")
+(:auth-passwords-mismatch . "Пароли не совпадают.")
+(:auth-display-name-invalid . "Отображаемое имя должно содержать от 1 до 100 символов.")
+(:auth-register-email-exists . "Учетная запись с этим адресом электронной почты уже существует.")
+(:auth-register-unavailable . "Регистрация временно недоступна. Попробуйте позже.")
+(:auth-activation-email-send-failed . "Не удалось отправить письмо для активации. Попробуйте снова.")
  (:auth-forgot-password . "Забыли пароль?")
  (:auth-no-account . "Нет аккаунта?")
  (:auth-have-account . "Уже есть аккаунт?")
@@ -87,6 +95,8 @@
  (:auth-back-to-app . "Вернуться в приложение")
  (:auth-password-updated . "Пароль обновлён!")
  (:auth-password-updated-detail . "Ваш пароль успешно обновлён.")
+(:auth-current-password-invalid . "Текущий пароль введён неверно.")
+(:auth-new-password-same . "Новый пароль должен отличаться от текущего пароля.")
 
  ;; Translation page
  (:translate-title . "Перевод")
@@ -232,9 +242,15 @@
  (:subscribe-faq-payment-q . "Какие способы оплаты принимаются?")
  (:subscribe-faq-payment-a . "Мы принимаем все основные кредитные карты через Polar.")
  (:subscribe-copyright . "Все права защищены")
+(:subscribe-checkout-unavailable . "Оформление оплаты временно недоступно. Попробуйте снова.")
+(:subscribe-portal-unavailable . "Управление подпиской временно недоступно. Попробуйте снова.")
 
  ;; Errors and status
  (:error-generic . "Что-то пошло не так")
+(:error-invalid-request . "Некорректные данные запроса.")
+(:error-not-found . "Запрошенный ресурс не найден.")
+(:error-forbidden . "У вас нет доступа к этому.")
+(:error-rate-limited . "Подождите немного и попробуйте снова.")
  (:error-text-too-long . "Текст слишком длинный. Максимальная длина перевода — 120 символов.")
  (:error-input-too-long . "Слишком длинный ввод")
  (:error-unknown-source-lang . "Выбранный исходный язык не поддерживается.")
@@ -249,6 +265,7 @@
  (:top-up-button . "Купить больше переводов")
  (:top-up-price . "5 €")
  (:top-up-amount . "300 переводов")
+(:review-session-expired . "Ваша сессия повторения истекла. Начните новую сессию.")
 
  ;; Institutions
  (:institutions-page-title . "Hiisi для школ и университетов")
