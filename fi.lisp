@@ -160,6 +160,7 @@
  (:dashboard-title . "Hallintapaneeli")
  (:dashboard-cards-due . "Kerattavat kortit")
  (:dashboard-total-cards . "Kortit yhteensä")
+ (:dashboard-mastered-cards . "Hallittuja kortteja")
  (:dashboard-subscription . "Tilaus")
  (:dashboard-subscribed-until . "Tilattu asti")
  (:dashboard-not-subscribed . "Ei tilausta")

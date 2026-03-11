@@ -161,6 +161,7 @@
  (:dashboard-title . "Dashboard")
  (:dashboard-cards-due . "Fällige Karten")
  (:dashboard-total-cards . "Karten insgesamt")
+ (:dashboard-mastered-cards . "Beherrschte Karten")
  (:dashboard-subscription . "Abonnement")
  (:dashboard-subscribed-until . "Abonniert bis")
  (:dashboard-not-subscribed . "Nicht abonniert")

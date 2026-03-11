@@ -161,6 +161,7 @@
  (:dashboard-title . "Dashboard")
  (:dashboard-cards-due . "Carte da ripassare")
  (:dashboard-total-cards . "Carte totali")
+ (:dashboard-mastered-cards . "Carte padroneggiate")
  (:dashboard-subscription . "Abbonamento")
  (:dashboard-subscribed-until . "Abbonato fino al")
  (:dashboard-not-subscribed . "Non abbonato")

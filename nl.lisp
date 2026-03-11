@@ -160,6 +160,7 @@
  (:dashboard-title . "Dashboard")
  (:dashboard-cards-due . "Kaarten voor vandaag")
  (:dashboard-total-cards . "Totaal kaarten")
+ (:dashboard-mastered-cards . "Beheerste kaarten")
  (:dashboard-subscription . "Abonnement")
  (:dashboard-subscribed-until . "Geabonneerd tot")
  (:dashboard-not-subscribed . "Niet geabonneerd")

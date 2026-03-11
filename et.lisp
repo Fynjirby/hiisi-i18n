@@ -160,6 +160,7 @@
  (:dashboard-title . "Ülevaade")
  (:dashboard-cards-due . "Ootel kaardid")
  (:dashboard-total-cards . "Kaarte kokku")
+ (:dashboard-mastered-cards . "Omandatud kaarte")
  (:dashboard-subscription . "Tellimus")
  (:dashboard-subscribed-until . "Tellimus kehtib kuni")
  (:dashboard-not-subscribed . "Tellimus puudub")

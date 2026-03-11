@@ -161,6 +161,7 @@
  (:dashboard-title . "Панель")
  (:dashboard-cards-due . "Карточек на сегодня")
  (:dashboard-total-cards . "Всего карточек")
+ (:dashboard-mastered-cards . "Освоенных карточек")
  (:dashboard-subscription . "Подписка")
  (:dashboard-subscribed-until . "Подписка до")
  (:dashboard-not-subscribed . "Нет подписки")

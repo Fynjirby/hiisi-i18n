@@ -161,6 +161,7 @@
  (:dashboard-title . "Painel")
  (:dashboard-cards-due . "Cartões Pendentes")
  (:dashboard-total-cards . "Total de Cartões")
+ (:dashboard-mastered-cards . "Cartões dominados")
  (:dashboard-subscription . "Assinatura")
  (:dashboard-subscribed-until . "Assinado até")
  (:dashboard-not-subscribed . "Não assinado")

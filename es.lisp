@@ -161,6 +161,7 @@
  (:dashboard-title . "Panel")
  (:dashboard-cards-due . "Tarjetas pendientes")
  (:dashboard-total-cards . "Total de tarjetas")
+ (:dashboard-mastered-cards . "Tarjetas dominadas")
  (:dashboard-subscription . "Suscripción")
  (:dashboard-subscribed-until . "Suscrito hasta")
  (:dashboard-not-subscribed . "Sin suscripción")

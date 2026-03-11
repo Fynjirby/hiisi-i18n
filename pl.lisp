@@ -161,6 +161,7 @@
  (:dashboard-title . "Panel")
  (:dashboard-cards-due . "Fiszki na dziś")
  (:dashboard-total-cards . "Wszystkie fiszki")
+ (:dashboard-mastered-cards . "Opanowanych fiszek")
  (:dashboard-subscription . "Subskrypcja")
  (:dashboard-subscribed-until . "Subskrypcja do")
  (:dashboard-not-subscribed . "Brak subskrypcji")

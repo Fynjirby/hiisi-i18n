@@ -161,6 +161,7 @@
  (:dashboard-title . "Dashboard")
  (:dashboard-cards-due . "Cards Due")
  (:dashboard-total-cards . "Total Cards")
+ (:dashboard-mastered-cards . "Mastered Cards")
  (:dashboard-subscription . "Subscription")
  (:dashboard-subscribed-until . "Subscribed until")
  (:dashboard-not-subscribed . "Not subscribed")

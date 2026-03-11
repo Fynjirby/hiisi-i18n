@@ -160,6 +160,7 @@
  (:dashboard-title . "Översikt")
  (:dashboard-cards-due . "Kort för idag")
  (:dashboard-total-cards . "Totalt antal kort")
+ (:dashboard-mastered-cards . "Bemästrade kort")
  (:dashboard-subscription . "Prenumeration")
  (:dashboard-subscribed-until . "Prenumererar till")
  (:dashboard-not-subscribed . "Ingen prenumeration")

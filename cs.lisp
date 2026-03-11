@@ -160,6 +160,7 @@
  (:dashboard-title . "Přehled")
  (:dashboard-cards-due . "Kartičky na dnes")
  (:dashboard-total-cards . "Celkem kartiček")
+ (:dashboard-mastered-cards . "Zvládnutých kartiček")
  (:dashboard-subscription . "Předplatné")
  (:dashboard-subscribed-until . "Předplaceno do")
  (:dashboard-not-subscribed . "Bez předplatného")
