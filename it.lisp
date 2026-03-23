@@ -565,6 +565,10 @@
  (:flashcards-col-original . "Originale")
  (:flashcards-col-translated . "Traduzione")
  (:flashcards-no-cards . "Nessuna carta ancora. Inizia a tradurre per crearne alcune!")
+ (:flashcards-image-label . "Immagine")
+ (:flashcards-image-upload . "Carica immagine")
+ (:flashcards-image-replace . "Sostituisci immagine")
+ (:flashcards-image-remove . "Rimuovi immagine")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Impara le lingue in modo completo")

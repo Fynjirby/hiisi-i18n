@@ -565,6 +565,10 @@
  (:flashcards-col-original . "Оригинал")
  (:flashcards-col-translated . "Перевод")
  (:flashcards-no-cards . "Карточек пока нет. Начните переводить, чтобы создать их!")
+ (:flashcards-image-label . "Изображение")
+ (:flashcards-image-upload . "Загрузить изображение")
+ (:flashcards-image-replace . "Заменить изображение")
+ (:flashcards-image-remove . "Удалить изображение")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Изучайте языки всесторонне")

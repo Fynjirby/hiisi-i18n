@@ -564,6 +564,10 @@
  (:flashcards-col-original . "Alkuperäinen")
  (:flashcards-col-translated . "Käännös")
  (:flashcards-no-cards . "Ei vielä kortteja. Aloita kääntäminen luodaksesi niitä!")
+ (:flashcards-image-label . "Kuva")
+ (:flashcards-image-upload . "Lähetä kuva")
+ (:flashcards-image-replace . "Vaihda kuva")
+ (:flashcards-image-remove . "Poista kuva")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Opi kieliä kattavasti")

@@ -565,6 +565,10 @@
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Oversettelse")
  (:flashcards-no-cards . "Ingen kort ennå. Begynn å oversette for å lage noen!")
+ (:flashcards-image-label . "Bilde")
+ (:flashcards-image-upload . "Last opp bilde")
+ (:flashcards-image-replace . "Bytt bilde")
+ (:flashcards-image-remove . "Fjern bilde")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Lær språk grundig")

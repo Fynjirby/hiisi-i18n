@@ -564,6 +564,10 @@
  (:flashcards-col-original . "Originál")
  (:flashcards-col-translated . "Překlad")
  (:flashcards-no-cards . "Zatím žádné kartičky. Začněte překládat a vytvořte si nějaké!")
+ (:flashcards-image-label . "Obrázek")
+ (:flashcards-image-upload . "Nahrát obrázek")
+ (:flashcards-image-replace . "Nahradit obrázek")
+ (:flashcards-image-remove . "Odstranit obrázek")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Učte se jazyky komplexně")

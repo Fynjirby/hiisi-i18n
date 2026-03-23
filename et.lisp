@@ -564,6 +564,10 @@
  (:flashcards-col-original . "Originaal")
  (:flashcards-col-translated . "Tõlge")
  (:flashcards-no-cards . "Kaarte veel pole. Alusta tõlkimist, et neid luua!")
+ (:flashcards-image-label . "Pilt")
+ (:flashcards-image-upload . "Laadi pilt üles")
+ (:flashcards-image-replace . "Asenda pilt")
+ (:flashcards-image-remove . "Eemalda pilt")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Õpi keeli põhjalikult")
