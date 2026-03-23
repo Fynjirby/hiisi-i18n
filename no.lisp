@@ -190,6 +190,9 @@
  (:review-by-deck . "Repeter etter kortstokk")
  (:review-by-language-pair . "Repeter etter språkpar")
  (:review-all-cards . "Repeter alle kort")
+ (:review-cards-due . "kort å repetere")
+ (:review-deck-caught-up . "Alt repetert")
+ (:review-all-caught-up . "Alt repetert!")
 
  (:review-no-cards . "Ingen kort å repetere")
  (:review-no-cards-desc . "Du har ingen flashcards som skal repeteres akkurat nå.")

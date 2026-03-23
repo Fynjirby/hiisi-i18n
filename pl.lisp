@@ -190,6 +190,9 @@
  (:review-by-deck . "Powtórka według talii")
  (:review-by-language-pair . "Powtórka według pary językowej")
  (:review-all-cards . "Powtórz wszystkie fiszki")
+ (:review-cards-due . "kart do powtórki")
+ (:review-deck-caught-up . "Wszystko powtórzone")
+ (:review-all-caught-up . "Wszystko powtórzone!")
 
  (:review-no-cards . "Brak fiszek do powtórki")
  (:review-no-cards-desc . "Nie masz teraz żadnych fiszek do powtórki.")

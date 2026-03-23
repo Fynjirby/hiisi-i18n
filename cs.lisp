@@ -189,6 +189,9 @@
  (:review-by-deck . "Opakovat podle balíčku")
  (:review-by-language-pair . "Opakovat podle jazykového páru")
  (:review-all-cards . "Opakovat všechny kartičky")
+ (:review-cards-due . "karet k opakování")
+ (:review-deck-caught-up . "Vše zopakováno")
+ (:review-all-caught-up . "Vše zopakováno!")
 
  (:review-no-cards . "Žádné kartičky k opakování")
  (:review-no-cards-desc . "Momentálně nemáte žádné kartičky k opakování.")

@@ -190,6 +190,9 @@
  (:review-by-deck . "Повторять по колоде")
  (:review-by-language-pair . "Повторять по языковой паре")
  (:review-all-cards . "Повторить все карточки")
+ (:review-cards-due . "карт к повторению")
+ (:review-deck-caught-up . "Всё повторено")
+ (:review-all-caught-up . "Всё повторено!")
 
  (:review-no-cards . "Нет карточек для повторения")
  (:review-no-cards-desc . "У вас нет карточек, запланированных на повторение прямо сейчас.")

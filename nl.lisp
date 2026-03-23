@@ -189,6 +189,9 @@
  (:review-by-deck . "Herhaal per deck")
  (:review-by-language-pair . "Herhaal per taalpaar")
  (:review-all-cards . "Herhaal alle kaarten")
+ (:review-cards-due . "kaarten te herhalen")
+ (:review-deck-caught-up . "Alles bijgewerkt")
+ (:review-all-caught-up . "Alles bijgewerkt!")
 
  (:review-no-cards . "Geen kaarten te herhalen")
  (:review-no-cards-desc . "Je hebt momenteel geen flashcards die herhaald moeten worden.")

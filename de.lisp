@@ -190,6 +190,9 @@
  (:review-by-deck . "Nach Deck wiederholen")
  (:review-by-language-pair . "Nach Sprachpaar wiederholen")
  (:review-all-cards . "Alle Karten wiederholen")
+ (:review-cards-due . "Karten fällig")
+ (:review-deck-caught-up . "Alles erledigt")
+ (:review-all-caught-up . "Alles erledigt!")
 
  (:review-no-cards . "Keine Karten zur Wiederholung")
  (:review-no-cards-desc . "Du hast gerade keine Karteikarten zur Wiederholung fällig.")

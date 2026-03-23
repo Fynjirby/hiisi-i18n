@@ -190,6 +190,9 @@
  (:review-by-deck . "Revisar por baralho")
  (:review-by-language-pair . "Revisar por par de idiomas")
  (:review-all-cards . "Revisar todos os cartões")
+ (:review-cards-due . "cartões pendentes")
+ (:review-deck-caught-up . "Tudo em dia")
+ (:review-all-caught-up . "Tudo em dia!")
 
  (:review-no-cards . "Nenhum Cartão para Revisar")
  (:review-no-cards-desc . "Você não tem nenhum flashcard pendente para revisão agora.")

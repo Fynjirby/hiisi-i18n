@@ -190,6 +190,9 @@
  (:review-by-deck . "Repasar por mazo")
  (:review-by-language-pair . "Repasar por par de idiomas")
  (:review-all-cards . "Repasar todas las tarjetas")
+ (:review-cards-due . "tarjetas pendientes")
+ (:review-deck-caught-up . "Todo al día")
+ (:review-all-caught-up . "¡Todo al día!")
 
  (:review-no-cards . "No hay tarjetas para repasar")
  (:review-no-cards-desc . "No tienes tarjetas pendientes de repaso en este momento.")

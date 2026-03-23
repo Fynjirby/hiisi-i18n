@@ -190,6 +190,9 @@
  (:review-by-deck . "Ripassa per mazzo")
  (:review-by-language-pair . "Ripassa per coppia di lingue")
  (:review-all-cards . "Ripassa tutte le carte")
+ (:review-cards-due . "carte in scadenza")
+ (:review-deck-caught-up . "Tutto in pari")
+ (:review-all-caught-up . "Tutto in pari!")
 
  (:review-no-cards . "Nessuna carta da ripassare")
  (:review-no-cards-desc . "Non hai flashcard da ripassare in questo momento.")

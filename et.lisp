@@ -189,6 +189,9 @@
  (:review-by-deck . "Korda paki järgi")
  (:review-by-language-pair . "Korda keelepaari järgi")
  (:review-all-cards . "Korda kõiki kaarte")
+ (:review-cards-due . "kaarti kordamiseks")
+ (:review-deck-caught-up . "Kõik korratud")
+ (:review-all-caught-up . "Kõik korratud!")
 
  (:review-no-cards . "Pole kaarte kordamiseks")
  (:review-no-cards-desc . "Sul pole praegu ühtegi mälukaarti, mis vajaks kordamist.")

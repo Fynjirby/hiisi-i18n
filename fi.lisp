@@ -189,6 +189,9 @@
  (:review-by-deck . "Kertaa pakan mukaan")
  (:review-by-language-pair . "Kertaa kieliparin mukaan")
  (:review-all-cards . "Kertaa kaikki kortit")
+ (:review-cards-due . "korttia jonossa")
+ (:review-deck-caught-up . "Kaikki kertaattu")
+ (:review-all-caught-up . "Kaikki kertaattu!")
 
  (:review-no-cards . "Ei kerattavia kortteja")
  (:review-no-cards-desc . "Sinulla ei ole muistikortteja kerattavana juuri nyt.")

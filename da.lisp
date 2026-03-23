@@ -190,6 +190,9 @@
  (:review-by-deck . "Gentag efter kortsæt")
  (:review-by-language-pair . "Gentag efter sprogpar")
  (:review-all-cards . "Gentag alle kort")
+ (:review-cards-due . "kort til gennemgang")
+ (:review-deck-caught-up . "Alt gennemgået")
+ (:review-all-caught-up . "Alt gennemgået!")
 
  (:review-no-cards . "Ingen kort at gentage")
  (:review-no-cards-desc . "Du har ingen flashcards der skal gentages lige nu.")

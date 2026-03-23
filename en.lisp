@@ -190,6 +190,9 @@
  (:review-by-deck . "Review by Deck")
  (:review-by-language-pair . "Review by Language Pair")
  (:review-all-cards . "Review All Cards")
+ (:review-cards-due . "cards due")
+ (:review-deck-caught-up . "All caught up")
+ (:review-all-caught-up . "All caught up!")
 
  (:review-no-cards . "No Cards to Review")
  (:review-no-cards-desc . "You don't have any flashcards due for review right now.")
