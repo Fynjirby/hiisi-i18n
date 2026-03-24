@@ -501,7 +501,7 @@
  (:decks-import-title . "Import")
  (:decks-import-btn . "Import deck")
  (:starter-decks-title . "Library")
- (:starter-decks-subtitle . "Pick a language triplet, browse official and community decks, and import ready-made study decks.")
+ (:starter-decks-subtitle . "Import ready-made decks provided by Hiisi and the community.")
  (:starter-decks-marketplace-btn . "Library")
  (:starter-decks-explanation-language . "Explanation language")
  (:starter-decks-search-label . "Search")

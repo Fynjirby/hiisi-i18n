@@ -500,7 +500,7 @@
  (:decks-import-title . "Importar")
  (:decks-import-btn . "Importar mazo")
  (:starter-decks-title . "Biblioteca")
- (:starter-decks-subtitle . "Elige un trío de idiomas, explora mazos oficiales y de la comunidad e importa mazos de estudio listos para usar.")
+ (:starter-decks-subtitle . "Importa mazos listos para usar de Hiisi y de la comunidad.")
  (:starter-decks-marketplace-btn . "Biblioteca")
  (:starter-decks-explanation-language . "Idioma de explicación")
  (:starter-decks-search-label . "Buscar")

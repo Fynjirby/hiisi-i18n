@@ -500,7 +500,7 @@
  (:decks-import-title . "Importa")
  (:decks-import-btn . "Importa mazzo")
  (:starter-decks-title . "Biblioteca")
- (:starter-decks-subtitle . "Scegli una tripletta linguistica, esplora mazzi ufficiali e della comunità e importa mazzi di studio pronti.")
+ (:starter-decks-subtitle . "Importa mazzi pronti di Hiisi e della community.")
  (:starter-decks-marketplace-btn . "Biblioteca")
  (:starter-decks-explanation-language . "Lingua delle spiegazioni")
  (:starter-decks-search-label . "Cerca")

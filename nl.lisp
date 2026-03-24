@@ -499,7 +499,7 @@
  (:decks-import-title . "Importeren")
  (:decks-import-btn . "Stapel importeren")
  (:starter-decks-title . "Bibliotheek")
- (:starter-decks-subtitle . "Kies een taaltriplet, bekijk officiële en communitydecks en importeer kant-en-klare studiedecks.")
+ (:starter-decks-subtitle . "Importeer kant-en-klare decks van Hiisi en de community.")
  (:starter-decks-marketplace-btn . "Bibliotheek")
  (:starter-decks-explanation-language . "Uitlegtaal")
  (:starter-decks-search-label . "Zoeken")

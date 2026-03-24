@@ -499,7 +499,7 @@
  (:decks-import-title . "Importera")
  (:decks-import-btn . "Importera kortlek")
  (:starter-decks-title . "Bibliotek")
- (:starter-decks-subtitle . "Välj en språktrippel, bläddra bland officiella och communityskapade kortlekar och importera färdiga studiekortlekar.")
+ (:starter-decks-subtitle . "Importera färdiga kortlekar från Hiisi och communityn.")
  (:starter-decks-marketplace-btn . "Bibliotek")
  (:starter-decks-explanation-language . "Förklaringsspråk")
  (:starter-decks-search-label . "Sök")

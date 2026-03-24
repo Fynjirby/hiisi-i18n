@@ -500,7 +500,7 @@
  (:decks-import-title . "Importieren")
  (:decks-import-btn . "Stapel importieren")
  (:starter-decks-title . "Bibliothek")
- (:starter-decks-subtitle . "Wähle ein Sprachtripel, stöbere in offiziellen und Community-Decks und importiere fertige Lerndecks.")
+ (:starter-decks-subtitle . "Importiere fertige Decks von Hiisi und der Community.")
  (:starter-decks-marketplace-btn . "Bibliothek")
  (:starter-decks-explanation-language . "Erklärungssprache")
  (:starter-decks-search-label . "Suchen")

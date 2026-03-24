@@ -500,7 +500,7 @@
  (:decks-import-title . "Importer")
  (:decks-import-btn . "Importer kortbunke")
  (:starter-decks-title . "Bibliotek")
- (:starter-decks-subtitle . "Vælg en sprogtrio, gennemse officielle og fællesskabsoprettede kortbunker, og importér færdige studiekortbunker.")
+ (:starter-decks-subtitle . "Importér færdige kortbunker fra Hiisi og fællesskabet.")
  (:starter-decks-marketplace-btn . "Bibliotek")
  (:starter-decks-explanation-language . "Forklaringssprog")
  (:starter-decks-search-label . "Søg")

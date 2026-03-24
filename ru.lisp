@@ -500,7 +500,7 @@
  (:decks-import-title . "Импорт")
  (:decks-import-btn . "Импортировать колоду")
  (:starter-decks-title . "Библиотека")
- (:starter-decks-subtitle . "Выберите языковую тройку, просматривайте официальные и пользовательские колоды и импортируйте готовые учебные колоды.")
+ (:starter-decks-subtitle . "Импортируйте готовые колоды от Hiisi и сообщества.")
  (:starter-decks-marketplace-btn . "Библиотека")
  (:starter-decks-explanation-language . "Язык объяснений")
  (:starter-decks-search-label . "Поиск")

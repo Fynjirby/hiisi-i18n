@@ -500,7 +500,7 @@
  (:decks-import-title . "Importer")
  (:decks-import-btn . "Importer kortstokk")
  (:starter-decks-title . "Bibliotek")
- (:starter-decks-subtitle . "Velg en språktrippel, bla gjennom offisielle og fellesskapslagde kortstokker og importer ferdige studiekortstokker.")
+ (:starter-decks-subtitle . "Importer ferdige kortstokker fra Hiisi og fellesskapet.")
  (:starter-decks-marketplace-btn . "Bibliotek")
  (:starter-decks-explanation-language . "Forklaringsspråk")
  (:starter-decks-search-label . "Søk")

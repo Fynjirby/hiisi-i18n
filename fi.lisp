@@ -499,7 +499,7 @@
  (:decks-import-title . "Tuo")
  (:decks-import-btn . "Tuo pakka")
  (:starter-decks-title . "Kirjasto")
- (:starter-decks-subtitle . "Valitse kielikolmikko, selaa virallisia ja yhteisön pakkoja ja tuo valmiita opiskelupakkoja.")
+ (:starter-decks-subtitle . "Tuo Hiisin ja yhteisön tarjoamia valmiita pakkoja.")
  (:starter-decks-marketplace-btn . "Kirjasto")
  (:starter-decks-explanation-language . "Selityskieli")
  (:starter-decks-search-label . "Etsi")

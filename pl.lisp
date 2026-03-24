@@ -500,7 +500,7 @@
  (:decks-import-title . "Importuj")
  (:decks-import-btn . "Importuj talię")
  (:starter-decks-title . "Biblioteka")
- (:starter-decks-subtitle . "Wybierz trójkę językową, przeglądaj oficjalne i społecznościowe talie oraz importuj gotowe talie do nauki.")
+ (:starter-decks-subtitle . "Importuj gotowe talie od Hiisi i społeczności.")
  (:starter-decks-marketplace-btn . "Biblioteka")
  (:starter-decks-explanation-language . "Język objaśnień")
  (:starter-decks-search-label . "Szukaj")

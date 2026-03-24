@@ -499,7 +499,7 @@
  (:decks-import-title . "Impordi")
  (:decks-import-btn . "Impordi kaardipakk")
  (:starter-decks-title . "Teek")
- (:starter-decks-subtitle . "Vali keelekolmik, sirvi ametlikke ja kogukonna pakke ning impordi valmis õppepakke.")
+ (:starter-decks-subtitle . "Impordi Hiisi ja kogukonna koostatud valmis õppepakid.")
  (:starter-decks-marketplace-btn . "Teek")
  (:starter-decks-explanation-language . "Selgituste keel")
  (:starter-decks-search-label . "Otsi")

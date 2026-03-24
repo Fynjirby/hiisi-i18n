@@ -499,7 +499,7 @@
  (:decks-import-title . "Import")
  (:decks-import-btn . "Importovat balíček")
  (:starter-decks-title . "Knihovna")
- (:starter-decks-subtitle . "Vyberte jazykovou trojici, procházejte oficiální i komunitní balíčky a importujte hotové studijní balíčky.")
+ (:starter-decks-subtitle . "Importujte hotové balíčky od Hiisi a komunity.")
  (:starter-decks-marketplace-btn . "Knihovna")
  (:starter-decks-explanation-language . "Jazyk vysvětlení")
  (:starter-decks-search-label . "Hledat")

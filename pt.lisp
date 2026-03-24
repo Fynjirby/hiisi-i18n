@@ -500,7 +500,7 @@
  (:decks-import-title . "Importar")
  (:decks-import-btn . "Importar baralho")
  (:starter-decks-title . "Biblioteca")
- (:starter-decks-subtitle . "Escolha um triplo linguístico, explore baralhos oficiais e da comunidade e importe baralhos de estudo prontos.")
+ (:starter-decks-subtitle . "Importe baralhos prontos fornecidos pela Hiisi e pela comunidade.")
  (:starter-decks-marketplace-btn . "Biblioteca")
  (:starter-decks-explanation-language . "Idioma das explicações")
  (:starter-decks-search-label . "Pesquisar")
