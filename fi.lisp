@@ -181,6 +181,9 @@
  (:translate-like-tooltip . "Hyvä käännös")
  (:translate-dislike-tooltip . "Huono käännös - pyydä uusi")
  (:translate-dislike-confirm . "Tämä luo uuden käännöksen. Jatketaanko?")
+ (:pronunciation-label . "Ääntäminen")
+ (:pronunciation-show . "Näytä ääntäminen")
+ (:pronunciation-hide . "Piilota ääntäminen")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

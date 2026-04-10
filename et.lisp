@@ -181,6 +181,9 @@
  (:translate-like-tooltip . "Hea tõlge")
  (:translate-dislike-tooltip . "Halb tõlge - taotle uut")
  (:translate-dislike-confirm . "See genereerib uue tõlke. Jätkata?")
+ (:pronunciation-label . "Hääldus")
+ (:pronunciation-show . "Näita hääldust")
+ (:pronunciation-hide . "Peida hääldus")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

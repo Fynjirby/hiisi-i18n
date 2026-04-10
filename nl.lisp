@@ -181,6 +181,9 @@
  (:translate-like-tooltip . "Goede vertaling")
  (:translate-dislike-tooltip . "Slechte vertaling - vraag een nieuwe aan")
  (:translate-dislike-confirm . "Dit genereert een nieuwe vertaling. Doorgaan?")
+ (:pronunciation-label . "Uitspraak")
+ (:pronunciation-show . "Uitspraak tonen")
+ (:pronunciation-hide . "Uitspraak verbergen")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

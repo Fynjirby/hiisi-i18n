@@ -182,6 +182,9 @@
  (:translate-like-tooltip . "Gute Übersetzung")
  (:translate-dislike-tooltip . "Schlechte Übersetzung - neue anfordern")
  (:translate-dislike-confirm . "Dies generiert eine neue Übersetzung. Fortfahren?")
+ (:pronunciation-label . "Aussprache")
+ (:pronunciation-show . "Aussprache anzeigen")
+ (:pronunciation-hide . "Aussprache ausblenden")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

@@ -181,6 +181,9 @@
  (:translate-like-tooltip . "Bra översättning")
  (:translate-dislike-tooltip . "Dålig översättning - begär en ny")
  (:translate-dislike-confirm . "Detta genererar en ny översättning. Fortsätta?")
+ (:pronunciation-label . "Uttal")
+ (:pronunciation-show . "Visa uttal")
+ (:pronunciation-hide . "Dölj uttal")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

@@ -181,6 +181,9 @@
  (:translate-like-tooltip . "Dobrý překlad")
  (:translate-dislike-tooltip . "Špatný překlad - vyžádat nový")
  (:translate-dislike-confirm . "Toto vygeneruje nový překlad. Pokračovat?")
+ (:pronunciation-label . "Výslovnost")
+ (:pronunciation-show . "Zobrazit výslovnost")
+ (:pronunciation-hide . "Skrýt výslovnost")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

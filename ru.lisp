@@ -182,6 +182,9 @@
  (:translate-like-tooltip . "Хороший перевод")
  (:translate-dislike-tooltip . "Плохой перевод - запросить новый")
  (:translate-dislike-confirm . "Это сгенерирует новый перевод. Продолжить?")
+ (:pronunciation-label . "Произношение")
+ (:pronunciation-show . "Показать произношение")
+ (:pronunciation-hide . "Скрыть произношение")
 
  ;; Translation and Flashcards
  (:lang-auto . "Авто")

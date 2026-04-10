@@ -182,6 +182,9 @@
  (:translate-like-tooltip . "God oversettelse")
  (:translate-dislike-tooltip . "Dårlig oversettelse - be om en ny")
  (:translate-dislike-confirm . "Dette genererer en ny oversettelse. Fortsette?")
+ (:pronunciation-label . "Uttale")
+ (:pronunciation-show . "Vis uttale")
+ (:pronunciation-hide . "Skjul uttale")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

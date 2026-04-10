@@ -182,6 +182,9 @@
  (:translate-like-tooltip . "Good translation")
  (:translate-dislike-tooltip . "Bad translation - request a new one")
  (:translate-dislike-confirm . "This will generate a new translation. Continue?")
+ (:pronunciation-label . "Pronunciation")
+ (:pronunciation-show . "Show pronunciation")
+ (:pronunciation-hide . "Hide pronunciation")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
