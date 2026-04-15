@@ -18,6 +18,7 @@
  (:nav-logout . "Uitloggen")
  (:nav-home . "Home")
  (:nav-pricing . "Prijzen")
+ (:nav-institutions . "Voor instellingen")
  (:nav-export-data . "Gegevens exporteren")
 
  ;; App title and branding

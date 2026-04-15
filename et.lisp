@@ -18,6 +18,7 @@
  (:nav-logout . "Logi välja")
  (:nav-home . "Avaleht")
  (:nav-pricing . "Hinnad")
+ (:nav-institutions . "Asutustele")
  (:nav-export-data . "Ekspordi andmed")
 
  ;; App title and branding

@@ -18,6 +18,7 @@
  (:nav-logout . "Odhlásit se")
  (:nav-home . "Domů")
  (:nav-pricing . "Ceník")
+ (:nav-institutions . "Pro instituce")
  (:nav-export-data . "Exportovat data")
 
  ;; App title and branding

@@ -19,6 +19,7 @@
  (:nav-logout . "Cerrar sesión")
  (:nav-home . "Inicio")
  (:nav-pricing . "Precios")
+ (:nav-institutions . "Para instituciones")
  (:nav-export-data . "Exportar datos")
 
  ;; App title and branding

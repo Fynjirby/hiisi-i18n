@@ -19,6 +19,7 @@
  (:nav-logout . "Sair")
  (:nav-home . "Início")
  (:nav-pricing . "Preços")
+ (:nav-institutions . "Para instituições")
  (:nav-export-data . "Exportar Dados")
 
  ;; App title and branding

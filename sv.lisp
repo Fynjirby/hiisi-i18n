@@ -18,6 +18,7 @@
  (:nav-logout . "Logga ut")
  (:nav-home . "Hem")
  (:nav-pricing . "Priser")
+ (:nav-institutions . "För institutioner")
  (:nav-export-data . "Exportera data")
 
  ;; App title and branding

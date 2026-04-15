@@ -19,6 +19,7 @@
  (:nav-logout . "Выйти")
  (:nav-home . "Главная")
  (:nav-pricing . "Цены")
+ (:nav-institutions . "Для учреждений")
  (:nav-export-data . "Экспорт данных")
 
  ;; App title and branding

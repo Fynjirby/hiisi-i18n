@@ -18,6 +18,7 @@
  (:nav-logout . "Kirjaudu ulos")
  (:nav-home . "Etusivu")
  (:nav-pricing . "Hinnoittelu")
+ (:nav-institutions . "Oppilaitoksille")
  (:nav-export-data . "Vie tiedot")
 
  ;; App title and branding

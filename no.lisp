@@ -19,6 +19,7 @@
  (:nav-logout . "Logg ut")
  (:nav-home . "Hjem")
  (:nav-pricing . "Priser")
+ (:nav-institutions . "For institusjoner")
  (:nav-export-data . "Eksporter data")
 
  ;; App title and branding
