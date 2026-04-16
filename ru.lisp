@@ -15,7 +15,7 @@
  (:nav-review . "Повторение")
  (:nav-flashcards . "Мои карточки")
  (:nav-dashboard . "Панель")
- (:nav-decks . "Decks")
+ (:nav-decks . "Колоды")
  (:nav-logout . "Выйти")
  (:nav-home . "Главная")
  (:nav-pricing . "Цены")

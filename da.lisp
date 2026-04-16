@@ -15,7 +15,7 @@
  (:nav-review . "Gentag")
  (:nav-flashcards . "Mine kort")
  (:nav-dashboard . "Oversigt")
- (:nav-decks . "Decks")
+ (:nav-decks . "Kortbunker")
  (:nav-logout . "Log ud")
  (:nav-home . "Hjem")
  (:nav-pricing . "Priser")

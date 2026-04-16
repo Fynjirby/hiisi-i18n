@@ -15,7 +15,7 @@
  (:nav-review . "Ripassa")
  (:nav-flashcards . "Le mie carte")
  (:nav-dashboard . "Dashboard")
- (:nav-decks . "Decks")
+ (:nav-decks . "Mazzi")
  (:nav-logout . "Esci")
  (:nav-home . "Home")
  (:nav-pricing . "Prezzi")

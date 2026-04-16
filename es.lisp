@@ -15,7 +15,7 @@
  (:nav-review . "Repasar")
  (:nav-flashcards . "Mis tarjetas")
  (:nav-dashboard . "Panel")
- (:nav-decks . "Decks")
+ (:nav-decks . "Mazos")
  (:nav-logout . "Cerrar sesión")
  (:nav-home . "Inicio")
  (:nav-pricing . "Precios")
