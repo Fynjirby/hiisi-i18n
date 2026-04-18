@@ -658,7 +658,7 @@
  (:custom-flashcard-update-btn . "Gem ændringer")
 
  ;; Problemrapportering
- (:issues-open-button . "Rapportér et problem")
+ (:issues-open-button . "Rapportér en fejl")
  (:issues-modal-title . "Rapportér et problem")
  (:issues-modal-subtitle . "Beskriv, hvad der gik galt. Vi vedhæfter automatisk den aktuelle side.")
  (:issues-title-label . "Kort titel")

@@ -657,7 +657,7 @@
  (:custom-flashcard-update-btn . "Tallenna muutokset")
 
  ;; Ongelmailmoitukset
- (:issues-open-button . "Ilmoita ongelmasta")
+ (:issues-open-button . "Ilmoita virheestä")
  (:issues-modal-title . "Ilmoita ongelmasta")
  (:issues-modal-subtitle . "Kuvaile, mikä meni pieleen. Nykyinen sivu liitetään mukaan automaattisesti.")
  (:issues-title-label . "Lyhyt otsikko")

@@ -658,7 +658,7 @@
  (:custom-flashcard-update-btn . "Сохранить изменения")
 
  ;; Сообщения о проблемах
- (:issues-open-button . "Сообщить о проблеме")
+ (:issues-open-button . "Сообщить об ошибке")
  (:issues-modal-title . "Сообщить о проблеме")
  (:issues-modal-subtitle . "Опишите, что пошло не так. Текущая страница будет добавлена автоматически.")
  (:issues-title-label . "Краткий заголовок")

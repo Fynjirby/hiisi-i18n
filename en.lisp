@@ -659,7 +659,7 @@
  (:custom-flashcard-update-btn . "Save Changes")
 
  ;; Issue reporting
- (:issues-open-button . "Report an Issue")
+ (:issues-open-button . "Report a bug")
  (:issues-modal-title . "Report an Issue")
  (:issues-modal-subtitle . "Describe what went wrong. We will include your current page automatically.")
  (:issues-title-label . "Short title")

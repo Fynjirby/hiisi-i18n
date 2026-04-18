@@ -658,7 +658,7 @@
  (:custom-flashcard-update-btn . "Änderungen speichern")
 
  ;; Problemmeldungen
- (:issues-open-button . "Problem melden")
+ (:issues-open-button . "Fehler melden")
  (:issues-modal-title . "Problem melden")
  (:issues-modal-subtitle . "Beschreiben Sie, was schiefgelaufen ist. Ihre aktuelle Seite wird automatisch mitgesendet.")
  (:issues-title-label . "Kurzer Titel")

@@ -657,7 +657,7 @@
  (:custom-flashcard-update-btn . "Spara ändringar")
 
  ;; Problemrapportering
- (:issues-open-button . "Rapportera ett problem")
+ (:issues-open-button . "Rapportera ett fel")
  (:issues-modal-title . "Rapportera ett problem")
  (:issues-modal-subtitle . "Beskriv vad som gick fel. Vi lägger automatiskt till sidan du är på.")
  (:issues-title-label . "Kort titel")

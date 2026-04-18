@@ -658,7 +658,7 @@
  (:custom-flashcard-update-btn . "Salva modifiche")
 
  ;; Segnalazione problemi
- (:issues-open-button . "Segnala un problema")
+ (:issues-open-button . "Segnala un errore")
  (:issues-modal-title . "Segnala un problema")
  (:issues-modal-subtitle . "Descrivi cosa è andato storto. Includeremo automaticamente la pagina corrente.")
  (:issues-title-label . "Titolo breve")

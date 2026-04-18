@@ -657,7 +657,7 @@
  (:custom-flashcard-update-btn . "Salvesta muudatused")
 
  ;; Probleemidest teavitamine
- (:issues-open-button . "Teata probleemist")
+ (:issues-open-button . "Teata veast")
  (:issues-modal-title . "Teata probleemist")
  (:issues-modal-subtitle . "Kirjelda, mis läks valesti. Sinu praegune leht lisatakse automaatselt.")
  (:issues-title-label . "Lühike pealkiri")

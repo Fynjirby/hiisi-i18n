@@ -657,7 +657,7 @@
  (:custom-flashcard-update-btn . "Wijzigingen opslaan")
 
  ;; Probleemrapportage
- (:issues-open-button . "Probleem melden")
+ (:issues-open-button . "Bug melden")
  (:issues-modal-title . "Probleem melden")
  (:issues-modal-subtitle . "Beschrijf wat er misging. We voegen je huidige pagina automatisch toe.")
  (:issues-title-label . "Korte titel")

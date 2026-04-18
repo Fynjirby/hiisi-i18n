@@ -657,7 +657,7 @@
  (:custom-flashcard-update-btn . "Uložit změny")
 
  ;; Hlásení problémů
- (:issues-open-button . "Nahlásit problém")
+ (:issues-open-button . "Nahlásit chybu")
  (:issues-modal-title . "Nahlásit problém")
  (:issues-modal-subtitle . "Popište, co se pokazilo. Aktuální stránku přiložíme automaticky.")
  (:issues-title-label . "Krátký název")
