@@ -370,7 +370,7 @@
  (:institutions-aside-title . "Что дальше")
  (:institutions-aside-body . "Мы изучим ваши потребности и ответим в течение недели, чтобы обсудить доступ и настройку для вашего учреждения.")
  (:institutions-field-name . "Название учреждения")
- (:institutions-field-name-placeholder . "Хельсинкский университет")
+ (:institutions-field-name-placeholder . "Ваш университет")
  (:institutions-field-contact-name . "Контактное лицо")
  (:institutions-field-contact-name-placeholder . "Ваше имя")
  (:institutions-field-contact-email . "Контактный email")

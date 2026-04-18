@@ -369,7 +369,7 @@
  (:institutions-aside-title . "Wat er daarna gebeurt")
  (:institutions-aside-body . "Wij beoordelen uw behoeften en reageren binnen een week om de toegang en opzet voor uw instelling te bespreken.")
  (:institutions-field-name . "Naam van de instelling")
- (:institutions-field-name-placeholder . "Universiteit van Helsinki")
+ (:institutions-field-name-placeholder . "Jouw universiteit")
  (:institutions-field-contact-name . "Contactpersoon")
  (:institutions-field-contact-name-placeholder . "Jouw naam")
  (:institutions-field-contact-email . "Contact-e-mail")

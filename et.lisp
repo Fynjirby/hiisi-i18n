@@ -369,7 +369,7 @@
  (:institutions-aside-title . "Mis saab edasi")
  (:institutions-aside-body . "Tutvume teie vajadustega ja vastame nädala jooksul, et arutada juurdepääsu ja seadistamist teie asutuse jaoks.")
  (:institutions-field-name . "Asutuse nimi")
- (:institutions-field-name-placeholder . "Helsingi Ülikool")
+ (:institutions-field-name-placeholder . "Sinu ülikool")
  (:institutions-field-contact-name . "Kontaktisiku nimi")
  (:institutions-field-contact-name-placeholder . "Sinu nimi")
  (:institutions-field-contact-email . "Kontakti e-post")

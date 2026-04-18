@@ -369,7 +369,7 @@
  (:institutions-aside-title . "Vad händer härnäst")
  (:institutions-aside-body . "Vi granskar era behov och svarar inom en vecka för att diskutera åtkomst och upplägg för er institution.")
  (:institutions-field-name . "Institutionsnamn")
- (:institutions-field-name-placeholder . "Helsingfors universitet")
+ (:institutions-field-name-placeholder . "Ditt universitet")
  (:institutions-field-contact-name . "Kontaktperson")
  (:institutions-field-contact-name-placeholder . "Ditt namn")
  (:institutions-field-contact-email . "Kontakt-e-post")

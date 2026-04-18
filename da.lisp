@@ -370,7 +370,7 @@
  (:institutions-aside-title . "Hvad sker der nu")
  (:institutions-aside-body . "Vi gennemgår jeres behov og vender tilbage inden for en uge for at drøfte adgang og opsætning for jeres institution.")
  (:institutions-field-name . "Institutionsnavn")
- (:institutions-field-name-placeholder . "Københavns Universitet")
+ (:institutions-field-name-placeholder . "Dit universitet")
  (:institutions-field-contact-name . "Kontaktperson")
  (:institutions-field-contact-name-placeholder . "Dit navn")
  (:institutions-field-contact-email . "Kontakt-e-mail")

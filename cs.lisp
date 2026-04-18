@@ -369,7 +369,7 @@
  (:institutions-aside-title . "Co bude následovat")
  (:institutions-aside-body . "Posoudíme vaše potřeby a do týdne se ozveme, abychom probrali přístup a nastavení pro vaši instituci.")
  (:institutions-field-name . "Název instituce")
- (:institutions-field-name-placeholder . "Univerzita v Helsinkách")
+ (:institutions-field-name-placeholder . "Vaše univerzita")
  (:institutions-field-contact-name . "Jméno kontaktní osoby")
  (:institutions-field-contact-name-placeholder . "Vaše jméno")
  (:institutions-field-contact-email . "Kontaktní e-mail")

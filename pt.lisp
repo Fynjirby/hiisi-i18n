@@ -370,7 +370,7 @@
  (:institutions-aside-title . "O que acontece a seguir")
  (:institutions-aside-body . "Analisamos as vossas necessidades e respondemos no prazo de uma semana para discutir o acesso e a configuração para a vossa instituição.")
  (:institutions-field-name . "Nome da instituição")
- (:institutions-field-name-placeholder . "Universidade de Helsinque")
+ (:institutions-field-name-placeholder . "Sua universidade")
  (:institutions-field-contact-name . "Nome do contato")
  (:institutions-field-contact-name-placeholder . "Seu nome")
  (:institutions-field-contact-email . "Email de contato")

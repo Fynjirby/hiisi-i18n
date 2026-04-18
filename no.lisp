@@ -370,7 +370,7 @@
  (:institutions-aside-title . "Hva skjer videre")
  (:institutions-aside-body . "Vi gjennomgår behovene deres og svarer innen en uke for å avtale tilgang og oppsett for institusjonen deres.")
  (:institutions-field-name . "Institusjonsnavn")
- (:institutions-field-name-placeholder . "Universitetet i Helsinki")
+ (:institutions-field-name-placeholder . "Ditt universitet")
  (:institutions-field-contact-name . "Kontaktperson")
  (:institutions-field-contact-name-placeholder . "Ditt navn")
  (:institutions-field-contact-email . "Kontakt-e-post")

@@ -369,7 +369,7 @@
  (:institutions-aside-title . "Mitä seuraavaksi tapahtuu")
  (:institutions-aside-body . "Tutustumme tarpeisiinne ja otamme yhteyttä viikon kuluessa sopimaan pääsystä ja käyttöönotosta oppilaitoksellenne.")
  (:institutions-field-name . "Oppilaitoksen nimi")
- (:institutions-field-name-placeholder . "Helsingin yliopisto")
+ (:institutions-field-name-placeholder . "Yliopistosi")
  (:institutions-field-contact-name . "Yhteyshenkilön nimi")
  (:institutions-field-contact-name-placeholder . "Nimesi")
  (:institutions-field-contact-email . "Yhteyssähköposti")
