@@ -55,6 +55,7 @@
  (:auth-no-account . "Eikö sinulla ole tiliä?")
  (:auth-have-account . "Onko sinulla jo tili?")
  (:auth-google . "Google")
+ (:auth-google-login-failed . "Google-kirjautuminen epäonnistui. Yritä uudelleen.")
  (:auth-account-created . "Tili luotu!")
  (:auth-check-email . "Tarkista sähköpostisi aktivointilinkin varalta.")
  (:auth-redirect-login . "Uudelleenohjaus kirjautumiseen")

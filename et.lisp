@@ -55,6 +55,7 @@
  (:auth-no-account . "Pole veel kontot?")
  (:auth-have-account . "On juba konto?")
  (:auth-google . "Google")
+ (:auth-google-login-failed . "Google'iga sisselogimine ebaõnnestus. Palun proovi uuesti.")
  (:auth-account-created . "Konto loodud!")
  (:auth-check-email . "Kontrolli oma e-posti aktiveerimislingi saamiseks.")
  (:auth-redirect-login . "Suunan sisselogimisele")

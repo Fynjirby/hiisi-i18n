@@ -56,6 +56,7 @@
  (:auth-no-account . "Não tem uma conta?")
  (:auth-have-account . "Já tem uma conta?")
  (:auth-google . "Google")
+ (:auth-google-login-failed . "Falha ao iniciar sessão com o Google. Tente novamente.")
  (:auth-account-created . "Conta criada!")
  (:auth-check-email . "Verifique seu email para o link de ativação.")
  (:auth-redirect-login . "Redirecionando para login em")

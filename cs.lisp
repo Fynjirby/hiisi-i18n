@@ -55,6 +55,7 @@
  (:auth-no-account . "Nemáte účet?")
  (:auth-have-account . "Již máte účet?")
  (:auth-google . "Google")
+ (:auth-google-login-failed . "Přihlášení přes Google se nezdařilo. Zkuste to prosím znovu.")
  (:auth-account-created . "Účet vytvořen!")
  (:auth-check-email . "Zkontrolujte svůj e-mail pro aktivační odkaz.")
  (:auth-redirect-login . "Přesměrování na přihlášení za")

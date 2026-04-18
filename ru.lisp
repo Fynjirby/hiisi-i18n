@@ -56,6 +56,7 @@
  (:auth-no-account . "Нет аккаунта?")
  (:auth-have-account . "Уже есть аккаунт?")
  (:auth-google . "Войти через Google")
+ (:auth-google-login-failed . "Не удалось войти через Google. Попробуйте ещё раз.")
  (:auth-account-created . "Аккаунт создан")
  (:auth-check-email . "Проверьте почту для активации аккаунта")
  (:auth-redirect-login . "Перенаправление на страницу входа через")

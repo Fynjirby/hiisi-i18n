@@ -55,6 +55,7 @@
  (:auth-no-account . "Heb je geen account?")
  (:auth-have-account . "Heb je al een account?")
  (:auth-google . "Google")
+ (:auth-google-login-failed . "Inloggen met Google is mislukt. Probeer het opnieuw.")
  (:auth-account-created . "Account aangemaakt!")
  (:auth-check-email . "Controleer je e-mail voor de activatielink.")
  (:auth-redirect-login . "Doorsturen naar inloggen over")

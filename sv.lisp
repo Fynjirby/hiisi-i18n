@@ -55,6 +55,7 @@
  (:auth-no-account . "Har du inget konto?")
  (:auth-have-account . "Har du redan ett konto?")
  (:auth-google . "Fortsätt med Google")
+ (:auth-google-login-failed . "Det gick inte att logga in med Google. Försök igen.")
  (:auth-account-created . "Konto skapat!")
  (:auth-check-email . "Kontrollera din e-post för aktiveringslänken.")
  (:auth-redirect-login . "Omdirigerar till inloggning om")

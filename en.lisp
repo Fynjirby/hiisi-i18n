@@ -56,6 +56,7 @@
  (:auth-no-account . "Don't have an account?")
  (:auth-have-account . "Already have an account?")
  (:auth-google . "Google")
+ (:auth-google-login-failed . "Google sign-in failed. Please try again.")
  (:auth-account-created . "Account created!")
  (:auth-check-email . "Check your email for the activation link.")
  (:auth-redirect-login . "Redirecting to login in")
