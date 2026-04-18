@@ -295,8 +295,10 @@
  (:subscribe-start-today . "Start learning today with a 7-day free trial")
  (:subscribe-monthly . "Monthly")
  (:subscribe-annual . "Annual")
+ (:subscribe-founder-member . "Founding Member")
  (:subscribe-monthly-price . "€10")
  (:subscribe-annual-price . "€100")
+ (:subscribe-founder-price . "€79")
  (:subscribe-per-month . "/month")
  (:subscribe-per-year . "/year")
  (:subscribe-monthly-desc . "600 translations per month")
@@ -304,6 +306,9 @@
  (:subscribe-grammar-explanations . "Grammar explanations")
  (:subscribe-spaced-repetition . "Spaced repetition")
  (:subscribe-annual-desc . "Save €20 — two months free!")
+ (:subscribe-founder-lock . "Price locked in while your subscription stays active.")
+ (:subscribe-founder-badge . "Limited offer")
+ (:subscribe-founder-spots-left . "Only ~A of 100 spots left")
  (:subscribe-manage . "Manage Subscription")
  (:subscribe-activated . "Subscription Activated!")
  (:subscribe-thank-you . "Your subscription is active. You can manage billing and buy more translations here.")
@@ -330,6 +335,8 @@
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
 (:subscribe-checkout-unavailable . "Checkout is temporarily unavailable. Please try again.")
 (:subscribe-portal-unavailable . "Subscription management is temporarily unavailable. Please try again.")
+(:subscribe-founder-sold-out . "Founding offer sold out")
+(:subscribe-founder-unavailable . "Founding offer is not available right now.")
 
  ;; Generic status
 
