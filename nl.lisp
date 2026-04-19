@@ -307,7 +307,7 @@
  (:subscribe-annual-desc . "Bespaar €20 - twee maanden gratis!")
  (:subscribe-founder-lock . "Deze prijs blijft gelden zolang je abonnement actief blijft.")
  (:subscribe-founder-badge . "Beperkt aanbod")
- (:subscribe-founder-spots-left . "Nog maar ~A van de 100 plekken over")
+ (:subscribe-founder-limit . "Beperkt tot de eerste 100 leden")
  (:subscribe-manage . "Beheer abonnement")
  (:subscribe-activated . "Abonnement geactiveerd!")
  (:subscribe-thank-you . "Je abonnement is actief. Hier kun je de facturatie beheren en meer vertalingen kopen.")

@@ -307,7 +307,7 @@
  (:subscribe-annual-desc . "Säästä 20 € — kaksi kuukautta ilmaiseksi!")
  (:subscribe-founder-lock . "Hinta pysyy samana niin kauan kuin tilauksesi on aktiivinen.")
  (:subscribe-founder-badge . "Rajoitettu tarjous")
- (:subscribe-founder-spots-left . "Vain ~A paikkaa sadasta jäljellä")
+ (:subscribe-founder-limit . "Vain ensimmäiselle 100 jäsenelle")
  (:subscribe-manage . "Hallitse tilausta")
  (:subscribe-activated . "Tilaus aktivoitu!")
  (:subscribe-thank-you . "Tilauksesi on aktiivinen. Täällä voit hallita laskutusta ja ostaa lisää käännöksiä.")

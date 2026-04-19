@@ -307,7 +307,7 @@
  (:subscribe-annual-desc . "Säästa €20 — kaks kuud tasuta!")
  (:subscribe-founder-lock . "Hind jääb samaks, kuni sinu tellimus püsib aktiivne.")
  (:subscribe-founder-badge . "Piiratud pakkumine")
- (:subscribe-founder-spots-left . "Alles on vaid ~A kohta 100-st")
+ (:subscribe-founder-limit . "Ainult esimesele 100 liikmele")
  (:subscribe-manage . "Halda tellimust")
  (:subscribe-activated . "Tellimus aktiveeritud!")
  (:subscribe-thank-you . "Sinu tellimus on aktiivne. Siin saad hallata arveldust ja osta juurde tõlkeid.")

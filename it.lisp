@@ -308,7 +308,7 @@
  (:subscribe-annual-desc . "Risparmia €20 — due mesi gratis!")
  (:subscribe-founder-lock . "Il prezzo resta bloccato finché il tuo abbonamento rimane attivo.")
  (:subscribe-founder-badge . "Offerta limitata")
- (:subscribe-founder-spots-left . "Restano solo ~A posti su 100")
+ (:subscribe-founder-limit . "Riservato ai primi 100 membri")
  (:subscribe-manage . "Gestisci abbonamento")
  (:subscribe-activated . "Abbonamento attivato!")
  (:subscribe-thank-you . "Il tuo abbonamento è attivo. Qui puoi gestire la fatturazione e acquistare più traduzioni.")

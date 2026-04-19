@@ -307,7 +307,7 @@
  (:subscribe-annual-desc . "Ušetřete 20 € - dva měsíce zdarma!")
  (:subscribe-founder-lock . "Cena zůstane stejná, dokud bude vaše předplatné aktivní.")
  (:subscribe-founder-badge . "Omezená nabídka")
- (:subscribe-founder-spots-left . "Zbývá už jen ~A ze 100 míst")
+ (:subscribe-founder-limit . "Omezeno na prvních 100 členů")
  (:subscribe-manage . "Správa předplatného")
  (:subscribe-activated . "Předplatné aktivováno!")
  (:subscribe-thank-you . "Předplatné je aktivní. Tady můžete spravovat platby a dokoupit další překlady.")

@@ -308,7 +308,7 @@
  (:subscribe-annual-desc . "Spar €20 — to måneder gratis!")
  (:subscribe-founder-lock . "Prisen er låst så lenge abonnementet ditt forblir aktivt.")
  (:subscribe-founder-badge . "Begrenset tilbud")
- (:subscribe-founder-spots-left . "Bare ~A av 100 plasser igjen")
+ (:subscribe-founder-limit . "Begrenset til de første 100 medlemmene")
  (:subscribe-manage . "Administrer abonnement")
  (:subscribe-activated . "Abonnement aktivert!")
  (:subscribe-thank-you . "Abonnementet ditt er aktivt. Her kan du administrere fakturering og kjøpe flere oversettelser.")

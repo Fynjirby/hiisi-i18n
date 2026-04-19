@@ -300,7 +300,7 @@
  (:subscribe-annual-desc . "Spara €20 — två månader gratis!")
  (:subscribe-founder-lock . "Priset är låst så länge din prenumeration förblir aktiv.")
  (:subscribe-founder-badge . "Begränsat erbjudande")
- (:subscribe-founder-spots-left . "Bara ~A av 100 platser kvar")
+ (:subscribe-founder-limit . "Begränsat till de första 100 medlemmarna")
  (:subscribe-manage . "Hantera prenumeration")
  (:subscribe-choose-plan . "Välj din plan")
  (:subscribe-start-today . "Börja lära dig idag")

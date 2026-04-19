@@ -301,7 +301,7 @@
  (:subscribe-annual-desc . "Сэкономьте €20 — два месяца бесплатно!")
  (:subscribe-founder-lock . "Цена сохраняется, пока ваша подписка остаётся активной.")
  (:subscribe-founder-badge . "Ограниченное предложение")
- (:subscribe-founder-spots-left . "Осталось только ~A из 100 мест")
+ (:subscribe-founder-limit . "Только для первых 100 участников")
  (:subscribe-manage . "Управление подпиской")
  (:subscribe-choose-plan . "Выберите тариф")
  (:subscribe-start-today . "Начните сегодня")
