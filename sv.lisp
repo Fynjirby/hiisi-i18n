@@ -179,7 +179,7 @@
  (:translate-add-to-deck . "Lägg till i kortlek")
  (:translate-bookmark . "Spara")
  (:translate-bookmarked . "Sparat")
- (:translate-retry . "Försök igen")
+ (:translate-retry . "Generera igen")
  (:translate-like-tooltip . "Bra översättning")
  (:translate-dislike-tooltip . "Dålig översättning - begär en ny")
  (:translate-dislike-confirm . "Detta genererar en ny översättning. Fortsätta?")

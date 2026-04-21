@@ -180,7 +180,7 @@
  (:translate-add-to-deck . "Добавить в колоду")
  (:translate-bookmark . "Сохранить")
  (:translate-bookmarked . "Сохранено")
- (:translate-retry . "Повторить")
+ (:translate-retry . "Сгенерировать заново")
  (:translate-like-tooltip . "Хороший перевод")
  (:translate-dislike-tooltip . "Плохой перевод - запросить новый")
  (:translate-dislike-confirm . "Это сгенерирует новый перевод. Продолжить?")

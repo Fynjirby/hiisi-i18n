@@ -179,7 +179,7 @@
  (:translate-add-to-deck . "Lisa kaardipakki")
  (:translate-bookmark . "Salvesta")
  (:translate-bookmarked . "Salvestatud")
- (:translate-retry . "Proovi uuesti")
+ (:translate-retry . "Genereeri uuesti")
  (:translate-like-tooltip . "Hea tõlge")
  (:translate-dislike-tooltip . "Halb tõlge - taotle uut")
  (:translate-dislike-confirm . "See genereerib uue tõlke. Jätkata?")

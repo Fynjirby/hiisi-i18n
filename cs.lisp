@@ -179,7 +179,7 @@
  (:translate-add-to-deck . "Přidat do balíčku")
  (:translate-bookmark . "Uložit")
  (:translate-bookmarked . "Uloženo")
- (:translate-retry . "Zkusit znovu")
+ (:translate-retry . "Vygenerovat znovu")
  (:translate-like-tooltip . "Dobrý překlad")
  (:translate-dislike-tooltip . "Špatný překlad - vyžádat nový")
  (:translate-dislike-confirm . "Toto vygeneruje nový překlad. Pokračovat?")

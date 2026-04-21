@@ -180,7 +180,7 @@
  (:translate-add-to-deck . "Adicionar ao baralho")
  (:translate-bookmark . "Salvar")
  (:translate-bookmarked . "Salvo")
- (:translate-retry . "Tentar novamente")
+ (:translate-retry . "Gerar novamente")
  (:translate-like-tooltip . "Boa tradução")
  (:translate-dislike-tooltip . "Má tradução - solicitar uma nova")
  (:translate-dislike-confirm . "Isso gerará uma nova tradução. Continuar?")

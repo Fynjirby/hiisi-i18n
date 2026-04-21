@@ -179,7 +179,7 @@
  (:translate-add-to-deck . "Lisää pakkaan")
  (:translate-bookmark . "Tallenna")
  (:translate-bookmarked . "Tallennettu")
- (:translate-retry . "Yritä uudelleen")
+ (:translate-retry . "Luo uudelleen")
  (:translate-like-tooltip . "Hyvä käännös")
  (:translate-dislike-tooltip . "Huono käännös - pyydä uusi")
  (:translate-dislike-confirm . "Tämä luo uuden käännöksen. Jatketaanko?")

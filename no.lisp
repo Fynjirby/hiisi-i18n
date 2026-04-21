@@ -180,7 +180,7 @@
  (:translate-add-to-deck . "Legg til i kortstokk")
  (:translate-bookmark . "Lagre")
  (:translate-bookmarked . "Lagret")
- (:translate-retry . "Prøv igjen")
+ (:translate-retry . "Generer igjen")
  (:translate-like-tooltip . "God oversettelse")
  (:translate-dislike-tooltip . "Dårlig oversettelse - be om en ny")
  (:translate-dislike-confirm . "Dette genererer en ny oversettelse. Fortsette?")

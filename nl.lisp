@@ -179,7 +179,7 @@
  (:translate-add-to-deck . "Toevoegen aan stapel")
  (:translate-bookmark . "Opslaan")
  (:translate-bookmarked . "Opgeslagen")
- (:translate-retry . "Opnieuw proberen")
+ (:translate-retry . "Opnieuw genereren")
  (:translate-like-tooltip . "Goede vertaling")
  (:translate-dislike-tooltip . "Slechte vertaling - vraag een nieuwe aan")
  (:translate-dislike-confirm . "Dit genereert een nieuwe vertaling. Doorgaan?")

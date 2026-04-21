@@ -180,7 +180,7 @@
  (:translate-add-to-deck . "Tilføj til kortbunke")
  (:translate-bookmark . "Gem")
  (:translate-bookmarked . "Gemt")
- (:translate-retry . "Prøv igen")
+ (:translate-retry . "Generer igen")
  (:translate-like-tooltip . "God oversættelse")
  (:translate-dislike-tooltip . "Dårlig oversættelse - anmod om en ny")
  (:translate-dislike-confirm . "Dette genererer en ny oversættelse. Fortsæt?")
