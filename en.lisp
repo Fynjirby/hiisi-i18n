@@ -560,7 +560,7 @@
  (:starter-decks-preview-btn . "Preview")
  (:starter-decks-card-count . "~A cards")
  (:starter-decks-no-results . "No decks match these filters.")
- (:starter-decks-concepts-title . "Planned card concepts")
+ (:starter-decks-source-cards-title . "Cards in this deck")
  (:starter-decks-sample-title . "Sample cards")
  (:starter-decks-generating . "Generating deck...")
  (:starter-decks-generating-detail . "This deck is being generated for your language triplet. Leave this page open or come back in a moment.")

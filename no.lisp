@@ -559,7 +559,7 @@
  (:starter-decks-preview-btn . "Forhåndsvis")
  (:starter-decks-card-count . "~A kort")
  (:starter-decks-no-results . "Ingen kortstokker passer disse filtrene.")
- (:starter-decks-concepts-title . "Planlagte kortkonsepter")
+ (:starter-decks-source-cards-title . "Kort i denne kortstokken")
  (:starter-decks-sample-title . "Eksempelkort")
  (:starter-decks-generating . "Kortstokken genereres...")
  (:starter-decks-generating-detail . "Denne kortstokken genereres nå for språktrippelen din. La siden stå åpen eller kom tilbake om litt.")

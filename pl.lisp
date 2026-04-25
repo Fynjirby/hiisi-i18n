@@ -559,7 +559,7 @@
  (:starter-decks-preview-btn . "Podgląd")
  (:starter-decks-card-count . "~A kart")
  (:starter-decks-no-results . "Żadne talie nie pasują do tych filtrów.")
- (:starter-decks-concepts-title . "Planowane zagadnienia kart")
+ (:starter-decks-source-cards-title . "Karty w tej talii")
  (:starter-decks-sample-title . "Karty przykładowe")
  (:starter-decks-generating . "Tworzenie talii...")
  (:starter-decks-generating-detail . "Ta talia jest właśnie tworzona dla wybranej trójki językowej. Zostaw tę stronę otwartą albo wróć za chwilę.")

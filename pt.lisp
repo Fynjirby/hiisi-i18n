@@ -559,7 +559,7 @@
  (:starter-decks-preview-btn . "Pré-visualizar")
  (:starter-decks-card-count . "~A cartões")
  (:starter-decks-no-results . "Nenhum baralho corresponde a estes filtros.")
- (:starter-decks-concepts-title . "Conceitos de cartões planeados")
+ (:starter-decks-source-cards-title . "Cartões neste baralho")
  (:starter-decks-sample-title . "Cartões de exemplo")
  (:starter-decks-generating . "A gerar baralho...")
  (:starter-decks-generating-detail . "Este baralho está a ser gerado para o seu triplo linguístico. Deixe esta página aberta ou volte dentro de instantes.")

@@ -559,7 +559,7 @@
  (:starter-decks-preview-btn . "Vorschau")
  (:starter-decks-card-count . "~A Karten")
  (:starter-decks-no-results . "Keine Decks entsprechen diesen Filtern.")
- (:starter-decks-concepts-title . "Geplante Kartenkonzepte")
+ (:starter-decks-source-cards-title . "Karten in diesem Deck")
  (:starter-decks-sample-title . "Beispielkarten")
  (:starter-decks-generating . "Deck wird erstellt...")
  (:starter-decks-generating-detail . "Dieses Deck wird gerade für dein Sprachtripel erstellt. Lass diese Seite geöffnet oder komm gleich wieder.")

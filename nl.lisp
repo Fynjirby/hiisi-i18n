@@ -558,7 +558,7 @@
  (:starter-decks-preview-btn . "Bekijken")
  (:starter-decks-card-count . "~A kaarten")
  (:starter-decks-no-results . "Geen decks komen overeen met deze filters.")
- (:starter-decks-concepts-title . "Geplande kaartconcepten")
+ (:starter-decks-source-cards-title . "Kaarten in deze set")
  (:starter-decks-sample-title . "Voorbeeldkaarten")
  (:starter-decks-generating . "Deck wordt gegenereerd...")
  (:starter-decks-generating-detail . "Dit deck wordt nu voor jouw taaltriplet gegenereerd. Laat deze pagina open of kom zo terug.")

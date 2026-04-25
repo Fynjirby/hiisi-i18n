@@ -558,7 +558,7 @@
  (:starter-decks-preview-btn . "Náhled")
  (:starter-decks-card-count . "~A karet")
  (:starter-decks-no-results . "Žádné balíčky neodpovídají těmto filtrům.")
- (:starter-decks-concepts-title . "Plánované koncepty karet")
+ (:starter-decks-source-cards-title . "Karty v tomto balíčku")
  (:starter-decks-sample-title . "Ukázkové karty")
  (:starter-decks-generating . "Balíček se vytváří...")
  (:starter-decks-generating-detail . "Tento balíček se právě vytváří pro vaši jazykovou trojici. Nechte tuto stránku otevřenou nebo se za chvíli vraťte.")

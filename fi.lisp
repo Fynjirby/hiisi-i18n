@@ -558,7 +558,7 @@
  (:starter-decks-preview-btn . "Esikatsele")
  (:starter-decks-card-count . "~A korttia")
  (:starter-decks-no-results . "Yksikään pakka ei vastaa näitä suodattimia.")
- (:starter-decks-concepts-title . "Suunnitellut korttiaiheet")
+ (:starter-decks-source-cards-title . "Tämän pakan kortit")
  (:starter-decks-sample-title . "Esimerkkikortit")
  (:starter-decks-generating . "Pakkaa luodaan...")
  (:starter-decks-generating-detail . "Tätä pakkaa luodaan parhaillaan valitulle kielikolmikollesi. Pidä tämä sivu auki tai palaa hetken kuluttua.")

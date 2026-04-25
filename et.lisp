@@ -558,7 +558,7 @@
  (:starter-decks-preview-btn . "Eelvaade")
  (:starter-decks-card-count . "~A kaarti")
  (:starter-decks-no-results . "Ükski pakk ei vasta nendele filtritele.")
- (:starter-decks-concepts-title . "Planeeritud kaarditeemad")
+ (:starter-decks-source-cards-title . "Kaardid selles pakis")
  (:starter-decks-sample-title . "Näidiskaardid")
  (:starter-decks-generating . "Pakki genereeritakse...")
  (:starter-decks-generating-detail . "Seda pakki genereeritakse praegu sinu keelekolmiku jaoks. Hoia see leht avatuna või tule hetke pärast tagasi.")

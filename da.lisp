@@ -559,7 +559,7 @@
  (:starter-decks-preview-btn . "Forhåndsvis")
  (:starter-decks-card-count . "~A kort")
  (:starter-decks-no-results . "Ingen kortbunker matcher disse filtre.")
- (:starter-decks-concepts-title . "Planlagte kortkoncepter")
+ (:starter-decks-source-cards-title . "Kort i dette kortsæt")
  (:starter-decks-sample-title . "Eksempelkort")
  (:starter-decks-generating . "Genererer kortbunke...")
  (:starter-decks-generating-detail . "Denne kortbunke bliver nu genereret til din sprogtrio. Lad siden være åben, eller kom tilbage om lidt.")

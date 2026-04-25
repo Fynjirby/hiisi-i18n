@@ -558,7 +558,7 @@
  (:starter-decks-preview-btn . "Förhandsgranska")
  (:starter-decks-card-count . "~A kort")
  (:starter-decks-no-results . "Inga kortlekar matchar dessa filter.")
- (:starter-decks-concepts-title . "Planerade kortkoncept")
+ (:starter-decks-source-cards-title . "Kort i den här leken")
  (:starter-decks-sample-title . "Exempelkort")
  (:starter-decks-generating . "Skapar kortlek...")
  (:starter-decks-generating-detail . "Den här kortleken skapas just nu för din språktrippel. Låt sidan vara öppen eller kom tillbaka om en stund.")

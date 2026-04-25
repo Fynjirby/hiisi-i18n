@@ -559,7 +559,7 @@
  (:starter-decks-preview-btn . "Предпросмотр")
  (:starter-decks-card-count . "~A карточек")
  (:starter-decks-no-results . "Нет колод, подходящих под эти фильтры.")
- (:starter-decks-concepts-title . "Запланированные темы карточек")
+ (:starter-decks-source-cards-title . "Карточки в этой колоде")
  (:starter-decks-sample-title . "Примеры карточек")
  (:starter-decks-generating . "Колода создаётся...")
  (:starter-decks-generating-detail . "Эта колода сейчас создаётся для вашей языковой тройки. Оставьте страницу открытой или вернитесь через минуту.")

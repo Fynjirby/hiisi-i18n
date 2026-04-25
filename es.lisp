@@ -559,7 +559,7 @@
  (:starter-decks-preview-btn . "Vista previa")
  (:starter-decks-card-count . "~A tarjetas")
  (:starter-decks-no-results . "Ningún mazo coincide con estos filtros.")
- (:starter-decks-concepts-title . "Conceptos de tarjetas previstos")
+ (:starter-decks-source-cards-title . "Tarjetas de este mazo")
  (:starter-decks-sample-title . "Tarjetas de muestra")
  (:starter-decks-generating . "Generando mazo...")
  (:starter-decks-generating-detail . "Este mazo se está generando para tu trío de idiomas. Deja esta página abierta o vuelve dentro de un momento.")
