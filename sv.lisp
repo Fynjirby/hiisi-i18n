@@ -234,6 +234,8 @@
  (:review-good . "Ja")
  (:review-easy . "Lätt")
  (:review-progress . "Kort ~a av ~a")
+ (:review-correct-count . "Rätt")
+ (:review-wrong-count . "Fel")
  (:landing-mockup-forgot-detail . "1:a person singularis preteritum av \"olvidar\" (att glömma)")
  (:landing-mockup-keys-detail . "Possessiv \"mis\" med feminint pluralsubstantiv \"llaves\" (nycklar)")
  (:landing-mockup-home-detail . "Idiomatiskt \"en casa\" (hemma) -- ingen artikel behövs")

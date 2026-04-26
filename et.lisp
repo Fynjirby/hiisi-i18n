@@ -234,6 +234,8 @@
  (:review-good . "Jah")
  (:review-easy . "Kergesti")
  (:review-progress . "Kaart ~a/~a")
+ (:review-correct-count . "Õige")
+ (:review-wrong-count . "Valesti")
  (:landing-mockup-forgot-detail . "Tegusõna \"olvidar\" (unustama) ainsuse 1. pöörde preteeritum")
  (:landing-mockup-keys-detail . "Omastajaline \"mis\" naissoo mitmuse nimisõnaga \"llaves\" (võtmed)")
  (:landing-mockup-home-detail . "Idiomaatiline \"en casa\" (kodus) -- artiklit pole vaja")

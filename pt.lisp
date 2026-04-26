@@ -235,6 +235,8 @@
  (:review-good . "Sim")
  (:review-easy . "Facilmente")
  (:review-progress . "Cartão ~a de ~a")
+ (:review-correct-count . "Corretas")
+ (:review-wrong-count . "Erradas")
  (:landing-mockup-forgot-detail . "1.ª pessoa do singular do pretérito de \"olvidar\" (esquecer)")
  (:landing-mockup-keys-detail . "Possessivo \"mis\" com substantivo feminino plural \"llaves\" (chaves)")
  (:landing-mockup-home-detail . "Expressão idiomática \"en casa\" (em casa) -- sem artigo")

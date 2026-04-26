@@ -235,6 +235,8 @@
  (:review-good . "Oui")
  (:review-easy . "Facilement")
  (:review-progress . "Carte ~a sur ~a")
+ (:review-correct-count . "Correctes")
+ (:review-wrong-count . "Incorrectes")
  (:landing-mockup-forgot-detail . "1re personne du singulier au prétérit de \"olvidar\" (oublier)")
  (:landing-mockup-keys-detail . "Possessif \"mis\" avec le nom féminin pluriel \"llaves\" (clés)")
  (:landing-mockup-home-detail . "Expression idiomatique \"en casa\" (à la maison), sans article")

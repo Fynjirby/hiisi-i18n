@@ -235,6 +235,8 @@
  (:review-good . "Tak")
  (:review-easy . "Łatwo")
  (:review-progress . "Fiszka ~a z ~a")
+ (:review-correct-count . "Poprawne")
+ (:review-wrong-count . "Błędne")
  (:landing-mockup-forgot-detail . "1. osoba liczby pojedynczej czasu przeszłego \"olvidar\" (zapomnieć)")
  (:landing-mockup-keys-detail . "Zaimek dzierżawczy \"mis\" z rzeczownikiem żeńskim w liczbie mnogiej \"llaves\" (klucze)")
  (:landing-mockup-home-detail . "Idiomatyczne \"en casa\" (w domu) -- bez rodzajnika")

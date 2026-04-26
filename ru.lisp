@@ -235,6 +235,8 @@
  (:review-good . "Да")
  (:review-easy . "Легко")
  (:review-progress . "Карточка ~a из ~a")
+ (:review-correct-count . "Правильно")
+ (:review-wrong-count . "Неправильно")
  (:landing-mockup-forgot-detail . "1-е лицо единственного числа претерита глагола \"olvidar\" (забыть)")
  (:landing-mockup-keys-detail . "Притяжательное \"mis\" с существительным женского рода множественного числа \"llaves\" (ключи)")
  (:landing-mockup-home-detail . "Идиоматическое \"en casa\" (дома) -- артикль не нужен")

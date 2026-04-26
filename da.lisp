@@ -235,6 +235,8 @@
  (:review-good . "Ja")
  (:review-easy . "Nemt")
  (:review-progress . "Kort ~a af ~a")
+ (:review-correct-count . "Rigtigt")
+ (:review-wrong-count . "Forkert")
  (:landing-mockup-forgot-detail . "1. person ental præteritum af \"olvidar\" (at glemme)")
  (:landing-mockup-keys-detail . "Ejestedord \"mis\" med feminint flertalssubstantiv \"llaves\" (nøgler)")
  (:landing-mockup-home-detail . "Idiomatisk \"en casa\" (hjemme) -- ingen artikel nødvendig")

@@ -235,6 +235,8 @@
  (:review-good . "Ja")
  (:review-easy . "Leicht")
  (:review-progress . "Karte ~a von ~a")
+ (:review-correct-count . "Richtig")
+ (:review-wrong-count . "Falsch")
  (:landing-mockup-forgot-detail . "1. Person Singular Präteritum von \"olvidar\" (vergessen)")
  (:landing-mockup-keys-detail . "Possessiv \"mis\" mit femininem Pluralsubstantiv \"llaves\" (Schlüssel)")
  (:landing-mockup-home-detail . "Idiomatisches \"en casa\" (zu Hause) -- kein Artikel nötig")

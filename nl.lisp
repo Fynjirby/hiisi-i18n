@@ -234,6 +234,8 @@
  (:review-good . "Ja")
  (:review-easy . "Gemakkelijk")
  (:review-progress . "Kaart ~a van ~a")
+ (:review-correct-count . "Goed")
+ (:review-wrong-count . "Fout")
  (:landing-mockup-forgot-detail . "1e persoon enkelvoud verleden tijd van \"olvidar\" (vergeten)")
  (:landing-mockup-keys-detail . "Bezittelijk \"mis\" met vrouwelijk meervoudig zelfstandig naamwoord \"llaves\" (sleutels)")
  (:landing-mockup-home-detail . "Idiomatisch \"en casa\" (thuis) -- geen lidwoord nodig")

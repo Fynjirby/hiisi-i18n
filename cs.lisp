@@ -234,6 +234,8 @@
  (:review-good . "Ano")
  (:review-easy . "Snadno")
  (:review-progress . "Kartička ~a z ~a")
+ (:review-correct-count . "Správně")
+ (:review-wrong-count . "Špatně")
  (:landing-mockup-forgot-detail . "1. osoba jednotného čísla préterita slovesa \"olvidar\" (zapomenout)")
  (:landing-mockup-keys-detail . "Přivlastňovací \"mis\" se ženským podstatným jménem v množném čísle \"llaves\" (klíče)")
  (:landing-mockup-home-detail . "Idiomatické \"en casa\" (doma) -- bez členu")

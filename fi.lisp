@@ -234,6 +234,8 @@
  (:review-good . "Kyllä")
  (:review-easy . "Helposti")
  (:review-progress . "Kortti ~a/~a")
+ (:review-correct-count . "Oikein")
+ (:review-wrong-count . "Väärin")
  (:landing-mockup-forgot-detail . "Verbin \"olvidar\" (unohtaa) yksikön 1. persoonan preteriti")
  (:landing-mockup-keys-detail . "Possessiivi \"mis\" feminiinisen monikkosubstantiivin \"llaves\" (avaimet) kanssa")
  (:landing-mockup-home-detail . "Idiomaattinen \"en casa\" (kotona) -- artikkelia ei tarvita")
