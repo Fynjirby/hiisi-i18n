@@ -346,7 +346,7 @@
  (:subscribe-copyright . "Lambda Symbolics OÜ © 2026.")
 (:subscribe-checkout-unavailable . "Pokladna je dočasně nedostupná. Zkuste to prosím znovu.")
 (:subscribe-portal-unavailable . "Správa předplatného je dočasně nedostupná. Zkuste to prosím znovu.")
-(:subscribe-founder-sold-out . "Nabídka pro zakládající členy je vyprodaná")
+(:subscribe-founder-sold-out . "Nabídka pro zakládající členy je vyprodaná.")
 (:subscribe-founder-unavailable . "Nabídka pro zakládající členy teď není dostupná.")
 
  ;; Errors and status
