@@ -640,7 +640,7 @@
  (:landing-step-2-desc . "Jedním kliknutím se z překladu stane kartička s původní větou zachovanou jako kontext.")
  (:landing-step-3-title . "Opakujte ve správný okamžik")
  (:landing-step-3-desc . "Rozložené opakování pomocí SM-2, stejného algoritmu jako v Anki. Kartičky, se kterými se trápíte, se vrací dříve.")
- (:landing-feature-grammar-title . "Každé slovo vysvětlené, ve vašem jazyce")
+ (:landing-feature-grammar-title . "Každé slovo vysvětlené ve vašem jazyce")
  (:landing-feature-grammar-desc . "Překlady obsahují pád, rod, vid a způsob rozepsané slovo po slovu. Finský partitiv, česká životnost, polský vid, německá dativní stažení, vše popsané a propojené s gramatickým průvodcem.")
  (:landing-feature-srs-title . "Návyk rozloženého opakování, automatizovaný")
  (:landing-feature-srs-desc . "Algoritmus rozloženého opakování SM-2 se přizpůsobí vašemu výkonu. Kartičky, se kterými máte potíže, se zobrazí častěji. Kartičky, které znáte, ustoupí.")
