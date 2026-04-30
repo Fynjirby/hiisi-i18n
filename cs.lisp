@@ -590,7 +590,7 @@
  (:library-submit-rejected-detail . "Toto odeslání bylo zamítnuto. Upravte balíček a odešlete ho znovu.")
  (:library-error-empty . "Před odesláním tohoto balíčku do knihovny přidejte alespoň jednu kartu.")
  (:library-error-missing-triplet . "Každá karta v odeslaném balíčku do knihovny musí mít úplnou jazykovou trojici.")
- (:library-error-mixed-triplet . "Všechny karty v odeslaném balíčku do Knihovny musí sdílet stejnou jazykovou trojici.")
+ (:library-error-mixed-triplet . "Všechny karty v odeslaném balíčku do knihovny musí sdílet stejnou jazykovou trojici.")
  (:starter-deck-topic-greetings-title . "Pozdravy a představování")
  (:starter-deck-topic-greetings-description . "Pozdravy, jména, zdvořilé základy a fráze pro první setkání.")
  (:starter-deck-topic-travel-title . "Základní cestování")
