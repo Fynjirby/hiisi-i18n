@@ -579,7 +579,7 @@
  (:starter-decks-login-detail . "Pro import tohoto balíčku do své sbírky se přihlaste.")
  (:starter-decks-subscribe-btn . "Zobrazit tarify")
  (:starter-decks-subscribe-detail . "Balíčky z knihovny jsou dostupné s aktivním předplatným nebo zkušební verzí.")
- (:library-submit-title . "Odeslat do Knihovny")
+ (:library-submit-title . "Odeslat do knihovny")
  (:library-submit-intro . "Odešlete tento balíček do Knihovny k administrátorskému schválení před zveřejněním.")
  (:library-submit-btn . "Odeslat balíček")
  (:library-submit-approved . "Schváleno pro Knihovnu")
