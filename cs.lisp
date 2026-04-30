@@ -680,7 +680,7 @@
   ;; Newsletter
   (:newsletter-email-label . "E-mailová adresa")
   (:newsletter-developer-label . "Jsem vývojář")
-  (:newsletter-developer-hint . "posílat technické novinky")
+  (:newsletter-developer-hint . "Posílat technické novinky")
   (:landing-newsletter-title . "Získejte novinky o Hiisi.")
   (:landing-newsletter-body . "Přihlaste se k newsletteru pro produktové novinky, podporu dalších jazyků, startovací balíčky a občasné nabídky pro zakládající členy.")
   (:landing-newsletter-fine-print . "Žádný spam. Jen produktové novinky.")
