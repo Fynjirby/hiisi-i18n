@@ -337,7 +337,7 @@
  (:subscribe-access-features . "Vyberte si plán pro plný přístup a správu plateb na jednom místě.")
  (:subscribe-view-plans . "Zobrazit plány")
  (:subscribe-faq-title . "Často kladené otázky")
- (:subscribe-faq-trial-q . "Co se stane po zkušební verzi zdarma?")
+ (:subscribe-faq-trial-q . "Co se stane po zkušební lhůtě zdarma?")
  (:subscribe-faq-trial-a . "Po 7denní zkušební verzi zdarma vám bude účtován vybraný plán. Můžete kdykoliv zrušit před koncem zkušební doby.")
  (:subscribe-faq-cancel-q . "Mohu kdykoliv zrušit?")
  (:subscribe-faq-cancel-a . "Ano! Předplatné můžete zrušit kdykoliv. Přístup si zachováte do konce fakturačního období.")
