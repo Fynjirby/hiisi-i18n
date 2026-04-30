@@ -164,7 +164,7 @@
  (:email-plan-nudge-unsubscribe-invalid-body . "Tento odhlašovací odkaz chybí, vypršel nebo už není platný.")
  (:email-invite-subject . "Pozvánka do Hiisi")
  (:email-invite-title . "Byli jste pozváni do Hiisi")
- (:email-invite-intro . "Byli jste pozváni používat Hiisi zdarma, jako tester, vážený přítel, nebo obojí.")
+ (:email-invite-intro . "Byli jste pozváni používat Hiisi zdarma, jako tester, vážený přítel nebo obojí.")
  (:email-invite-details . "Pomocí tlačítka níže si vytvořte účet a začněte používat překlady a kartičky.")
  (:email-invite-button . "Vytvořit účet")
  (:email-invite-issue-reporting . "Když se něco pokazí nebo nebude fungovat správně, dole na každé stránce najdete tlačítko pro nahlášení problému.")
