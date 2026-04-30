@@ -150,7 +150,7 @@
  (:email-plan-nudge-subject . "Vaše překlady čekají")
  (:email-plan-nudge-title . "Vaše překlady čekají")
  (:email-plan-nudge-intro . "Zaregistrovali jste se do Hiisi, ale ještě jste si nevybrali tarif.")
- (:email-plan-nudge-benefits-intro . "Se předplatným získáte:")
+ (:email-plan-nudge-benefits-intro . "S předplatným získáte:")
  (:email-plan-nudge-benefit-translations . "600 překladů měsíčně s gramatickými rozbory")
  (:email-plan-nudge-benefit-flashcards . "Neomezené kartičky s rozloženým opakováním")
  (:email-plan-nudge-benefit-decks . "Vlastní balíčky, které můžete organizovat a sdílet")
