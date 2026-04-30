@@ -182,7 +182,7 @@
  (:translate-from . "Původní jazyk:")
  (:translate-to . "Jazyk překladu:")
  (:translate-submit . "Přeložit")
- (:translate-auto-detect . "Jakýkoliv (Auto-detekce)")
+ (:translate-auto-detect . "Jakýkoliv (Autodetekce)")
  (:translate-empty-state . "Přeložte slovo nebo frázi a tady uvidíte výsledek, gramatický rozbor i studijní akce.")
  (:translate-select-deck-placeholder . "Vyberte balíček (volitelné)")
  (:translate-new-deck . "Nový balíček")
