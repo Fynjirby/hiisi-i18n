@@ -136,6 +136,8 @@
  (:email-reminder-keep-going . "Viimasest ülevaatamisest on mõnda aega möödas. Hoia tempot.")
  (:email-reminder-button . "Alusta ülevaatamist")
  (:email-reminder-settings . "Meeldetuletuste seaded")
+ (:email-reminder-preview-title . "Sind ootavad kaardid")
+ (:email-reminder-more-due-today . "kaarti veel täna üle vaadata")
  (:email-trial-subject . "Kuidas su Hiisi prooviperiood läheb?")
  (:email-trial-expiring . "Sinu tasuta Hiisi prooviperiood lõpeb homme.")
  (:email-trial-feedback . "Kas Hiisi meeldib sulle? Kirjuta meile, mis sind kõige rohkem aitab.")

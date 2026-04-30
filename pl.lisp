@@ -137,6 +137,8 @@
  (:email-reminder-keep-going . "Minęło trochę czasu od Twojej ostatniej powtórki. Utrzymaj tempo.")
  (:email-reminder-button . "Rozpocznij powtórkę")
  (:email-reminder-settings . "Zarządzaj przypomnieniami")
+ (:email-reminder-preview-title . "Fiszki, które na Ciebie czekają")
+ (:email-reminder-more-due-today . "więcej fiszek do powtórki dzisiaj")
  (:email-trial-subject . "Jak idzie Twój okres próbny w Hiisi?")
  (:email-trial-expiring . "Twój bezpłatny okres próbny Hiisi kończy się jutro.")
  (:email-trial-feedback . "Podoba Ci się Hiisi? Powiedz nam, co pomaga Ci najbardziej.")

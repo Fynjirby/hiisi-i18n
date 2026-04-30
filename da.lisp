@@ -137,6 +137,8 @@
  (:email-reminder-keep-going . "Det er et stykke tid siden din seneste gennemgang. Hold rytmen.")
  (:email-reminder-button . "Start gennemgang")
  (:email-reminder-settings . "Administrer påmindelser")
+ (:email-reminder-preview-title . "Kort der venter på dig")
+ (:email-reminder-more-due-today . "flere kort til gennemgang i dag")
  (:email-trial-subject . "Hvordan går din Hiisi-prøveperiode?")
  (:email-trial-expiring . "Din gratis Hiisi-prøveperiode slutter i morgen.")
  (:email-trial-feedback . "Nyder du Hiisi? Fortæl os, hvad der hjælper dig mest.")

@@ -136,6 +136,8 @@
  (:email-reminder-keep-going . "Edellisestä kerrasta on kulunut hetki. Pidä rytmi yllä.")
  (:email-reminder-button . "Aloita kertaus")
  (:email-reminder-settings . "Muistutusten asetukset")
+ (:email-reminder-preview-title . "Sinua odottavat kortit")
+ (:email-reminder-more-due-today . "muuta korttia odottaa tänään")
  (:email-trial-subject . "Miten Hiisi-kokeilusi sujuu?")
  (:email-trial-expiring . "Ilmainen Hiisi-kokeilusi päättyy huomenna.")
  (:email-trial-feedback . "Nautitko Hiisistä? Kerro meille, mikä auttaa sinua eniten.")

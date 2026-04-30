@@ -137,6 +137,8 @@
  (:email-reminder-keep-going . "Já passou algum tempo desde a tua última revisão. Mantém o ritmo.")
  (:email-reminder-button . "Começar revisão")
  (:email-reminder-settings . "Gerir lembretes")
+ (:email-reminder-preview-title . "Cartões à tua espera")
+ (:email-reminder-more-due-today . "cartões adicionais para rever hoje")
  (:email-trial-subject . "Como está a correr o teu período experimental do Hiisi?")
  (:email-trial-expiring . "O teu período experimental gratuito do Hiisi termina amanhã.")
  (:email-trial-feedback . "Estás a gostar do Hiisi? Diz-nos o que te tem ajudado mais.")

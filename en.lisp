@@ -137,6 +137,8 @@
  (:email-reminder-keep-going . "It's been a little while since your last review. Keep your momentum going.")
  (:email-reminder-button . "Start Review")
  (:email-reminder-settings . "Manage reminder settings")
+ (:email-reminder-preview-title . "Cards waiting for you")
+ (:email-reminder-more-due-today . "more cards due today")
  (:email-trial-subject . "How is your Hiisi trial going?")
  (:email-trial-expiring . "Your free Hiisi trial ends tomorrow.")
  (:email-trial-feedback . "Are you enjoying Hiisi? Tell us what has helped you most.")

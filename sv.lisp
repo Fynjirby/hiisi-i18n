@@ -136,6 +136,8 @@
  (:email-reminder-keep-going . "Det har gått ett tag sedan din senaste repetition. Håll tempot uppe.")
  (:email-reminder-button . "Starta repetition")
  (:email-reminder-settings . "Hantera påminnelser")
+ (:email-reminder-preview-title . "Kort som väntar på dig")
+ (:email-reminder-more-due-today . "fler kort att repetera idag")
  (:email-trial-subject . "Hur går din Hiisi-provperiod?")
  (:email-trial-expiring . "Din kostnadsfria Hiisi-provperiod slutar i morgon.")
  (:email-trial-feedback . "Tycker du om Hiisi? Berätta vad som har hjälpt dig mest.")

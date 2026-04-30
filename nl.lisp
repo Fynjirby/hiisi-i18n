@@ -136,6 +136,8 @@
  (:email-reminder-keep-going . "Het is alweer even geleden sinds je laatste herhaling. Houd je tempo vast.")
  (:email-reminder-button . "Start herhaling")
  (:email-reminder-settings . "Herinneringen beheren")
+ (:email-reminder-preview-title . "Kaarten die op je wachten")
+ (:email-reminder-more-due-today . "extra kaarten voor vandaag")
  (:email-trial-subject . "Hoe gaat je Hiisi-proefperiode?")
  (:email-trial-expiring . "Je gratis Hiisi-proefperiode eindigt morgen.")
  (:email-trial-feedback . "Bevalt Hiisi je? Laat ons weten wat je het meest heeft geholpen.")

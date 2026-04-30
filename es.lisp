@@ -137,6 +137,8 @@
  (:email-reminder-keep-going . "Ha pasado un tiempo desde tu último repaso. Mantén el ritmo.")
  (:email-reminder-button . "Empezar repaso")
  (:email-reminder-settings . "Gestionar recordatorios")
+ (:email-reminder-preview-title . "Tarjetas que te esperan")
+ (:email-reminder-more-due-today . "tarjetas más para repasar hoy")
  (:email-trial-subject . "¿Cómo va tu prueba de Hiisi?")
  (:email-trial-expiring . "Tu prueba gratuita de Hiisi termina mañana.")
  (:email-trial-feedback . "¿Te está gustando Hiisi? Cuéntanos qué es lo que más te ayuda.")

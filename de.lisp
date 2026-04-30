@@ -137,6 +137,8 @@
  (:email-reminder-keep-going . "Seit deiner letzten Wiederholung ist etwas Zeit vergangen. Bleib im Rhythmus.")
  (:email-reminder-button . "Wiederholung starten")
  (:email-reminder-settings . "Erinnerungen verwalten")
+ (:email-reminder-preview-title . "Karten, die auf dich warten")
+ (:email-reminder-more-due-today . "weitere Karten sind heute fällig")
  (:email-trial-subject . "Wie läuft deine Hiisi-Testphase?")
  (:email-trial-expiring . "Deine kostenlose Hiisi-Testphase endet morgen.")
  (:email-trial-feedback . "Gefällt dir Hiisi? Sag uns, was dir am meisten hilft.")

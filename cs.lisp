@@ -136,6 +136,8 @@
  (:email-reminder-keep-going . "Už je to nějaký čas od posledního opakování. Udržte si tempo.")
  (:email-reminder-button . "Začít opakování")
  (:email-reminder-settings . "Nastavení upomínek")
+ (:email-reminder-preview-title . "Kartičky, které na vás čekají")
+ (:email-reminder-more-due-today . "dalších kartiček čeká dnes")
  (:email-trial-subject . "Jak se vám daří ve zkušební době Hiisi?")
  (:email-trial-expiring . "Vaše bezplatná zkušební doba Hiisi končí zítra.")
  (:email-trial-feedback . "Baví vás Hiisi? Napište nám, co vám nejvíc pomáhá.")
