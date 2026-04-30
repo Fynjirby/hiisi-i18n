@@ -26,7 +26,7 @@
 
  ;; Landing page
  (:landing-learn-more . "Zjistit více")
- (:landing-how-it-works . "Jak to funguje?")
+ (:landing-how-it-works . "Jak to funguje")
  (:landing-start-trial . "Vyzkoušet zdarma")
  (:landing-best-value . "Nejlepší hodnota")
 
