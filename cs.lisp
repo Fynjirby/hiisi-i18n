@@ -582,7 +582,7 @@
  (:library-submit-title . "Odeslat do knihovny")
  (:library-submit-intro . "Odešlete tento balíček do knihovny k administrátorskému schválení před zveřejněním.")
  (:library-submit-btn . "Odeslat balíček")
- (:library-submit-approved . "Schváleno pro Knihovnu")
+ (:library-submit-approved . "Schváleno pro knihovnu")
  (:library-submit-approved-detail . "Tento balíček je zveřejněný v Knihovně.")
  (:library-submit-pending . "Čeká na schválení")
  (:library-submit-pending-detail . "Tento balíček byl odeslán a čeká na administrátorské schválení.")
