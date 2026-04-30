@@ -637,7 +637,7 @@
  (:landing-step-1-title . "Vložte větu")
  (:landing-step-1-desc . "Jakkoli dlouhou, v kterémkoli ze 15 jazyků. Dostanete překlad a rozbor gramatiky každého slova.")
  (:landing-step-2-title . "Uložte, co stojí za zapamatování")
- (:landing-step-2-desc . "Jedním kliknutím se z překladu stane kartička,s původní větou zachovanou jako kontext.")
+ (:landing-step-2-desc . "Jedním kliknutím se z překladu stane kartička s původní větou zachovanou jako kontext.")
  (:landing-step-3-title . "Opakujte ve správný okamžik")
  (:landing-step-3-desc . "Rozložené opakování pomocí SM-2, stejného algoritmu jako v Anki. Kartičky, se kterými se trápíte, se vrací dříve.")
  (:landing-feature-grammar-title . "Každé slovo vysvětlené, ve vašem jazyce")
