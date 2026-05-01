@@ -635,6 +635,7 @@
  (:landing-credibility-languages . "15 sprog")
  (:landing-credibility-ai . "Hvert ord forklaret")
  (:landing-credibility-srs . "Distribueret repetition indbygget")
+ (:landing-languages-title . "Sprog vi understøtter")
  (:landing-step-1-title . "Indsæt en sætning")
  (:landing-step-1-desc . "Enhver længde, på et af 15 sprog. Du får oversættelsen plus en grammatisk analyse af hvert ord.")
  (:landing-step-2-title . "Gem det, der er værd at huske")

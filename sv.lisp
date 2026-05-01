@@ -634,6 +634,7 @@
  (:landing-credibility-languages . "15 språk")
  (:landing-credibility-ai . "Varje ord förklarat")
  (:landing-credibility-srs . "Distribuerad repetition inbyggd")
+ (:landing-languages-title . "Språk vi stöder")
  (:landing-step-1-title . "Klistra in en mening")
  (:landing-step-1-desc . "Vilken längd som helst, på något av 15 språk. Du får översättningen plus en grammatikanalys av varje ord.")
  (:landing-step-2-title . "Spara det som är värt att minnas")

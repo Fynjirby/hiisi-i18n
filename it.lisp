@@ -635,6 +635,7 @@
  (:landing-credibility-languages . "15 lingue")
  (:landing-credibility-ai . "Ogni parola spiegata")
  (:landing-credibility-srs . "Ripetizione dilazionata integrata")
+ (:landing-languages-title . "Lingue supportate")
  (:landing-step-1-title . "Incolla una frase")
  (:landing-step-1-desc . "Di qualsiasi lunghezza, in una qualsiasi delle 15 lingue. Ottieni la traduzione e l'analisi grammaticale di ogni parola.")
  (:landing-step-2-title . "Salva ciò che vale la pena ricordare")

@@ -635,6 +635,7 @@
  (:landing-credibility-languages . "15 języków")
  (:landing-credibility-ai . "Każde słowo wyjaśnione")
  (:landing-credibility-srs . "Powtórki rozłożone w czasie wbudowane")
+ (:landing-languages-title . "Obsługiwane języki")
  (:landing-step-1-title . "Wklej zdanie")
  (:landing-step-1-desc . "Dowolnej długości, w dowolnym z 15 języków. Otrzymasz tłumaczenie wraz z analizą gramatyczną każdego słowa.")
  (:landing-step-2-title . "Zapisz to, co warto zapamiętać")

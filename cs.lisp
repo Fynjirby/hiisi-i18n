@@ -634,6 +634,7 @@
  (:landing-credibility-languages . "15 jazyků")
  (:landing-credibility-ai . "Každé slovo vysvětlené")
  (:landing-credibility-srs . "Zabudované rozložené opakování")
+ (:landing-languages-title . "Jazyky, které podporujeme")
  (:landing-step-1-title . "Vložte větu")
  (:landing-step-1-desc . "Jakkoli dlouhou, v kterémkoli ze 15 jazyků. Dostanete překlad a rozbor gramatiky každého slova.")
  (:landing-step-2-title . "Uložte, co stojí za zapamatování")

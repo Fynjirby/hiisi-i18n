@@ -636,6 +636,7 @@
  (:landing-credibility-languages . "15 languages")
  (:landing-credibility-ai . "Every word explained")
  (:landing-credibility-srs . "Spaced repetition built in")
+ (:landing-languages-title . "Languages we support")
  (:landing-step-1-title . "Paste a sentence")
  (:landing-step-1-desc . "Any length, any of 15 languages. Get the translation plus a breakdown of every word's grammar.")
  (:landing-step-2-title . "Save what's worth keeping")

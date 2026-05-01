@@ -634,6 +634,7 @@
  (:landing-credibility-languages . "15 keelt")
  (:landing-credibility-ai . "Iga sõna seletatud")
  (:landing-credibility-srs . "Hajutatud kordamine sisse ehitatud")
+ (:landing-languages-title . "Toetatavad keeled")
  (:landing-step-1-title . "Kleebi lause")
  (:landing-step-1-desc . "Mis tahes pikkuses, ühes 15 keelest. Saad tõlke ja iga sõna grammatilise analüüsi.")
  (:landing-step-2-title . "Salvesta, mida tasub meeles pidada")

@@ -634,6 +634,7 @@
  (:landing-credibility-languages . "15 kieltä")
  (:landing-credibility-ai . "Jokainen sana selitettynä")
  (:landing-credibility-srs . "Jaksotettu kertaus sisäänrakennettuna")
+ (:landing-languages-title . "Tukemamme kielet")
  (:landing-step-1-title . "Liitä lause")
  (:landing-step-1-desc . "Minkä mittaista tahansa, millä tahansa viidestätoista kielestä. Saat käännöksen ja jokaisen sanan kieliopin erittelyn.")
  (:landing-step-2-title . "Tallenna se, mikä kannattaa muistaa")

@@ -636,6 +636,7 @@
  (:landing-credibility-languages . "15 langues")
  (:landing-credibility-ai . "Chaque mot expliqué")
  (:landing-credibility-srs . "Répétition espacée intégrée")
+ (:landing-languages-title . "Langues que nous prenons en charge")
  (:landing-step-1-title . "Collez une phrase")
  (:landing-step-1-desc . "N'importe quelle longueur, dans l'une des 15 langues. Obtenez la traduction avec l'analyse grammaticale de chaque mot.")
  (:landing-step-2-title . "Enregistrez ce qui vaut la peine")

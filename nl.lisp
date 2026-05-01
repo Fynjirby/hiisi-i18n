@@ -634,6 +634,7 @@
  (:landing-credibility-languages . "15 talen")
  (:landing-credibility-ai . "Elk woord uitgelegd")
  (:landing-credibility-srs . "Gespreide herhaling ingebouwd")
+ (:landing-languages-title . "Ondersteunde talen")
  (:landing-step-1-title . "Plak een zin")
  (:landing-step-1-desc . "Elke lengte, in een van de 15 talen. Je krijgt de vertaling plus een grammaticale analyse van elk woord.")
  (:landing-step-2-title . "Bewaar wat de moeite waard is")

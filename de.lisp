@@ -635,6 +635,7 @@
  (:landing-credibility-languages . "15 Sprachen")
  (:landing-credibility-ai . "Jedes Wort erklärt")
  (:landing-credibility-srs . "Verteiltes Wiederholen eingebaut")
+ (:landing-languages-title . "Sprachen, die wir unterstützen")
  (:landing-step-1-title . "Fügen Sie einen Satz ein")
  (:landing-step-1-desc . "Beliebig lang, in einer von 15 Sprachen. Sie erhalten die Übersetzung und die Grammatik jedes Wortes aufgeschlüsselt.")
  (:landing-step-2-title . "Speichern, was es wert ist, zu behalten")

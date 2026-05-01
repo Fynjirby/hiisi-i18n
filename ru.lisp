@@ -635,6 +635,7 @@
  (:landing-credibility-languages . "15 языков")
  (:landing-credibility-ai . "Каждое слово объяснено")
  (:landing-credibility-srs . "Интервальное повторение встроено")
+ (:landing-languages-title . "Поддерживаемые языки")
  (:landing-step-1-title . "Вставьте предложение")
  (:landing-step-1-desc . "Любой длины, на любом из 15 языков. Вы получите перевод и грамматический разбор каждого слова.")
  (:landing-step-2-title . "Сохраните то, что стоит запомнить")
