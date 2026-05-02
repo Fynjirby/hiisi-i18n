@@ -631,7 +631,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Cada palabra explicada. Cada repaso programado. Quince idiomas.")
  (:landing-hero-subheadline . "Hiisi es el traductor que te enseña gramática mientras lees, y la aplicación de tarjetas que se construye a partir de lo que realmente traduces.")
- (:landing-hero-trust-line . "7 días gratis. Sin tarjeta.")
+ (:landing-hero-trust-line . "7 días gratis. Se requiere tarjeta.")
  (:landing-credibility-languages . "15 idiomas")
  (:landing-credibility-ai . "Cada palabra explicada")
  (:landing-credibility-srs . "Repetición espaciada integrada")

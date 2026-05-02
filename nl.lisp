@@ -630,7 +630,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Elk woord uitgelegd. Elke herhaling gepland. Vijftien talen.")
  (:landing-hero-subheadline . "Hiisi is de vertaler die je grammatica leert tijdens het lezen, en de flashcard-app die zichzelf opbouwt uit wat je daadwerkelijk vertaalt.")
- (:landing-hero-trust-line . "7 dagen gratis. Geen kaart.")
+ (:landing-hero-trust-line . "7 dagen gratis. Kaart vereist.")
  (:landing-credibility-languages . "15 talen")
  (:landing-credibility-ai . "Elk woord uitgelegd")
  (:landing-credibility-srs . "Gespreide herhaling ingebouwd")

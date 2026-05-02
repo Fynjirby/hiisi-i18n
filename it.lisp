@@ -631,7 +631,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Ogni parola spiegata. Ogni ripasso programmato. Quindici lingue.")
  (:landing-hero-subheadline . "Hiisi è il traduttore che ti insegna la grammatica mentre leggi, e l'app di flashcard che si costruisce da quello che traduci davvero.")
- (:landing-hero-trust-line . "7 giorni gratis. Nessuna carta.")
+ (:landing-hero-trust-line . "7 giorni gratis. Carta richiesta.")
  (:landing-credibility-languages . "15 lingue")
  (:landing-credibility-ai . "Ogni parola spiegata")
  (:landing-credibility-srs . "Ripetizione dilazionata integrata")

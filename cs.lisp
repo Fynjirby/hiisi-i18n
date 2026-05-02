@@ -630,7 +630,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Každé slovo vysvětlené. Každé opakování naplánované. Patnáct jazyků.")
  (:landing-hero-subheadline . "Hiisi je překladač, který vás učí gramatiku během čtení, a aplikace pro kartičky, která se buduje sama z toho, co skutečně překládáte.")
- (:landing-hero-trust-line . "7 dní zdarma. Bez karty.")
+ (:landing-hero-trust-line . "7 dní zdarma. Karta je vyžadována.")
  (:landing-credibility-languages . "15 jazyků")
  (:landing-credibility-ai . "Každé slovo vysvětlené")
  (:landing-credibility-srs . "Zabudované rozložené opakování")

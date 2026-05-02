@@ -632,7 +632,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Chaque mot expliqué. Chaque révision planifiée. Quinze langues.")
  (:landing-hero-subheadline . "Hiisi est le traducteur qui vous apprend la grammaire pendant que vous lisez, et l'application de cartes qui se construit à partir de ce que vous traduisez vraiment.")
- (:landing-hero-trust-line . "7 jours gratuits. Aucune carte requise.")
+ (:landing-hero-trust-line . "7 jours gratuits. Carte requise.")
  (:landing-credibility-languages . "15 langues")
  (:landing-credibility-ai . "Chaque mot expliqué")
  (:landing-credibility-srs . "Répétition espacée intégrée")

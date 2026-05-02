@@ -631,7 +631,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Каждое слово объяснено. Каждое повторение запланировано. Пятнадцать языков.")
  (:landing-hero-subheadline . "Hiisi — это переводчик, который учит вас грамматике во время чтения, и приложение с карточками, которое само строится из того, что вы действительно переводите.")
- (:landing-hero-trust-line . "7 дней бесплатно. Без карты.")
+ (:landing-hero-trust-line . "7 дней бесплатно. Требуется карта.")
  (:landing-credibility-languages . "15 языков")
  (:landing-credibility-ai . "Каждое слово объяснено")
  (:landing-credibility-srs . "Интервальное повторение встроено")

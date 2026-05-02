@@ -631,7 +631,7 @@
  ;; Landing page (redesign)
  (:landing-hero-headline . "Hvert ord forklaret. Hver repetition planlagt. Femten sprog.")
  (:landing-hero-subheadline . "Hiisi er oversætteren, der lærer dig grammatik, mens du læser, og flashkort-appen, der bygger sig selv op af det, du rent faktisk oversætter.")
- (:landing-hero-trust-line . "7 dage gratis. Uden kort.")
+ (:landing-hero-trust-line . "7 dage gratis. Kort kræves.")
  (:landing-credibility-languages . "15 sprog")
  (:landing-credibility-ai . "Hvert ord forklaret")
  (:landing-credibility-srs . "Distribueret repetition indbygget")
