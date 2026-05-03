@@ -277,7 +277,6 @@
  (:dashboard-days . "dni")
  (:dashboard-all-caught-up . "Wszystko nadrobione!")
  (:dashboard-all-caught-up-hint . "Tłumacz więcej, aby rozbudować swoją kolekcję.")
- (:dashboard-quick-actions . "Szybkie akcje")
  (:dashboard-getting-started . "Jak zacząć")
  (:dashboard-tip-1 . "Tłumacz tekst, którego chcesz się nauczyć")
  (:dashboard-tip-2 . "Kliknij \"Zapisz do fiszek\" przy tłumaczeniach, które chcesz zapamiętać")

@@ -276,7 +276,6 @@
  (:dashboard-days . "päivää")
  (:dashboard-all-caught-up . "Kaikki on kerrattu!")
  (:dashboard-all-caught-up-hint . "Käännä lisää ja kasvata kokoelmaasi.")
- (:dashboard-quick-actions . "Pikatoiminnot")
  (:dashboard-getting-started . "Näin pääset alkuun")
  (:dashboard-tip-1 . "Käännä tekstiä, jonka haluat oppia")
  (:dashboard-tip-2 . "Napsauta \"Tallenna muistikortteihin\" käännöksissä, jotka haluat muistaa")

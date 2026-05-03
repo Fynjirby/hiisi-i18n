@@ -277,7 +277,6 @@
  (:dashboard-days . "дней")
  (:dashboard-all-caught-up . "Все повторено!")
  (:dashboard-all-caught-up-hint . "Переводите больше, чтобы пополнять свою коллекцию.")
- (:dashboard-quick-actions . "Быстрые действия")
  (:dashboard-getting-started . "Начало работы")
  (:dashboard-tip-1 . "Переводите текст, который хотите выучить")
  (:dashboard-tip-2 . "Нажмите \"Сохранить в карточки\" на переводах, которые хотите запомнить")

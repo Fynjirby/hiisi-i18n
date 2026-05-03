@@ -277,7 +277,6 @@
  (:dashboard-days . "dager")
  (:dashboard-all-caught-up . "Alt er ajour!")
  (:dashboard-all-caught-up-hint . "Oversett mer for å bygge opp samlingen din.")
- (:dashboard-quick-actions . "Hurtighandlinger")
  (:dashboard-getting-started . "Kom i gang")
  (:dashboard-tip-1 . "Oversett tekst du vil lære")
  (:dashboard-tip-2 . "Klikk \"Lagre som flashcard\" på oversettelser du vil huske")

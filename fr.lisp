@@ -277,7 +277,6 @@
  (:dashboard-days . "jours")
  (:dashboard-all-caught-up . "Tout est à jour !")
  (:dashboard-all-caught-up-hint . "Traduisez davantage pour construire votre collection.")
- (:dashboard-quick-actions . "Actions rapides")
  (:dashboard-getting-started . "Premiers pas")
  (:dashboard-tip-1 . "Traduisez le texte que vous voulez apprendre")
  (:dashboard-tip-2 . "Cliquez sur \"Enregistrer en carte\" sur les traductions que vous voulez retenir")

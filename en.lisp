@@ -277,7 +277,6 @@
  (:dashboard-days . "days")
  (:dashboard-all-caught-up . "All caught up!")
  (:dashboard-all-caught-up-hint . "Translate more to build your collection.")
- (:dashboard-quick-actions . "Quick Actions")
  (:dashboard-getting-started . "Getting Started")
  (:dashboard-tip-1 . "Translate text you want to learn")
  (:dashboard-tip-2 . "Click \"Save to Flashcards\" on translations you want to remember")
