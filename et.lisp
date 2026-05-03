@@ -652,14 +652,14 @@
  (:landing-pricing-annual-after . "14 päeva tasuta, seejärel ~A/aasta")
  (:landing-faq-title . "Korduma kippuvad küsimused")
  (:landing-faq-trial-cap-q . "Mitu tõlget saan prooviperioodil?")
- (:landing-faq-trial-cap-a . "Saad 100 tõlget 14-päevase prooviperioodi jooksul. Pärast tellimist saad 600 kuus.")
+ (:landing-faq-trial-cap-a . "Saad 200 tõlget 14-päevase prooviperioodi jooksul. Pärast tellimist saad 600 kuus.")
  (:landing-final-cta-title . "Sinu esimene lause võtab viis sekundit.")
  (:landing-final-cta-subtitle . "Kleebi midagi soome, tšehhi, poola või ükskõik millises kaheteistkümnes teises keeles. Vaata, mis Hiisi sellega teeb. Neliteist päeva tasuta.")
 
  ;; Trial status (in-app)
  (:trial-status . "Tasuta prooviperiood")
  (:error-trial-quota-exceeded . "Proovitõlgete limiit täis")
- (:error-trial-quota-detail . "Oled kasutanud kõik 100 proovitõlget. Telli, et jätkata õppimist.")
+ (:error-trial-quota-detail . "Oled kasutanud kõik 200 proovitõlget. Telli, et jätkata õppimist.")
 
  ;; Custom flashcards
  (:custom-flashcard-create-title . "Loo õppekaart")

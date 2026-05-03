@@ -652,14 +652,14 @@
  (:landing-pricing-annual-after . "14 dagen gratis, daarna ~A/jaar")
  (:landing-faq-title . "Veelgestelde vragen")
  (:landing-faq-trial-cap-q . "Hoeveel vertalingen krijg ik tijdens de proefperiode?")
- (:landing-faq-trial-cap-a . "Je krijgt 100 vertalingen tijdens je 14-daagse proefperiode. Na het abonnement krijg je 600 per maand.")
+ (:landing-faq-trial-cap-a . "Je krijgt 200 vertalingen tijdens je 14-daagse proefperiode. Na het abonnement krijg je 600 per maand.")
  (:landing-final-cta-title . "Je eerste zin kost vijf seconden.")
  (:landing-final-cta-subtitle . "Plak iets in het Fins, Tsjechisch, Pools of een van de andere twaalf talen. Zie wat Hiisi ermee doet. Veertien dagen gratis.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis proefperiode")
  (:error-trial-quota-exceeded . "Proefvertalingslimiet bereikt")
- (:error-trial-quota-detail . "Je hebt alle 100 proefvertalingen gebruikt. Abonneer om door te leren.")
+ (:error-trial-quota-detail . "Je hebt alle 200 proefvertalingen gebruikt. Abonneer om door te leren.")
 
  ;; Custom flashcards
  (:custom-flashcard-create-title . "Flashcard aanmaken")

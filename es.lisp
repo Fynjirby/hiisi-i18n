@@ -653,14 +653,14 @@
  (:landing-pricing-annual-after . "14 días gratis, luego ~A/año")
  (:landing-faq-title . "Preguntas frecuentes")
  (:landing-faq-trial-cap-q . "¿Cuántas traducciones obtengo durante la prueba?")
- (:landing-faq-trial-cap-a . "Obtienes 100 traducciones durante tu prueba de 14 días. Después de suscribirte, obtienes 600 por mes.")
+ (:landing-faq-trial-cap-a . "Obtienes 200 traducciones durante tu prueba de 14 días. Después de suscribirte, obtienes 600 por mes.")
  (:landing-final-cta-title . "Tu primera frase tarda cinco segundos.")
  (:landing-final-cta-subtitle . "Pega lo que quieras en finés, checo, polaco o cualquiera de los otros doce idiomas. Mira lo que Hiisi hace con ello. Catorce días gratis.")
 
  ;; Trial status (in-app)
  (:trial-status . "Prueba gratuita")
  (:error-trial-quota-exceeded . "Límite de traducciones de prueba alcanzado")
- (:error-trial-quota-detail . "Has usado las 100 traducciones de prueba. Suscríbete para seguir aprendiendo.")
+ (:error-trial-quota-detail . "Has usado las 200 traducciones de prueba. Suscríbete para seguir aprendiendo.")
 
  ;; Custom flashcards
  (:custom-flashcard-create-title . "Crear tarjeta")

@@ -654,14 +654,14 @@
  (:landing-pricing-annual-after . "14-day free trial, then ~A/year")
  (:landing-faq-title . "Frequently Asked Questions")
  (:landing-faq-trial-cap-q . "How many translations do I get during the trial?")
- (:landing-faq-trial-cap-a . "You get 100 translations during your 14-day trial. After subscribing, you get 600 per month.")
+ (:landing-faq-trial-cap-a . "You get 200 translations during your 14-day trial. After subscribing, you get 600 per month.")
  (:landing-final-cta-title . "Your first sentence takes five seconds.")
  (:landing-final-cta-subtitle . "Paste anything in Finnish, Czech, Polish, or any of twelve other languages. See what Hiisi does with it. Fourteen days free.")
 
  ;; Trial status (in-app)
  (:trial-status . "Free Trial")
  (:error-trial-quota-exceeded . "Trial translation limit reached")
- (:error-trial-quota-detail . "You have used all 100 trial translations. Subscribe to continue learning.")
+ (:error-trial-quota-detail . "You have used all 200 trial translations. Subscribe to continue learning.")
 
  ;; Custom flashcards
  (:custom-flashcard-create-title . "Create Flashcard")

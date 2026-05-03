@@ -652,14 +652,14 @@
  (:landing-pricing-annual-after . "14 dní zdarma, pak ~A/rok")
  (:landing-faq-title . "Často kladené otázky")
  (:landing-faq-trial-cap-q . "Kolik překladů dostanu během zkušební doby?")
- (:landing-faq-trial-cap-a . "Během 14denní zkušební doby můžete přeložit až 100 textů. Po předplacení získáte 600 měsíčně.")
+ (:landing-faq-trial-cap-a . "Během 14denní zkušební doby můžete přeložit až 200 textů. Po předplacení získáte 600 měsíčně.")
  (:landing-final-cta-title . "První věta zabere pět sekund.")
  (:landing-final-cta-subtitle . "Vložte cokoli ve finštině, češtině, polštině nebo v kterémkoli z dvanácti dalších jazyků. Uvidíte, co s tím Hiisi udělá. Čtrnáct dní zdarma.")
 
  ;; Trial status (in-app)
  (:trial-status . "Zkušební doba")
  (:error-trial-quota-exceeded . "Dosaženo limitu zkušebních překladů")
- (:error-trial-quota-detail . "Využili jste všech 100 zkušebních překladů. Předplaťte si a pokračujte v učení.")
+ (:error-trial-quota-detail . "Využili jste všech 200 zkušebních překladů. Předplaťte si a pokračujte v učení.")
 
  ;; Custom flashcards
  (:custom-flashcard-create-title . "Vytvořit kartičku")

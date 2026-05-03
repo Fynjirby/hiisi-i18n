@@ -653,14 +653,14 @@
  (:landing-pricing-annual-after . "14 dage gratis, derefter ~A/år")
  (:landing-faq-title . "Ofte stillede spørgsmål")
  (:landing-faq-trial-cap-q . "Hvor mange oversættelser får jeg under prøveperioden?")
- (:landing-faq-trial-cap-a . "Du får 100 oversættelser i din 14-dages prøveperiode. Efter abonnement får du 600 om måneden.")
+ (:landing-faq-trial-cap-a . "Du får 200 oversættelser i din 14-dages prøveperiode. Efter abonnement får du 600 om måneden.")
  (:landing-final-cta-title . "Din første sætning tager fem sekunder.")
  (:landing-final-cta-subtitle . "Indsæt hvad som helst på finsk, tjekkisk, polsk eller et af de andre tolv sprog. Se, hvad Hiisi gør ved det. Fjorten dage gratis.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis prøveperiode")
  (:error-trial-quota-exceeded . "Grænse for prøveoversættelser nået")
- (:error-trial-quota-detail . "Du har brugt alle 100 prøveoversættelser. Abonner for at fortsætte med at lære.")
+ (:error-trial-quota-detail . "Du har brugt alle 200 prøveoversættelser. Abonner for at fortsætte med at lære.")
 
  ;; Custom flashcards
  (:custom-flashcard-create-title . "Opret flashkort")
