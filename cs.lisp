@@ -20,6 +20,7 @@
  (:nav-pricing . "Ceník")
  (:nav-institutions . "Pro instituce")
  (:nav-export-data . "Exportovat data")
+ (:nav-open-navigation . "Otevřít navigaci")
 
  ;; App title and branding
  (:app-title . "Hiisi - Studium jazyků")

@@ -20,6 +20,7 @@
  (:nav-pricing . "Hinnad")
  (:nav-institutions . "Asutustele")
  (:nav-export-data . "Ekspordi andmed")
+ (:nav-open-navigation . "Ava navigatsioon")
 
  ;; App title and branding
  (:app-title . "Hiisi - Keeleõpe")

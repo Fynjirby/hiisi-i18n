@@ -21,6 +21,7 @@
  (:nav-pricing . "Цены")
  (:nav-institutions . "Для учреждений")
  (:nav-export-data . "Экспорт данных")
+ (:nav-open-navigation . "Открыть навигацию")
 
  ;; App title and branding
  (:app-title . "Hiisi - Изучение языков")

@@ -20,6 +20,7 @@
  (:nav-pricing . "Prijzen")
  (:nav-institutions . "Voor instellingen")
  (:nav-export-data . "Gegevens exporteren")
+ (:nav-open-navigation . "Navigatie openen")
 
  ;; App title and branding
  (:app-title . "Hiisi - Talen leren")

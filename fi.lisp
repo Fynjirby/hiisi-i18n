@@ -20,6 +20,7 @@
  (:nav-pricing . "Hinnoittelu")
  (:nav-institutions . "Oppilaitoksille")
  (:nav-export-data . "Vie tiedot")
+ (:nav-open-navigation . "Avaa valikko")
 
  ;; App title and branding
  (:app-title . "Hiisi - Kielten oppiminen")

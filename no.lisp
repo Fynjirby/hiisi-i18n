@@ -21,6 +21,7 @@
  (:nav-pricing . "Priser")
  (:nav-institutions . "For institusjoner")
  (:nav-export-data . "Eksporter data")
+ (:nav-open-navigation . "Åpne navigasjonen")
 
  ;; App title and branding
  (:app-title . "Hiisi - Språklæring")
