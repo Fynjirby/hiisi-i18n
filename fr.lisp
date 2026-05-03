@@ -182,6 +182,7 @@
  (:translate-input-placeholder . "Entrez le texte à traduire...")
  (:translate-from . "Langue source :")
  (:translate-to . "Langue cible :")
+ (:translate-select-target-placeholder . "Sélectionnez la langue cible")
  (:translate-submit . "Traduire")
  (:translate-auto-detect . "N'importe laquelle (détection automatique)")
  (:translate-empty-state . "Traduisez un mot ou une phrase pour voir ici le résultat, l'analyse grammaticale et les actions d'étude.")

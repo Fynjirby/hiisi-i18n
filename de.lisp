@@ -182,6 +182,7 @@
  (:translate-input-placeholder . "Text zum Übersetzen eingeben...")
  (:translate-from . "Ausgangssprache:")
  (:translate-to . "Zielsprache:")
+ (:translate-select-target-placeholder . "Zielsprache auswählen")
  (:translate-submit . "Übersetzen")
  (:translate-auto-detect . "Beliebig (Automatisch erkennen)")
  (:translate-empty-state . "Übersetze ein Wort oder eine Phrase, dann siehst du hier das Ergebnis, die Grammatikaufschlüsselung und Lernaktionen.")

@@ -181,6 +181,7 @@
  (:translate-input-placeholder . "Napište něco...")
  (:translate-from . "Původní jazyk:")
  (:translate-to . "Jazyk překladu:")
+ (:translate-select-target-placeholder . "Vyberte jazyk překladu")
  (:translate-submit . "Přeložit")
  (:translate-auto-detect . "Jakýkoliv (Autodetekce)")
  (:translate-empty-state . "Přeložte slovo nebo frázi a tady uvidíte výsledek, gramatický rozbor i studijní akce.")

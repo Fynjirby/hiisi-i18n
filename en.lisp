@@ -182,6 +182,7 @@
  (:translate-input-placeholder . "Enter text to translate...")
  (:translate-from . "Source language:")
  (:translate-to . "Target language:")
+ (:translate-select-target-placeholder . "Select target language")
  (:translate-submit . "Translate")
  (:translate-auto-detect . "Any (Auto-detect)")
  (:translate-empty-state . "Translate a word or phrase to see the result, grammar breakdown, and study actions here.")

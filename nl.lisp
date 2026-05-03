@@ -181,6 +181,7 @@
  (:translate-input-placeholder . "Voer tekst in om te vertalen...")
  (:translate-from . "Brontaal:")
  (:translate-to . "Doeltaal:")
+ (:translate-select-target-placeholder . "Kies doeltaal")
  (:translate-submit . "Vertalen")
  (:translate-auto-detect . "Elke (Automatisch detecteren)")
  (:translate-empty-state . "Vertaal een woord of zin en hier zie je het resultaat, de grammaticale uitleg en studieacties.")

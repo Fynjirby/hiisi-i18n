@@ -182,6 +182,7 @@
  (:translate-input-placeholder . "Indtast tekst at oversætte...")
  (:translate-from . "Kildesprog:")
  (:translate-to . "Målsprog:")
+ (:translate-select-target-placeholder . "Vælg målsprog")
  (:translate-submit . "Oversæt")
  (:translate-auto-detect . "Alle (Automatisk)")
  (:translate-empty-state . "Oversæt et ord eller en frase, så ser du resultatet, grammatikgennemgangen og studiehandlingerne her.")

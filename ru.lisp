@@ -182,6 +182,7 @@
  (:translate-input-placeholder . "Введите текст для перевода...")
  (:translate-from . "Исходный язык:")
  (:translate-to . "Язык перевода:")
+ (:translate-select-target-placeholder . "Выберите язык перевода")
  (:translate-submit . "Перевести")
  (:translate-auto-detect . "Любой (Автоопределение)")
  (:translate-empty-state . "Переведите слово или фразу, и здесь появятся результат, грамматический разбор и учебные действия.")

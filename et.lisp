@@ -181,6 +181,7 @@
  (:translate-input-placeholder . "Sisesta tõlgitav tekst...")
  (:translate-from . "Lähtkeel:")
  (:translate-to . "Sihtkeel:")
+ (:translate-select-target-placeholder . "Vali sihtkeel")
  (:translate-submit . "Tõlgi")
  (:translate-auto-detect . "Suvaline (automaattuvastus)")
  (:translate-empty-state . "Tõlgi sõna või fraas ning siin näed tulemust, grammatika lahtikirjutust ja õppetoiminguid.")

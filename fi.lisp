@@ -181,6 +181,7 @@
  (:translate-input-placeholder . "Kirjoita käännettävä teksti...")
  (:translate-from . "Lähdekieli:")
  (:translate-to . "Kohdekieli:")
+ (:translate-select-target-placeholder . "Valitse kohdekieli")
  (:translate-submit . "Käännä")
  (:translate-auto-detect . "Mikä tahansa (tunnista automaattisesti)")
  (:translate-empty-state . "Käännä sana tai fraasi, niin näet täällä tuloksen, kielioppierittelyn ja opiskelutoiminnot.")

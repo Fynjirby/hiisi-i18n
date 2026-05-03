@@ -181,6 +181,7 @@
  (:translate-input-placeholder . "Skriv text att översätta...")
  (:translate-from . "Källspråk:")
  (:translate-to . "Målspråk:")
+ (:translate-select-target-placeholder . "Välj målspråk")
  (:translate-submit . "Översätt")
  (:translate-auto-detect . "Valfritt (Identifiera automatiskt)")
  (:translate-empty-state . "Översätt ett ord eller en fras så ser du resultatet, grammatikgenomgången och studieåtgärderna här.")
