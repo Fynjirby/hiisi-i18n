@@ -21,6 +21,8 @@
  (:nav-institutions . "Oppilaitoksille")
  (:nav-export-data . "Vie tiedot")
  (:nav-open-navigation . "Avaa valikko")
+ (:theme-light . "Vaalea")
+ (:theme-dark . "Tumma")
 
  ;; App title and branding
  (:app-title . "Hiisi - Kielten oppiminen")

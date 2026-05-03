@@ -21,6 +21,8 @@
  (:nav-institutions . "Asutustele")
  (:nav-export-data . "Ekspordi andmed")
  (:nav-open-navigation . "Ava navigatsioon")
+ (:theme-light . "Hele")
+ (:theme-dark . "Tume")
 
  ;; App title and branding
  (:app-title . "Hiisi - Keeleõpe")

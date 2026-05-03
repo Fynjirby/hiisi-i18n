@@ -22,6 +22,8 @@
  (:nav-institutions . "Für Institutionen")
  (:nav-export-data . "Daten exportieren")
  (:nav-open-navigation . "Navigation öffnen")
+ (:theme-light . "Hell")
+ (:theme-dark . "Dunkel")
 
  ;; App title and branding
  (:app-title . "Hiisi - Sprachenlernen")

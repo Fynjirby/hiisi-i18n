@@ -22,6 +22,8 @@
  (:nav-institutions . "For institutioner")
  (:nav-export-data . "Eksporter data")
  (:nav-open-navigation . "Åbn navigationen")
+ (:theme-light . "Lys")
+ (:theme-dark . "Mørk")
 
  ;; App title and branding
  (:app-title . "Hiisi - Sproglæring")

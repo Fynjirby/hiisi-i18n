@@ -22,6 +22,8 @@
  (:nav-institutions . "Para instituciones")
  (:nav-export-data . "Exportar datos")
  (:nav-open-navigation . "Abrir navegación")
+ (:theme-light . "Claro")
+ (:theme-dark . "Oscuro")
 
  ;; App title and branding
  (:app-title . "Hiisi - Aprendizaje de idiomas")
