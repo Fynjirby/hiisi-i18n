@@ -201,6 +201,10 @@
  (:pronunciation-label . "Pronúncia")
  (:pronunciation-show . "Mostrar pronúncia")
  (:pronunciation-hide . "Ocultar pronúncia")
+ (:grammar-term-examples . "Exemplos")
+ (:grammar-term-related . "Termos relacionados")
+ (:grammar-term-modal-title . "Termo gramatical")
+ (:grammar-term-empty . "Selecione um termo destacado para ver os detalhes.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

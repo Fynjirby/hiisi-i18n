@@ -201,6 +201,10 @@
  (:pronunciation-label . "Произношение")
  (:pronunciation-show . "Показать произношение")
  (:pronunciation-hide . "Скрыть произношение")
+ (:grammar-term-examples . "Примеры")
+ (:grammar-term-related . "Связанные термины")
+ (:grammar-term-modal-title . "Грамматический термин")
+ (:grammar-term-empty . "Выберите выделенный термин, чтобы увидеть подробности.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Авто")

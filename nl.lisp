@@ -200,6 +200,10 @@
  (:pronunciation-label . "Uitspraak")
  (:pronunciation-show . "Uitspraak tonen")
  (:pronunciation-hide . "Uitspraak verbergen")
+ (:grammar-term-examples . "Voorbeelden")
+ (:grammar-term-related . "Verwante termen")
+ (:grammar-term-modal-title . "Grammaticaterm")
+ (:grammar-term-empty . "Selecteer een gemarkeerde term om de details te zien.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

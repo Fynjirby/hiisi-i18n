@@ -200,6 +200,10 @@
  (:pronunciation-label . "Ääntäminen")
  (:pronunciation-show . "Näytä ääntäminen")
  (:pronunciation-hide . "Piilota ääntäminen")
+ (:grammar-term-examples . "Esimerkit")
+ (:grammar-term-related . "Liittyvät termit")
+ (:grammar-term-modal-title . "Kielioppitermi")
+ (:grammar-term-empty . "Valitse korostettu termi, niin näet lisätiedot.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

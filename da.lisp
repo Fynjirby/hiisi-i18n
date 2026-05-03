@@ -201,6 +201,10 @@
  (:pronunciation-label . "Udtale")
  (:pronunciation-show . "Vis udtale")
  (:pronunciation-hide . "Skjul udtale")
+ (:grammar-term-examples . "Eksempler")
+ (:grammar-term-related . "Relaterede termer")
+ (:grammar-term-modal-title . "Grammatikterm")
+ (:grammar-term-empty . "Vælg et fremhævet begreb for at se detaljerne.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

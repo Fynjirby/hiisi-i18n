@@ -200,6 +200,10 @@
  (:pronunciation-label . "Výslovnost")
  (:pronunciation-show . "Zobrazit výslovnost")
  (:pronunciation-hide . "Skrýt výslovnost")
+ (:grammar-term-examples . "Příklady")
+ (:grammar-term-related . "Související pojmy")
+ (:grammar-term-modal-title . "Gramatický pojem")
+ (:grammar-term-empty . "Vyberte zvýrazněný pojem pro zobrazení detailů.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

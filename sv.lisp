@@ -200,6 +200,10 @@
  (:pronunciation-label . "Uttal")
  (:pronunciation-show . "Visa uttal")
  (:pronunciation-hide . "Dölj uttal")
+ (:grammar-term-examples . "Exempel")
+ (:grammar-term-related . "Relaterade termer")
+ (:grammar-term-modal-title . "Grammatikterm")
+ (:grammar-term-empty . "Välj en markerad term för att se detaljer.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

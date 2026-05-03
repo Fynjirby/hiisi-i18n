@@ -200,6 +200,10 @@
  (:pronunciation-label . "Hääldus")
  (:pronunciation-show . "Näita hääldust")
  (:pronunciation-hide . "Peida hääldus")
+ (:grammar-term-examples . "Näited")
+ (:grammar-term-related . "Seotud mõisted")
+ (:grammar-term-modal-title . "Grammatikatermin")
+ (:grammar-term-empty . "Vali esiletõstetud termin, et näha üksikasju.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
