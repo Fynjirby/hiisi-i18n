@@ -204,6 +204,10 @@
  (:grammar-term-related . "Relaterade termer")
  (:grammar-term-modal-title . "Grammatikterm")
  (:grammar-term-empty . "Välj en markerad term för att se detaljer.")
+ (:extension-login-required . "Logga in på Hiisi innan du använder webbläsartillägget.")
+ (:extension-session-invalid . "Din Hiisi-session är inte längre giltig. Logga in igen.")
+ (:extension-activation-required . "Aktivera ditt Hiisi-konto innan du använder webbläsartillägget.")
+ (:extension-subscription-required . "Starta en Hiisi-provperiod innan du använder webbläsartillägget.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

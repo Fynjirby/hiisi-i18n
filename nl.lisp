@@ -204,6 +204,10 @@
  (:grammar-term-related . "Verwante termen")
  (:grammar-term-modal-title . "Grammaticaterm")
  (:grammar-term-empty . "Selecteer een gemarkeerde term om de details te zien.")
+ (:extension-login-required . "Log in bij Hiisi voordat je de browserextensie gebruikt.")
+ (:extension-session-invalid . "Je Hiisi-sessie is niet meer geldig. Log opnieuw in.")
+ (:extension-activation-required . "Activeer je Hiisi-account voordat je de browserextensie gebruikt.")
+ (:extension-subscription-required . "Start een Hiisi-proefperiode voordat je de browserextensie gebruikt.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

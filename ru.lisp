@@ -205,6 +205,10 @@
  (:grammar-term-related . "Связанные термины")
  (:grammar-term-modal-title . "Грамматический термин")
  (:grammar-term-empty . "Выберите выделенный термин, чтобы увидеть подробности.")
+ (:extension-login-required . "Войдите в Hiisi перед использованием расширения браузера.")
+ (:extension-session-invalid . "Ваш сеанс Hiisi больше недействителен. Войдите снова.")
+ (:extension-activation-required . "Активируйте свой аккаунт Hiisi перед использованием расширения браузера.")
+ (:extension-subscription-required . "Запустите пробный период Hiisi перед использованием расширения браузера.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Авто")

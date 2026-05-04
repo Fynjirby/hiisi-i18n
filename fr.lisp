@@ -205,6 +205,10 @@
  (:grammar-term-related . "Termes associés")
  (:grammar-term-modal-title . "Terme grammatical")
  (:grammar-term-empty . "Sélectionnez un terme surligné pour voir les détails.")
+ (:extension-login-required . "Connectez-vous à Hiisi avant d'utiliser l'extension de navigateur.")
+ (:extension-session-invalid . "Votre session Hiisi n'est plus valide. Connectez-vous à nouveau.")
+ (:extension-activation-required . "Activez votre compte Hiisi avant d'utiliser l'extension de navigateur.")
+ (:extension-subscription-required . "Commencez un essai Hiisi avant d'utiliser l'extension de navigateur.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

@@ -204,6 +204,10 @@
  (:grammar-term-related . "Seotud mõisted")
  (:grammar-term-modal-title . "Grammatikatermin")
  (:grammar-term-empty . "Vali esiletõstetud termin, et näha üksikasju.")
+ (:extension-login-required . "Logi Hiisisse sisse enne brauserilaienduse kasutamist.")
+ (:extension-session-invalid . "Sinu Hiisi seanss ei kehti enam. Logi uuesti sisse.")
+ (:extension-activation-required . "Aktiveeri oma Hiisi konto enne brauserilaienduse kasutamist.")
+ (:extension-subscription-required . "Alusta Hiisi prooviperioodi enne brauserilaienduse kasutamist.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

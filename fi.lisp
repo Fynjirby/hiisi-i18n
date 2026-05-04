@@ -204,6 +204,10 @@
  (:grammar-term-related . "Liittyvät termit")
  (:grammar-term-modal-title . "Kielioppitermi")
  (:grammar-term-empty . "Valitse korostettu termi, niin näet lisätiedot.")
+ (:extension-login-required . "Kirjaudu Hiisiin ennen selainlaajennuksen käyttöä.")
+ (:extension-session-invalid . "Hiisi-istuntosi ei ole enää voimassa. Kirjaudu uudelleen.")
+ (:extension-activation-required . "Aktivoi Hiisi-tilisi ennen selainlaajennuksen käyttöä.")
+ (:extension-subscription-required . "Aloita Hiisi-kokeilu ennen selainlaajennuksen käyttöä.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

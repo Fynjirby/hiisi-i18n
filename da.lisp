@@ -205,6 +205,10 @@
  (:grammar-term-related . "Relaterede termer")
  (:grammar-term-modal-title . "Grammatikterm")
  (:grammar-term-empty . "Vælg et fremhævet begreb for at se detaljerne.")
+ (:extension-login-required . "Log ind på Hiisi, før du bruger browserudvidelsen.")
+ (:extension-session-invalid . "Din Hiisi-session er ikke længere gyldig. Log ind igen.")
+ (:extension-activation-required . "Aktivér din Hiisi-konto, før du bruger browserudvidelsen.")
+ (:extension-subscription-required . "Start en Hiisi-prøveperiode, før du bruger browserudvidelsen.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")

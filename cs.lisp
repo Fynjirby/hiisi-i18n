@@ -204,6 +204,10 @@
  (:grammar-term-related . "Související pojmy")
  (:grammar-term-modal-title . "Gramatický pojem")
  (:grammar-term-empty . "Vyberte zvýrazněný pojem pro zobrazení detailů.")
+ (:extension-login-required . "Před použitím rozšíření prohlížeče se přihlaste do Hiisi.")
+ (:extension-session-invalid . "Vaše relace Hiisi už není platná. Přihlaste se znovu.")
+ (:extension-activation-required . "Před použitím rozšíření prohlížeče aktivujte svůj účet Hiisi.")
+ (:extension-subscription-required . "Před použitím rozšíření prohlížeče spusťte zkušební období Hiisi.")
 
  ;; Translation and Flashcards
  (:lang-auto . "Auto")
